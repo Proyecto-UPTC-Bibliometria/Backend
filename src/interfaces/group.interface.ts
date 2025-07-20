@@ -1,0 +1,25 @@
+import mongoose from "mongoose";
+
+export default interface Group {
+  _id?: mongoose.Types.ObjectId;
+  name: string;
+  formationDate: Date;
+  location: {
+    department: string;
+    city: string;
+  };
+  leader: mongoose.Types.ObjectId;
+  isCertified: boolean;
+  website?: string;
+  email: string;
+  ranking: string;
+  knowledgeArea: string;
+  mainScienceProgram: string;
+  secondaryScienceProgram: string;
+  strategicPlan: string;
+  investigationLines: string[];
+  members: mongoose.Types.ObjectId[];
+  publications: mongoose.Types.ObjectId[];
+  createdAt?: Date;
+  updatedAt?: Date;
+}
