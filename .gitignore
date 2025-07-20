@@ -1,0 +1,11 @@
+# Logs
+/.vscode
+
+# Dependencies
+/node_modules
+
+# Build directory
+/dist
+
+# Enviroment variables
+.env
