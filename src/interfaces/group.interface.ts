@@ -19,8 +19,8 @@ export default interface Group {
   secondaryScienceProgram: string;
   strategicPlan: string;
   investigationLines: string[];
-  members: mongoose.Types.ObjectId[];
-  publications: mongoose.Types.ObjectId[];
+  members: mongoose.Types.ObjectId[] | null;
+  publications: mongoose.Types.ObjectId[] | null;
   createdAt?: Date;
   updatedAt?: Date;
 }

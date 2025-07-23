@@ -1,3 +1,5 @@
+import mongoose from "mongoose";
+
 export default interface Publication {
   id?: string;
   type: string;
@@ -5,6 +7,7 @@ export default interface Publication {
   country: string;
   year: number;
   volume: string;
+  group?: string | mongoose.Types.ObjectId;
   issn: string;
   pages: string;
   doi: string;
