@@ -11,6 +11,7 @@ export default interface Group {
   leader: mongoose.Types.ObjectId;
   isCertified: boolean;
   website?: string;
+  url: string;
   email: string;
   ranking: string;
   knowledgeArea: string;

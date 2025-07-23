@@ -5,6 +5,7 @@ export default interface Member {
   name: string;
   state: string;
   dedicatedHours: number;
+  cvUrl?: string;
   createdAt?: Date;
   updatedAt?: Date;
 }

@@ -14,6 +14,7 @@ const groupSchema = new mongoose.Schema({
   },
   isCertified: { type: Boolean, default: false },
   website: { type: String, required: false },
+  url: { type: String, required: true },
   email: { type: String, required: true },
   ranking: { type: String, required: true },
   knowledgeArea: { type: String, required: true },
