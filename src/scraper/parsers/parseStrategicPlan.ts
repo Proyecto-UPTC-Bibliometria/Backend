@@ -1,5 +1,7 @@
 import StrategicPlan from "../../interfaces/auxiliars/strategicPlan.interface";
 
+// TODO: Add error handling and logging
+
 export default function parseStrategicPlan(text: Element[]) {
   function formatText(text: string): StrategicPlan {
     const normalizedText = text.replace(/\r\n|\r|\n/g, "\n").trim();

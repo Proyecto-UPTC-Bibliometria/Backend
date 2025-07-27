@@ -1,6 +1,8 @@
 import ExternalGroupData from "../../interfaces/auxiliars/externalGroupData.interface";
 import Group from "../../interfaces/group.interface";
 
+// TODO: Add error handling and logging
+
 export default function parseGroupsData(
   columns: Element[],
   externalData: ExternalGroupData
@@ -8,36 +10,33 @@ export default function parseGroupsData(
   const { name, url, strategicPlan, investigationLines } = externalData;
 
   function getTextContent(element: Element, child: number): string {
-    if (!element) return "";
+    const text = element.querySelector(
+      `tr:nth-child(${child}) td:nth-child(2)`
+    );
 
-    const text =
-      element
-        .querySelector(`tr:nth-child(${child}) td:nth-child(2)`)
-        ?.textContent?.trim()
-        .toLowerCase() || "";
+    if (!text) return "";
 
-    return text.replace(/\s+/g, " ");
+    return capitalize(
+      text.textContent?.trim().toLowerCase().replace(/\s+/g, " ") || ""
+    );
   }
 
   function getUrlText(element: Element, child: number, href?: boolean): string {
-    if (!element) return "";
+    const link = element.querySelector(
+      `tr:nth-child(${child}) td:nth-child(2) a`
+    );
 
-    const hrefText =
-      element
-        .querySelector(`tr:nth-child(${child}) td:nth-child(2) a`)
-        ?.getAttribute("href")
-        ?.trim()
-        .toLowerCase() || "";
+    if (!link) return "";
 
-    const elementText =
-      element
-        .querySelector(`tr:nth-child(${child}) td:nth-child(2) a`)
-        ?.textContent?.trim()
-        .toLowerCase() || "";
+    const text = href
+      ? link.getAttribute("href") || ""
+      : link.textContent || "";
 
-    return href
-      ? hrefText.replace(/\s+/g, " ")
-      : elementText.replace(/\s+/g, " ");
+    return text?.trim().toLowerCase().replace(/\s+/g, " ") || "";
+  }
+
+  function capitalize(text: string): string {
+    return text.replace(/\b\w/g, (letter) => letter.toUpperCase());
   }
 
   return columns.map((column) => {
@@ -53,7 +52,6 @@ export default function parseGroupsData(
     const knowledgeArea = getTextContent(column, 9);
     const mainScienceProgram = getTextContent(column, 10);
     const secondaryScienceProgram = getTextContent(column, 11);
-
     const location = {
       department,
       city,

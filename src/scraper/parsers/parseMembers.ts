@@ -1,45 +1,50 @@
 import Member from "../../interfaces/member.interface.js";
 
 // TODO: Add error handling and logging
-// TODO: Refactor -> Move the getTextContent function to a file
 
 export default function parseMembers(rows: Element[]): Member[] {
-  function getTextContent(element: Element): string {
-    if (!element) return "";
-    const text = element.textContent?.trim().toLowerCase() || "";
+  function getTextContent(element: Element, child: number): string {
+    const text = element.querySelector(`td:nth-child(${child})`);
 
-    return text.replace(/\s+/g, " ");
+    if (!text) return "";
+
+    return capitalize(
+      text.textContent?.trim().toLowerCase().replace(/\s+/g, " ") || ""
+    );
   }
 
-  return rows
-    .map((row) => {
-      const stateData = row.querySelector("td:nth-child(4)");
-      const memberData = row
-        .querySelector("td:nth-child(1)")
-        ?.querySelector("a");
+  function getUrlText(element: Element, child: number, href?: boolean): string {
+    const link = element.querySelector(`td:nth-child(${child}) a`);
 
-      if (!memberData || !stateData) return;
+    if (!link) return "";
 
-      const name = getTextContent(memberData);
-      const cvUrl = memberData.getAttribute("href")?.trim();
+    const text = href
+      ? link.getAttribute("href") || ""
+      : link.textContent || "";
 
-      const dedicatedHours = parseInt(
-        row.querySelector("td:nth-child(3)")?.textContent?.trim() || "0"
-      );
+    return capitalize(text?.trim().toLowerCase().replace(/\s+/g, " ") || "");
+  }
 
-      const state =
-        getTextContent(stateData).split(" - ")[1] === "Actual"
-          ? "activo"
-          : "inactivo";
+  function capitalize(text: string): string {
+    return text.replace(/\b\w/g, (letter) => letter.toUpperCase());
+  }
 
-      if (!name || !state) return;
+  return rows.map((row) => {
+    const name = getUrlText(row, 1);
+    const cvUrl = getUrlText(row, 1, true);
+    const dedicatedHours = parseInt(getTextContent(row, 3) || "0");
+    const state =
+      getTextContent(row, 4).split(" - ")[1] === "Actual"
+        ? "Activo"
+        : "Inactivo";
 
-      return {
-        name,
-        state,
-        dedicatedHours,
-        cvUrl,
-      } as Member;
-    })
-    .filter((member): member is Member => member !== undefined);
+    const member: Member = {
+      name,
+      state,
+      dedicatedHours,
+      cvUrl,
+    };
+
+    return member;
+  });
 }

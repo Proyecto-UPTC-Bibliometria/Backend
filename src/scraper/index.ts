@@ -3,7 +3,7 @@ import getGroupsUrl from "./extractors/getGroupsUrl.js";
 import getMembers from "./extractors/getMembers.js";
 
 async function main() {
-  const groups = await getGroupsData();
+  const groups = await getMembers();
 
   console.log("Groups extracted:", groups?.length);
 
