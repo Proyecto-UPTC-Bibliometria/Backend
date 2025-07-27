@@ -8,18 +8,20 @@ import parseMembers from "../parsers/parseMembers.js";
 
 // TODO: Add logging
 // FIXME: Handle errors properly
+// TODO: Refactor
 
-export default async function getMembers() {
+export default async function getMembers(): Promise<Member[] | undefined> {
   const browser = await launchBrowser();
   const groupsUrls = await getGroupsUrl();
   const allMembers: Member[] = [];
+  const batchSize = 60;
 
   try {
     if (!groupsUrls || groupsUrls.length === 0) {
       throw new Error("No groups found");
     }
 
-    const processGrop = async (group: GroupUrl) => {
+    const processMembers = async (group: GroupUrl): Promise<Member[]> => {
       try {
         if (!group.url) return [];
 
@@ -29,6 +31,7 @@ export default async function getMembers() {
         if (tables.length < 5) return [];
 
         const membersTable = tables[4];
+
         const members = await membersTable.$$eval("tbody tr", parseMembers);
 
         if (!members || members.length === 0) {
@@ -49,7 +52,6 @@ export default async function getMembers() {
       }
     };
 
-    const batchSize = 60;
     for (let i = 0; i < groupsUrls.length; i += batchSize) {
       const batch = groupsUrls.slice(i, i + batchSize);
 
@@ -60,7 +62,7 @@ export default async function getMembers() {
       );
 
       const batchPromises = batch.map((group) =>
-        processGrop(group as GroupUrl)
+        processMembers(group as GroupUrl)
       );
       const batchResults = await Promise.all(batchPromises);
 

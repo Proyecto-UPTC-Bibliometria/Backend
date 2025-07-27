@@ -44,7 +44,7 @@ export default async function loadPage(
       await page.close();
       await context.close();
 
-      if (attempt < 3) {
+      if (attempt < 5) {
         await new Promise((resolve) => setTimeout(resolve, 500 * attempt));
       }
     }

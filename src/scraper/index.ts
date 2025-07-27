@@ -1,14 +1,15 @@
+import getGroupsData from "./extractors/getGroupsData.js";
 import getGroupsUrl from "./extractors/getGroupsUrl.js";
 import getMembers from "./extractors/getMembers.js";
 
 async function main() {
-  const members = await getMembers();
+  const groups = await getGroupsData();
 
-  console.log("Members extracted:", members?.length);
+  console.log("Groups extracted:", groups?.length);
 
-  console.log("First member:", members?.[0]);
+  console.log("First Group:", groups?.[0]);
 
-  console.log(members);
+  console.log(groups);
 }
 
 main();

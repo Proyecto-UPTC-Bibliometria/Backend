@@ -1,4 +1,4 @@
-import GroupUrl from "../../interfaces/groupUrl.interface";
+import GroupUrl from "../../interfaces/groupUrl.interface.js";
 
 // TODO: Add error handling and logging
 export default function parseGroupsUrl(groups: Element[]): GroupUrl[] {

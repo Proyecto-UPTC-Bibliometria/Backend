@@ -9,8 +9,7 @@ const groupSchema = new mongoose.Schema(
       city: { type: String, required: true },
     },
     leader: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: "Member",
+      type: String,
       required: true,
     },
     isCertified: { type: Boolean, default: false },
@@ -21,7 +20,13 @@ const groupSchema = new mongoose.Schema(
     knowledgeArea: { type: String, required: true },
     mainScienceProgram: { type: String, required: true },
     secondaryScienceProgram: { type: String, required: true },
-    strategicPlan: { type: String, required: true },
+    strategicPlan: {
+      plan: { type: String, required: false },
+      stateOfArt: { type: String, required: false },
+      objectives: { type: String, required: false },
+      challenges: { type: String, required: false },
+      vision: { type: String, required: false },
+    },
     investigationLines: { type: [String], required: true },
   },
   {

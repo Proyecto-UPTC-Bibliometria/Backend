@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import StrategicPlan from "./auxiliars/strategicPlan.interface";
 
 export default interface Group {
   _id?: mongoose.Types.ObjectId;
@@ -8,7 +9,7 @@ export default interface Group {
     department: string;
     city: string;
   };
-  leader: mongoose.Types.ObjectId;
+  leader: string;
   isCertified: boolean;
   website?: string;
   url: string;
@@ -17,10 +18,10 @@ export default interface Group {
   knowledgeArea: string;
   mainScienceProgram: string;
   secondaryScienceProgram: string;
-  strategicPlan: string;
+  strategicPlan: StrategicPlan;
   investigationLines: string[];
-  members: mongoose.Types.ObjectId[] | null;
-  publications: mongoose.Types.ObjectId[] | null;
+  members?: mongoose.Types.ObjectId[] | null;
+  publications?: mongoose.Types.ObjectId[] | null;
   createdAt?: Date;
   updatedAt?: Date;
 }
