@@ -1,7 +1,5 @@
 import Member from "../../interfaces/member.interface.js";
 
-// TODO: Add error handling and logging
-
 export default function parseMembers(rows: Element[]): Member[] {
   function getTextContent(element: Element, child: number): string {
     const text = element.querySelector(`td:nth-child(${child})`);

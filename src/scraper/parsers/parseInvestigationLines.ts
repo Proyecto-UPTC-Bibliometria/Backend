@@ -1,5 +1,3 @@
-// TODO: Add error handling and logging
-
 export default function parseInvestigationLines(rows: Element[]): string[] {
   function capitalize(text: string): string {
     return text.replace(/\b\w/g, (letter) => letter.toUpperCase());

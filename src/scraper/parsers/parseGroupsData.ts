@@ -1,8 +1,6 @@
 import ExternalGroupData from "../../interfaces/auxiliars/externalGroupData.interface";
 import Group from "../../interfaces/group.interface";
 
-// TODO: Add error handling and logging
-
 export default function parseGroupsData(
   columns: Element[],
   externalData: ExternalGroupData

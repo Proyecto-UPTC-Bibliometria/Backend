@@ -1,8 +1,5 @@
-import Group from "../../interfaces/group.interface";
+import chalk from "chalk";
 import GroupUrl from "../../interfaces/groupUrl.interface";
-import Member from "../../interfaces/member.interface";
-
-// FIXME: Fix logging messages
 
 export default async function batchProcessor<T>(
   urls: GroupUrl[],
@@ -15,9 +12,7 @@ export default async function batchProcessor<T>(
     const batch = urls.slice(i, i + batchSize);
 
     console.log(
-      `Processing batch ${Math.floor(i / batchSize) + 1}: ${
-        batch.length
-      } groups`
+      chalk.gray(`\n◔ Processing batch #${Math.floor(i / batchSize) + 1}`)
     );
 
     const batchPromises = batch.map((group) => process(group as GroupUrl));
@@ -29,7 +24,11 @@ export default async function batchProcessor<T>(
       }
     });
 
-    console.log(`Completed batch. Total members so far: ${data.length}`);
+    console.log(
+      chalk.green("✓"),
+      chalk.gray("Completed batch. Items found:"),
+      chalk.blue(data.length)
+    );
   }
 
   return data;

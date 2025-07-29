@@ -1,3 +1,4 @@
+import chalk from "chalk";
 import Group from "../../interfaces/group.interface.js";
 import GroupUrl from "../../interfaces/groupUrl.interface.js";
 import capitalize from "../../utils/capitalize.js";
@@ -9,10 +10,9 @@ import parseStrategicPlan from "../parsers/parseStrategicPlan.js";
 import batchProcessor from "../utils/batchProcessor.js";
 import getGroupsUrl from "./getGroupsUrl.js";
 
-// TODO: Add logging
-// FIXME: Handle errors properly
+export default async function getGroupsData(): Promise<Group[] | undefined> {
+  console.log(chalk.gray("◔ Processing groups..."));
 
-export default async function getGroupsData() {
   const browser = await launchBrowser();
   const groupsUrls = await getGroupsUrl();
 
@@ -26,8 +26,6 @@ export default async function getGroupsData() {
 
         const page = await loadPage(browser, group.url);
         const tables = await page.$$("table");
-
-        if (tables.length < 5) throw new Error("Not enough tables in the page");
 
         const strategicPlan = await tables[2].$$eval(
           "tbody tr:nth-child(2)",
@@ -50,7 +48,10 @@ export default async function getGroupsData() {
       } catch (error) {
         const typedError = error as Error;
 
-        console.error("Error extracting members:", typedError);
+        console.error(
+          chalk.red("\n✕ Error extracting groups:"),
+          typedError.message
+        );
         return [];
       }
     };
@@ -58,14 +59,21 @@ export default async function getGroupsData() {
     const groupsData = await batchProcessor(groupsUrls, processGroup);
 
     console.log(
-      `Processing completed. Total members found: ${groupsData.length}`
+      chalk.green("\n✓"),
+      "Processing completed. Total groups found:",
+      chalk.blue(groupsData.length)
     );
+
+    console.log(chalk.gray("▶ Total groups expected:"), chalk.yellow(152));
 
     return groupsData;
   } catch (error) {
     const typedError = error as Error;
 
-    console.error("Error extracting members:", typedError);
+    console.error(
+      chalk.red("\n✕ Error extracting groups:"),
+      typedError.message
+    );
   } finally {
     await browser.close();
   }

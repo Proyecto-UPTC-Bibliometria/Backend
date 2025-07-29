@@ -1,6 +1,5 @@
 import GroupUrl from "../../interfaces/groupUrl.interface.js";
 
-// TODO: Add error handling and logging
 export default function parseGroupsUrl(groups: Element[]): GroupUrl[] {
   return groups.map((el) => {
     const group = el.querySelector("td:nth-child(3)");
