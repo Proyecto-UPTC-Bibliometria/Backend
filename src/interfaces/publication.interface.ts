@@ -7,7 +7,7 @@ export default interface Publication {
   country: string;
   year: number;
   volume: string;
-  group?: string | mongoose.Types.ObjectId;
+  group?: string;
   issn: string;
   pages: string;
   doi: string;

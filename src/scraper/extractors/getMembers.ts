@@ -8,7 +8,7 @@ import batchProcessor from "../utils/batchProcessor.js";
 import chalk from "chalk";
 
 export default async function getMembers(): Promise<Member[] | undefined> {
-  console.log(chalk.gray("◔ Processing members..."));
+  console.log(chalk.gray("\n◔ Processing members..."));
 
   const browser = await launchBrowser();
   const groupsUrls = await getGroupsUrl();
@@ -24,16 +24,15 @@ export default async function getMembers(): Promise<Member[] | undefined> {
         const page = await loadPage(browser, group.url);
         const tables = await page.$$("table");
 
-        const members = await tables[4].$$eval("tbody tr", parseMembers);
+        const members = await tables[4].$$eval("tbody tr", parseMembers, {
+          group: group.name.toUpperCase().replaceAll(/\s+/g, " ") || "",
+        });
 
         return members;
       } catch (error) {
         const typedError = error as Error;
 
-        console.error(
-          chalk.red("\n✕ Error extracting members:"),
-          typedError.message
-        );
+        console.error(chalk.red("\n✕ Error extracting members:"), typedError);
         return [];
       }
     };
@@ -52,10 +51,7 @@ export default async function getMembers(): Promise<Member[] | undefined> {
   } catch (error) {
     const typedError = error as Error;
 
-    console.error(
-      chalk.red("\n✕ Error extracting members:"),
-      typedError.message
-    );
+    console.error(chalk.red("\n✕ Error extracting members:"), typedError);
   } finally {
     await browser.close();
   }

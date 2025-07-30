@@ -11,7 +11,7 @@ import batchProcessor from "../utils/batchProcessor.js";
 import getGroupsUrl from "./getGroupsUrl.js";
 
 export default async function getGroupsData(): Promise<Group[] | undefined> {
-  console.log(chalk.gray("◔ Processing groups..."));
+  console.log(chalk.gray("\n◔ Processing groups..."));
 
   const browser = await launchBrowser();
   const groupsUrls = await getGroupsUrl();
@@ -38,7 +38,9 @@ export default async function getGroupsData(): Promise<Group[] | undefined> {
         );
 
         const groupData = await tables[0].$$eval("tbody", parseGroupsData, {
-          name: capitalize(group.name.toLowerCase()),
+          name: capitalize(
+            group.name.toLowerCase().replaceAll(/\s+/g, " ") || ""
+          ),
           url: group.url,
           strategicPlan: strategicPlan,
           investigationLines: investigationLines,
@@ -48,10 +50,7 @@ export default async function getGroupsData(): Promise<Group[] | undefined> {
       } catch (error) {
         const typedError = error as Error;
 
-        console.error(
-          chalk.red("\n✕ Error extracting groups:"),
-          typedError.message
-        );
+        console.error(chalk.red("\n✕ Error extracting groups:"), typedError);
         return [];
       }
     };
@@ -70,10 +69,7 @@ export default async function getGroupsData(): Promise<Group[] | undefined> {
   } catch (error) {
     const typedError = error as Error;
 
-    console.error(
-      chalk.red("\n✕ Error extracting groups:"),
-      typedError.message
-    );
+    console.error(chalk.red("\n✕ Error extracting groups:"), typedError);
   } finally {
     await browser.close();
   }

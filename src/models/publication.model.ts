@@ -8,7 +8,7 @@ const publicationSchema = new mongoose.Schema(
     year: { type: Number, required: true },
     volume: { type: String, required: true },
     group: {
-      type: mongoose.Schema.Types.ObjectId,
+      type: String,
       ref: "Group",
       required: true,
     },

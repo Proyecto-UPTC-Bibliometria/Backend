@@ -1,6 +1,8 @@
 export default function parseInvestigationLines(rows: Element[]): string[] {
   function capitalize(text: string): string {
-    return text.replace(/\b\w/g, (letter) => letter.toUpperCase());
+    return text.replace(/(?:^|\s)(\p{L})/gu, (match, letter) =>
+      match.replace(letter, letter.toUpperCase())
+    );
   }
 
   return rows.slice(1).map((row) => {

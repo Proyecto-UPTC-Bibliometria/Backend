@@ -3,6 +3,7 @@ import StrategicPlan from "./auxiliars/strategicPlan.interface";
 
 export default interface Group {
   _id?: mongoose.Types.ObjectId;
+  groupId: string;
   name: string;
   formationDate: Date;
   location: {

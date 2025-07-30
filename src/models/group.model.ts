@@ -2,6 +2,7 @@ import mongoose from "mongoose";
 
 const groupSchema = new mongoose.Schema(
   {
+    groupId: { type: String, unique: true, required: true },
     name: { type: String, required: true },
     formationDate: { type: Date, required: true },
     location: {
@@ -37,15 +38,17 @@ const groupSchema = new mongoose.Schema(
   }
 );
 
+groupSchema.index({ groupId: 1 }, { unique: true });
+
 groupSchema.virtual("members", {
   ref: "Member",
-  localField: "_id",
+  localField: "groupId",
   foreignField: "group",
 });
 
 groupSchema.virtual("publications", {
   ref: "Publication",
-  localField: "_id",
+  localField: "groupId",
   foreignField: "group",
 });
 

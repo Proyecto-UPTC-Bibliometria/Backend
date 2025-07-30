@@ -21,10 +21,7 @@ export default async function getGroupsUrl() {
   } catch (error) {
     const typedError = error as Error;
 
-    console.error(
-      chalk.red("\n✕ Error getting groups URL:"),
-      typedError.message
-    );
+    console.error(chalk.red("\n✕ Error getting groups URL:"), typedError);
   } finally {
     await browser.close();
   }

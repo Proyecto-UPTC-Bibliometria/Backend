@@ -34,7 +34,9 @@ export default function parseGroupsData(
   }
 
   function capitalize(text: string): string {
-    return text.replace(/\b\w/g, (letter) => letter.toUpperCase());
+    return text.replace(/(?:^|\s)(\p{L})/gu, (match, letter) =>
+      match.replace(letter, letter.toUpperCase())
+    );
   }
 
   return columns.map((column) => {
@@ -57,11 +59,12 @@ export default function parseGroupsData(
 
     const group: Group = {
       name: name,
+      groupId: `GROUP_${name.toUpperCase().replaceAll(" ", "_")}`,
       formationDate,
       location,
       leader,
       isCertified,
-      website,
+      website: website === "null" ? "" : website,
       url: url,
       email,
       ranking,
