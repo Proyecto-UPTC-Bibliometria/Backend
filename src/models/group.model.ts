@@ -6,8 +6,8 @@ const groupSchema = new mongoose.Schema(
     name: { type: String, required: true },
     formationDate: { type: Date, required: true },
     location: {
-      department: { type: String, required: true },
-      city: { type: String, required: true },
+      department: { type: String, required: false },
+      city: { type: String, required: false },
     },
     leader: {
       type: String,
@@ -17,7 +17,7 @@ const groupSchema = new mongoose.Schema(
     website: { type: String, required: false },
     url: { type: String, required: true },
     email: { type: String, required: true },
-    ranking: { type: String, required: true },
+    ranking: { type: String, required: false },
     knowledgeArea: { type: String, required: true },
     mainScienceProgram: { type: String, required: true },
     secondaryScienceProgram: { type: String, required: true },
@@ -38,7 +38,7 @@ const groupSchema = new mongoose.Schema(
   }
 );
 
-groupSchema.index({ groupId: 1 }, { unique: true });
+// groupSchema.index({ groupId: 1 }, { unique: true });
 
 groupSchema.virtual("members", {
   ref: "Member",
