@@ -23,6 +23,4 @@ export default interface Group {
   investigationLines: string[];
   members?: mongoose.Types.ObjectId[] | null;
   publications?: mongoose.Types.ObjectId[] | null;
-  createdAt?: Date;
-  updatedAt?: Date;
 }

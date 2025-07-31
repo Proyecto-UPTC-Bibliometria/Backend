@@ -7,6 +7,4 @@ export default interface Member {
   state: string;
   dedicatedHours: number;
   cvUrl?: string;
-  createdAt?: Date;
-  updatedAt?: Date;
 }

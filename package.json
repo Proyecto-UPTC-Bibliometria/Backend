@@ -2,10 +2,10 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "Web scrapping and Project API",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "tsc && node dist/index.js",
-    "dev": "tsc-watch --onSuccess \"node dist/index.js\"",
+    "start": "tsc && node dist/server.js",
+    "dev": "tsc-watch --onSuccess \"node dist/server.js\"",
     "build": "tsc",
     "scrape": "tsc && node dist/scraper/index.js",
     "seed": "tsc && node dist/seed/seed.js",

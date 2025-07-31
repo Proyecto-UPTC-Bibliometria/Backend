@@ -12,7 +12,7 @@ const memberSchema = new mongoose.Schema(
     dedicatedHours: { type: Number, required: true },
     cvUrl: { type: String, required: true },
   },
-  { timestamps: true, versionKey: false }
+  { timestamps: false, versionKey: false }
 );
 
 export default mongoose.model("Member", memberSchema);

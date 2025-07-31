@@ -33,7 +33,7 @@ const groupSchema = new mongoose.Schema(
   {
     toJSON: { virtuals: true },
     toObject: { virtuals: true },
-    timestamps: true,
+    timestamps: false,
     versionKey: false,
   }
 );

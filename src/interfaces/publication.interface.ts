@@ -13,6 +13,4 @@ export default interface Publication {
   doi: string;
   authors: string[];
   content: string;
-  createdAt?: Date;
-  updatedAt?: Date;
 }

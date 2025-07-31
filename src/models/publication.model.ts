@@ -18,7 +18,7 @@ const publicationSchema = new mongoose.Schema(
     authors: { type: [String], required: true },
     content: { type: String, required: true },
   },
-  { timestamps: true, versionKey: false }
+  { timestamps: false, versionKey: false }
 );
 
 export default mongoose.model("Publication", publicationSchema);
