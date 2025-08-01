@@ -2,12 +2,14 @@ import mongoose from "mongoose";
 
 const publicationSchema = new mongoose.Schema(
   {
+    id: { type: Number, required: true, unique: true },
     type: { type: String, required: true },
     title: { type: String, required: true },
     country: { type: String, required: true },
     year: { type: Number, required: true },
     volume: { type: String, required: true },
-    group: {
+    group: { type: String, required: true },
+    groupId: {
       type: String,
       ref: "Group",
       required: true,

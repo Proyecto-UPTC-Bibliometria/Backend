@@ -57,15 +57,20 @@ export default async function getGroupsData(): Promise<Group[] | undefined> {
 
     const groupsData = await batchProcessor(groupsUrls, processGroup);
 
+    const groupsWithId = groupsData.map((group, index) => ({
+      ...group,
+      id: index + 1,
+    }));
+
     console.log(
       chalk.green("\n✓"),
       "Processing completed. Total groups found:",
-      chalk.blue(groupsData.length)
+      chalk.blue(groupsWithId.length)
     );
 
     console.log(chalk.gray("▶ Total groups expected:"), chalk.yellow(152));
 
-    return groupsData;
+    return groupsWithId;
   } catch (error) {
     const typedError = error as Error;
 

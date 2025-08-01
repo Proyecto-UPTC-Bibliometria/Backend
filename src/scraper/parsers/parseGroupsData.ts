@@ -39,6 +39,27 @@ export default function parseGroupsData(
     );
   }
 
+  function hashId(text: string): number {
+    let hash = 5381;
+
+    for (let i = 0; i < text.length; i++) {
+      hash = (hash << 5) + hash + text.charCodeAt(i);
+    }
+
+    return Math.abs(hash);
+  }
+
+  function hexId(text: string, length: number) {
+    const hash = hashId(text);
+    const hexString = Math.abs(hash).toString(16);
+
+    if (hexString.length > length) {
+      return hexString.slice(-length);
+    } else {
+      return hexString.padStart(length, "0");
+    }
+  }
+
   return columns.map((column) => {
     const dateText = getTextContent(column, 2);
     const formationDate = new Date(dateText.replaceAll(" ", ""));
@@ -58,8 +79,9 @@ export default function parseGroupsData(
     };
 
     const group: Group = {
+      id: 0,
       name: name,
-      groupId: `GROUP_${name.toUpperCase().replaceAll(" ", "_")}`,
+      groupId: hexId(name, 8),
       formationDate,
       location,
       leader,

@@ -2,8 +2,10 @@ import mongoose from "mongoose";
 
 const memberSchema = new mongoose.Schema(
   {
+    id: { type: Number, required: true, unique: true },
     name: { type: String, required: true },
-    group: {
+    group: { type: String, required: true },
+    groupId: {
       type: String,
       ref: "Group",
       required: true,

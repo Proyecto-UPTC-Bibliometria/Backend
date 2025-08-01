@@ -35,6 +35,27 @@ export default function parseMembers(
     );
   }
 
+  function hashId(text: string): number {
+    let hash = 5381;
+
+    for (let i = 0; i < text.length; i++) {
+      hash = (hash << 5) + hash + text.charCodeAt(i);
+    }
+
+    return Math.abs(hash);
+  }
+
+  function hexId(text: string, length: number) {
+    const hash = hashId(text);
+    const hexString = Math.abs(hash).toString(16);
+
+    if (hexString.length > length) {
+      return hexString.slice(-length);
+    } else {
+      return hexString.padStart(length, "0");
+    }
+  }
+
   return rows
     .filter((row) => {
       const name = getUrlText(row, 1);
@@ -50,8 +71,10 @@ export default function parseMembers(
           : "Inactivo";
 
       const member: Member = {
+        id: 0,
         name,
-        group: `GROUP_${group.replaceAll(" ", "_")}`,
+        group: group,
+        groupId: hexId(group, 8),
         state,
         dedicatedHours,
         cvUrl,

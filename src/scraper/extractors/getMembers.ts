@@ -6,6 +6,7 @@ import GroupUrl from "../../interfaces/groupUrl.interface.js";
 import parseMembers from "../parsers/parseMembers.js";
 import batchProcessor from "../utils/batchProcessor.js";
 import chalk from "chalk";
+import capitalize from "../../utils/capitalize.js";
 
 export default async function getMembers(): Promise<Member[] | undefined> {
   console.log(chalk.gray("\n◔ Processing members..."));
@@ -17,7 +18,7 @@ export default async function getMembers(): Promise<Member[] | undefined> {
     if (!groupsUrls || groupsUrls.length === 0)
       throw new Error("No groups found");
 
-    const processMembers = async (group: GroupUrl): Promise<Member[]> => {
+    const processMember = async (group: GroupUrl): Promise<Member[]> => {
       try {
         if (!group.url) throw new Error("No group url found");
 
@@ -25,7 +26,9 @@ export default async function getMembers(): Promise<Member[] | undefined> {
         const tables = await page.$$("table");
 
         const members = await tables[4].$$eval("tbody tr", parseMembers, {
-          group: group.name.toUpperCase().replaceAll(/\s+/g, " ") || "",
+          group: capitalize(
+            group.name.toLowerCase().replaceAll(/\s+/g, " ") || ""
+          ),
         });
 
         return members;
@@ -37,17 +40,22 @@ export default async function getMembers(): Promise<Member[] | undefined> {
       }
     };
 
-    const membersData = await batchProcessor(groupsUrls, processMembers);
+    const membersData = await batchProcessor(groupsUrls, processMember);
+
+    const membersWithId = membersData.map((member, index) => ({
+      ...member,
+      id: index + 1,
+    }));
 
     console.log(
       chalk.green("\n✓"),
       "Processing completed. Total members found:",
-      chalk.blue(membersData.length)
+      chalk.blue(membersWithId.length)
     );
 
     console.log(chalk.gray("▶ Total members expected:"), chalk.yellow(10437));
 
-    return membersData;
+    return membersWithId;
   } catch (error) {
     const typedError = error as Error;
 

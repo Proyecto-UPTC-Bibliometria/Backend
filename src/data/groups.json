@@ -1,7 +1,8 @@
 [
   {
+    "id": 1,
     "name": "Grupo De Investigación Y Desarrollo En Sistemas Electromecánicos Gridse",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_Y_DESARROLLO_EN_SISTEMAS_ELECTROMECÁNICOS_GRIDSE",
+    "groupId": "3b10d0dc",
     "formationDate": "2010-12-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -32,8 +33,9 @@
     ]
   },
   {
+    "id": 2,
     "name": "Grupo De Investigación Ambientes Computacionales Educativos - Giace",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_AMBIENTES_COMPUTACIONALES_EDUCATIVOS_-_GIACE",
+    "groupId": "31acdf6e",
     "formationDate": "2006-12-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -63,8 +65,9 @@
     ]
   },
   {
+    "id": 3,
     "name": "Conflictos Sociales Siglo Xx",
-    "groupId": "GROUP_CONFLICTOS_SOCIALES_SIGLO_XX",
+    "groupId": "55fbc31a",
     "formationDate": "2001-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -97,8 +100,9 @@
     ]
   },
   {
+    "id": 4,
     "name": "I2e - Investigación En Ingeniería Electrónica",
-    "groupId": "GROUP_I2E_-_INVESTIGACIÓN_EN_INGENIERÍA_ELECTRÓNICA",
+    "groupId": "b15d6138",
     "formationDate": "2015-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -128,8 +132,9 @@
     ]
   },
   {
+    "id": 5,
     "name": "Grupo Interdisciplinario En Ciencias Gici",
-    "groupId": "GROUP_GRUPO_INTERDISCIPLINARIO_EN_CIENCIAS_GICI",
+    "groupId": "d1142c54",
     "formationDate": "2011-05-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -161,8 +166,9 @@
     ]
   },
   {
+    "id": 6,
     "name": "Tendencias Pedagogicas",
-    "groupId": "GROUP_TENDENCIAS_PEDAGOGICAS",
+    "groupId": "f856097a",
     "formationDate": "2007-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -191,8 +197,9 @@
     ]
   },
   {
+    "id": 7,
     "name": "Grupo De Investigaciones Agrícolas (gia)",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIONES_AGRÍCOLAS_(GIA)",
+    "groupId": "2920c541",
     "formationDate": "2004-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -221,8 +228,9 @@
     ]
   },
   {
+    "id": 8,
     "name": "Competitividad Innovacion Y Desarrollo Empresarial- Cide",
-    "groupId": "GROUP_COMPETITIVIDAD_INNOVACION_Y_DESARROLLO_EMPRESARIAL-_CIDE",
+    "groupId": "25edbeca",
     "formationDate": "2004-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -255,8 +263,9 @@
     ]
   },
   {
+    "id": 9,
     "name": "Filosofia, Educación Y Pedagogía",
-    "groupId": "GROUP_FILOSOFIA,_EDUCACIÓN_Y_PEDAGOGÍA",
+    "groupId": "5d081c46",
     "formationDate": "2004-02-01T05:00:00.000Z",
     "location": {
       "department": "Bogotá, D. C.",
@@ -288,8 +297,9 @@
     ]
   },
   {
+    "id": 10,
     "name": "Grupo De Investigación Para La Animación Cultural Muisuata",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_PARA_LA_ANIMACIÓN_CULTURAL_MUISUATA",
+    "groupId": "660a0e0b",
     "formationDate": "2001-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -317,8 +327,9 @@
     ]
   },
   {
+    "id": 11,
     "name": "Grupo De Investigación En Materiales Siderúrgicos",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_MATERIALES_SIDERÚRGICOS",
+    "groupId": "f7ceb084",
     "formationDate": "1997-10-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -348,8 +359,9 @@
     ]
   },
   {
+    "id": 12,
     "name": "Salud Trabajo Y Calidad De Vida Satracavi",
-    "groupId": "GROUP_SALUD_TRABAJO_Y_CALIDAD_DE_VIDA_SATRACAVI",
+    "groupId": "afadf859",
     "formationDate": "2005-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -378,8 +390,9 @@
     ]
   },
   {
+    "id": 13,
     "name": "Grupo De Ecuaciones Diferenciales, Modelación Y Simulación-gedmys",
-    "groupId": "GROUP_GRUPO_DE_ECUACIONES_DIFERENCIALES,_MODELACIÓN_Y_SIMULACIÓN-GEDMYS",
+    "groupId": "a6094d46",
     "formationDate": "2014-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -411,8 +424,9 @@
     ]
   },
   {
+    "id": 14,
     "name": "Waira Ambiente, Comunidad Y Desarrollo",
-    "groupId": "GROUP_WAIRA_AMBIENTE,_COMUNIDAD_Y_DESARROLLO",
+    "groupId": "f9d0c9ce",
     "formationDate": "2006-10-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -441,8 +455,9 @@
     ]
   },
   {
+    "id": 15,
     "name": "Unidad De Ecología En Sistemas Acuáticos Udesa",
-    "groupId": "GROUP_UNIDAD_DE_ECOLOGÍA_EN_SISTEMAS_ACUÁTICOS_UDESA",
+    "groupId": "6d9c4794",
     "formationDate": "2002-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -470,8 +485,9 @@
     ]
   },
   {
+    "id": 16,
     "name": "Telematics- Telemática, Tecnologías De La Información Y Ciberseguridad",
-    "groupId": "GROUP_TELEMATICS-_TELEMÁTICA,_TECNOLOGÍAS_DE_LA_INFORMACIÓN_Y_CIBERSEGURIDAD",
+    "groupId": "e64b75bd",
     "formationDate": "2014-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -501,8 +517,9 @@
     ]
   },
   {
+    "id": 17,
     "name": "Grupo De Investigacion En Estadística Gamma",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACION_EN_ESTADÍSTICA_GAMMA",
+    "groupId": "15a4aeca",
     "formationDate": "2009-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -531,8 +548,9 @@
     ]
   },
   {
+    "id": 18,
     "name": "Grupo De Investigación En Robótica Y Automatización Industrial Gira",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_ROBÓTICA_Y_AUTOMATIZACIÓN_INDUSTRIAL_GIRA",
+    "groupId": "b2c61203",
     "formationDate": "2003-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -561,8 +579,9 @@
     ]
   },
   {
+    "id": 19,
     "name": "Sistemática Biológica",
-    "groupId": "GROUP_SISTEMÁTICA_BIOLÓGICA",
+    "groupId": "e92a87b7",
     "formationDate": "2006-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -593,8 +612,9 @@
     ]
   },
   {
+    "id": 20,
     "name": "Senderos Del Lenguaje",
-    "groupId": "GROUP_SENDEROS_DEL_LENGUAJE",
+    "groupId": "ad64e0b8",
     "formationDate": "2003-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -621,8 +641,9 @@
     ]
   },
   {
+    "id": 21,
     "name": "Gebimol",
-    "groupId": "GROUP_GEBIMOL",
+    "groupId": "b017adfc",
     "formationDate": "2004-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -653,8 +674,9 @@
     ]
   },
   {
+    "id": 22,
     "name": "Derechos Humanos Y Medio Ambiente",
-    "groupId": "GROUP_DERECHOS_HUMANOS_Y_MEDIO_AMBIENTE",
+    "groupId": "0bb475a7",
     "formationDate": "1996-09-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -685,8 +707,9 @@
     ]
   },
   {
+    "id": 23,
     "name": "Grupo De Investigación Sostenibilidad Ambiental, Biodiversidad Y Agroecología",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_SOSTENIBILIDAD_AMBIENTAL,_BIODIVERSIDAD_Y_AGROECOLOGÍA",
+    "groupId": "d6d6295b",
     "formationDate": "2014-07-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -718,8 +741,9 @@
     ]
   },
   {
+    "id": 24,
     "name": "Grupo De Investigación Filosofía, Sociedad, Educación - Gifse",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_FILOSOFÍA,_SOCIEDAD,_EDUCACIÓN_-_GIFSE",
+    "groupId": "c54881f0",
     "formationDate": "2007-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -751,8 +775,9 @@
     ]
   },
   {
+    "id": 25,
     "name": "Edumaes",
-    "groupId": "GROUP_EDUMAES",
+    "groupId": "4b078157",
     "formationDate": "2010-04-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -781,8 +806,9 @@
     ]
   },
   {
+    "id": 26,
     "name": "Construyendo Comunidad Educativa",
-    "groupId": "GROUP_CONSTRUYENDO_COMUNIDAD_EDUCATIVA",
+    "groupId": "b3ebf344",
     "formationDate": "2002-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -814,8 +840,9 @@
     ]
   },
   {
+    "id": 27,
     "name": "Ideas \"investigadores Para El Desarrollo Empresarial Y Agroindustrial Sostenible\"",
-    "groupId": "GROUP_IDEAS_\"INVESTIGADORES_PARA_EL_DESARROLLO_EMPRESARIAL_Y_AGROINDUSTRIAL_SOSTENIBLE\"",
+    "groupId": "075a1dd0",
     "formationDate": "2001-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -844,8 +871,9 @@
     ]
   },
   {
+    "id": 28,
     "name": "Grupo De Investigación De Estudios Empresariales En Entornos Inciertos (eeeni)",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_DE_ESTUDIOS_EMPRESARIALES_EN_ENTORNOS_INCIERTOS_(EEENI)",
+    "groupId": "928107ea",
     "formationDate": "2017-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -875,8 +903,9 @@
     ]
   },
   {
+    "id": 29,
     "name": "Grupo De Física Nuclear Aplicada Y Simulación",
-    "groupId": "GROUP_GRUPO_DE_FÍSICA_NUCLEAR_APLICADA_Y_SIMULACIÓN",
+    "groupId": "adb0c558",
     "formationDate": "2003-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -909,8 +938,9 @@
     ]
   },
   {
+    "id": 30,
     "name": "Crepib",
-    "groupId": "GROUP_CREPIB",
+    "groupId": "538f2306",
     "formationDate": "2002-12-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -940,8 +970,9 @@
     ]
   },
   {
+    "id": 31,
     "name": "Desarrollo Humano, Cognición Y Educación",
-    "groupId": "GROUP_DESARROLLO_HUMANO,_COGNICIÓN_Y_EDUCACIÓN",
+    "groupId": "af60f715",
     "formationDate": "2003-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -968,8 +999,9 @@
     ]
   },
   {
+    "id": 32,
     "name": "Grupo De Investigación En Diseño \"taller 11\"",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_DISEÑO_\"TALLER_11\"",
+    "groupId": "bced37cc",
     "formationDate": "2002-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -998,8 +1030,9 @@
     ]
   },
   {
+    "id": 33,
     "name": "Rizoma",
-    "groupId": "GROUP_RIZOMA",
+    "groupId": "31291de9",
     "formationDate": "2007-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1026,8 +1059,9 @@
     ]
   },
   {
+    "id": 34,
     "name": "Grupo Universitario De Investigación En Administración - Guia",
-    "groupId": "GROUP_GRUPO_UNIVERSITARIO_DE_INVESTIGACIÓN_EN_ADMINISTRACIÓN_-_GUIA",
+    "groupId": "cb6dddfb",
     "formationDate": "2001-04-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1057,8 +1091,9 @@
     ]
   },
   {
+    "id": 35,
     "name": "Geoquimica Ambiental",
-    "groupId": "GROUP_GEOQUIMICA_AMBIENTAL",
+    "groupId": "fb2fd98a",
     "formationDate": "2002-04-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1089,8 +1124,9 @@
     ]
   },
   {
+    "id": 36,
     "name": "Sinergia Organizacional",
-    "groupId": "GROUP_SINERGIA_ORGANIZACIONAL",
+    "groupId": "9d743778",
     "formationDate": "2007-01-01T05:00:00.000Z",
     "location": {
       "department": "Bogotá, D. C.",
@@ -1129,8 +1165,9 @@
     ]
   },
   {
+    "id": 37,
     "name": "Grupo De Física Teórica Y Computacional",
-    "groupId": "GROUP_GRUPO_DE_FÍSICA_TEÓRICA_Y_COMPUTACIONAL",
+    "groupId": "50dfbea1",
     "formationDate": "2002-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1161,8 +1198,9 @@
     ]
   },
   {
+    "id": 38,
     "name": "Inntec",
-    "groupId": "GROUP_INNTEC",
+    "groupId": "45d3915a",
     "formationDate": "2015-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1190,8 +1228,9 @@
     ]
   },
   {
+    "id": 39,
     "name": "Enfermeria Y Aps",
-    "groupId": "GROUP_ENFERMERIA_Y_APS",
+    "groupId": "73d87820",
     "formationDate": "2015-05-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1221,8 +1260,9 @@
     ]
   },
   {
+    "id": 40,
     "name": "Gigass",
-    "groupId": "GROUP_GIGASS",
+    "groupId": "4adc82bd",
     "formationDate": "2005-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1252,8 +1292,9 @@
     ]
   },
   {
+    "id": 41,
     "name": "Quimica-fisica Molecular Y Modelamiento Computacional - Quimol",
-    "groupId": "GROUP_QUIMICA-FISICA_MOLECULAR_Y_MODELAMIENTO_COMPUTACIONAL_-_QUIMOL",
+    "groupId": "8a0c40b8",
     "formationDate": "2002-12-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1282,8 +1323,9 @@
     ]
   },
   {
+    "id": 42,
     "name": "Management Uptc",
-    "groupId": "GROUP_MANAGEMENT_UPTC",
+    "groupId": "fbff1802",
     "formationDate": "2005-05-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1314,8 +1356,9 @@
     ]
   },
   {
+    "id": 43,
     "name": "Observatorio De Coyuntura Económica Regional Y Urbana Oikos",
-    "groupId": "GROUP_OBSERVATORIO_DE_COYUNTURA_ECONÓMICA_REGIONAL_Y_URBANA_OIKOS",
+    "groupId": "c1a05451",
     "formationDate": "2002-04-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1344,8 +1387,9 @@
     ]
   },
   {
+    "id": 44,
     "name": "Creación Y Pedagogìa",
-    "groupId": "GROUP_CREACIÓN_Y_PEDAGOGÌA",
+    "groupId": "f85f7d16",
     "formationDate": "2000-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1374,8 +1418,9 @@
     ]
   },
   {
+    "id": 45,
     "name": "Fisica De Materiales",
-    "groupId": "GROUP_FISICA_DE_MATERIALES",
+    "groupId": "1957aa84",
     "formationDate": "2003-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1408,8 +1453,9 @@
     ]
   },
   {
+    "id": 46,
     "name": "Corporacion Si Mañana Despierto Para La Creacion E Investigacion De La Literatura Y Las Artes: Smd",
-    "groupId": "GROUP_CORPORACION_SI_MAÑANA_DESPIERTO_PARA_LA_CREACION_E_INVESTIGACION_DE_LA_LITERATURA_Y_LAS_ARTES:_SMD",
+    "groupId": "e7d67a8c",
     "formationDate": "1992-08-01T04:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1441,8 +1487,9 @@
     ]
   },
   {
+    "id": 47,
     "name": "Grupo De Investigación Para El Estudio Sociolingüístico Del Caribe E Hispanomérica: Giescah",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_PARA_EL_ESTUDIO_SOCIOLINGÜÍSTICO_DEL_CARIBE_E_HISPANOMÉRICA:_GIESCAH",
+    "groupId": "326b9ecb",
     "formationDate": "1998-12-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1475,8 +1522,9 @@
     ]
   },
   {
+    "id": 48,
     "name": "Grupo De Investigación Biomédica Y De Patología",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_BIOMÉDICA_Y_DE_PATOLOGÍA",
+    "groupId": "eb4ff6f9",
     "formationDate": "2003-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1505,8 +1553,9 @@
     ]
   },
   {
+    "id": 49,
     "name": "Grupo Interdisciplinario E Interinstitucional De Carbones Y Carboquimica",
-    "groupId": "GROUP_GRUPO_INTERDISCIPLINARIO_E_INTERINSTITUCIONAL_DE_CARBONES_Y_CARBOQUIMICA",
+    "groupId": "bd99860a",
     "formationDate": "1997-09-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1535,8 +1584,9 @@
     ]
   },
   {
+    "id": 50,
     "name": "Grupo Dinamica Contable - Gidicon",
-    "groupId": "GROUP_GRUPO_DINAMICA_CONTABLE_-_GIDICON",
+    "groupId": "f9b06f86",
     "formationDate": "2008-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1569,8 +1619,9 @@
     ]
   },
   {
+    "id": 51,
     "name": "Fisiología, Motricidad, Educación Y Deporte \"fimed\"",
-    "groupId": "GROUP_FISIOLOGÍA,_MOTRICIDAD,_EDUCACIÓN_Y_DEPORTE_\"FIMED\"",
+    "groupId": "214c2cd5",
     "formationDate": "2011-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1599,8 +1650,9 @@
     ]
   },
   {
+    "id": 52,
     "name": "Historia, Educación, Economía, Contabilidad Y Sociedad: Hecos",
-    "groupId": "GROUP_HISTORIA,_EDUCACIÓN,_ECONOMÍA,_CONTABILIDAD_Y_SOCIEDAD:_HECOS",
+    "groupId": "39731877",
     "formationDate": "2004-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1634,8 +1686,9 @@
     ]
   },
   {
+    "id": 53,
     "name": "Investigación Y Desarrollo En Planeación Y Operación Del Transporte-gidpot",
-    "groupId": "GROUP_INVESTIGACIÓN_Y_DESARROLLO_EN_PLANEACIÓN_Y_OPERACIÓN_DEL_TRANSPORTE-GIDPOT",
+    "groupId": "c868a30b",
     "formationDate": "2000-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1665,8 +1718,9 @@
     ]
   },
   {
+    "id": 54,
     "name": "Gidimevetz",
-    "groupId": "GROUP_GIDIMEVETZ",
+    "groupId": "02570ae3",
     "formationDate": "2001-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1698,8 +1752,9 @@
     ]
   },
   {
+    "id": 55,
     "name": "Ambientes Virtuales Educativos",
-    "groupId": "GROUP_AMBIENTES_VIRTUALES_EDUCATIVOS",
+    "groupId": "6a99c40d",
     "formationDate": "2003-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1727,8 +1782,9 @@
     ]
   },
   {
+    "id": 56,
     "name": "Investigación Multidisciplinar En Culturas Y Lenguas Extranjeras",
-    "groupId": "GROUP_INVESTIGACIÓN_MULTIDISCIPLINAR_EN_CULTURAS_Y_LENGUAS_EXTRANJERAS",
+    "groupId": "3962ee0e",
     "formationDate": "2017-05-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1758,8 +1814,9 @@
     ]
   },
   {
+    "id": 57,
     "name": "Emprender Ath Grupo De Investigación",
-    "groupId": "GROUP_EMPRENDER_ATH_GRUPO_DE_INVESTIGACIÓN",
+    "groupId": "f4ad87af",
     "formationDate": "2004-11-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1787,8 +1844,9 @@
     ]
   },
   {
+    "id": 58,
     "name": "Grupo De Investigacion Gerencia Del Valor Y Finanzas",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACION_GERENCIA_DEL_VALOR_Y_FINANZAS",
+    "groupId": "19fa46a8",
     "formationDate": "2003-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1818,8 +1876,9 @@
     ]
   },
   {
+    "id": 59,
     "name": "Grupo De Investigación En Estadística - Gie",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_ESTADÍSTICA_-_GIE",
+    "groupId": "240668d9",
     "formationDate": "2003-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1847,8 +1906,9 @@
     ]
   },
   {
+    "id": 60,
     "name": "Proyectos Organizacionales Para El Desarrollo Empresarial De La Region - Poder",
-    "groupId": "GROUP_PROYECTOS_ORGANIZACIONALES_PARA_EL_DESARROLLO_EMPRESARIAL_DE_LA_REGION_-_PODER",
+    "groupId": "e945d8f8",
     "formationDate": "2008-10-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1876,8 +1936,9 @@
     ]
   },
   {
+    "id": 61,
     "name": "Símiles Sociedad, Gestión Y Construcción Del Conocimiento En La Era Digital",
-    "groupId": "GROUP_SÍMILES_SOCIEDAD,_GESTIÓN_Y_CONSTRUCCIÓN_DEL_CONOCIMIENTO_EN_LA_ERA_DIGITAL",
+    "groupId": "321f34ed",
     "formationDate": "2002-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1906,8 +1967,9 @@
     ]
   },
   {
+    "id": 62,
     "name": "Somos Maestr@s",
-    "groupId": "GROUP_SOMOS_MAESTR@S",
+    "groupId": "e6261335",
     "formationDate": "2016-01-01T05:00:00.000Z",
     "location": {
       "department": "-"
@@ -1935,8 +1997,9 @@
     ]
   },
   {
+    "id": 63,
     "name": "Grupo Ecología De Organismos - U.p.t.c.",
-    "groupId": "GROUP_GRUPO_ECOLOGÍA_DE_ORGANISMOS_-_U.P.T.C.",
+    "groupId": "9128103b",
     "formationDate": "2003-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -1965,8 +2028,9 @@
     ]
   },
   {
+    "id": 64,
     "name": "Grupo De Estudio En Feminismos, Generos Y Derechos Humanos-giepeg",
-    "groupId": "GROUP_GRUPO_DE_ESTUDIO_EN_FEMINISMOS,_GENEROS_Y_DERECHOS_HUMANOS-GIEPEG",
+    "groupId": "147256c3",
     "formationDate": "1996-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2001,8 +2065,9 @@
     ]
   },
   {
+    "id": 65,
     "name": "Grupo De Investigación Acemed Uptc",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_ACEMED_UPTC",
+    "groupId": "7d8b616d",
     "formationDate": "2015-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2032,8 +2097,9 @@
     ]
   },
   {
+    "id": 66,
     "name": "Observatorio",
-    "groupId": "GROUP_OBSERVATORIO",
+    "groupId": "1d8f22dc",
     "formationDate": "2001-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2064,8 +2130,9 @@
     ]
   },
   {
+    "id": 67,
     "name": "Grupo De Estudios En Ecología, Etología, Educación Y Conservación (gecos)",
-    "groupId": "GROUP_GRUPO_DE_ESTUDIOS_EN_ECOLOGÍA,_ETOLOGÍA,_EDUCACIÓN_Y_CONSERVACIÓN_(GECOS)",
+    "groupId": "012c9dcd",
     "formationDate": "2001-04-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2093,8 +2160,9 @@
     ]
   },
   {
+    "id": 68,
     "name": "Grupo De Investigación En Finanzas Y Economía Financiera- Eugene Fama",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_FINANZAS_Y_ECONOMÍA_FINANCIERA-_EUGENE_FAMA",
+    "groupId": "e7b31332",
     "formationDate": "2015-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2123,8 +2191,9 @@
     ]
   },
   {
+    "id": 69,
     "name": "Grupo De Investigación En Telecomunicaciones Gintel",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_TELECOMUNICACIONES_GINTEL",
+    "groupId": "e55c1d22",
     "formationDate": "2004-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2153,8 +2222,9 @@
     ]
   },
   {
+    "id": 70,
     "name": "Municipio Saludable Por La Paz",
-    "groupId": "GROUP_MUNICIPIO_SALUDABLE_POR_LA_PAZ",
+    "groupId": "852018b8",
     "formationDate": "2000-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2183,8 +2253,9 @@
     ]
   },
   {
+    "id": 71,
     "name": "Didactica Para La Enseñanza De La Ciencia Y Tecnología En Niños",
-    "groupId": "GROUP_DIDACTICA_PARA_LA_ENSEÑANZA_DE_LA_CIENCIA_Y_TECNOLOGÍA_EN_NIÑOS",
+    "groupId": "602e5913",
     "formationDate": "2002-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2213,8 +2284,9 @@
     ]
   },
   {
+    "id": 72,
     "name": "Manejo Integrado De Ecosistemas Y Biodiversidad",
-    "groupId": "GROUP_MANEJO_INTEGRADO_DE_ECOSISTEMAS_Y_BIODIVERSIDAD",
+    "groupId": "1d597ad7",
     "formationDate": "2005-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2242,8 +2314,9 @@
     ]
   },
   {
+    "id": 73,
     "name": "Estudios Regionales Julio Florez",
-    "groupId": "GROUP_ESTUDIOS_REGIONALES_JULIO_FLOREZ",
+    "groupId": "f21ef64d",
     "formationDate": "2000-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2272,8 +2345,9 @@
     ]
   },
   {
+    "id": 74,
     "name": "Siek Saberes Interdisciplinares En Construcción",
-    "groupId": "GROUP_SIEK_SABERES_INTERDISCIPLINARES_EN_CONSTRUCCIÓN",
+    "groupId": "3033292d",
     "formationDate": "2008-09-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2304,8 +2378,9 @@
     ]
   },
   {
+    "id": 75,
     "name": "Grupo De Investigación Justicia Social Primo Levi",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_JUSTICIA_SOCIAL_PRIMO_LEVI",
+    "groupId": "35b53940",
     "formationDate": "2010-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2332,8 +2407,9 @@
     ]
   },
   {
+    "id": 76,
     "name": "Grupo De Investigación En Geomática Y Ambiente Giga",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_GEOMÁTICA_Y_AMBIENTE_GIGA",
+    "groupId": "5ed43ce5",
     "formationDate": "2003-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2362,8 +2438,9 @@
     ]
   },
   {
+    "id": 77,
     "name": "Vida Territorial Sostenible (vts)",
-    "groupId": "GROUP_VIDA_TERRITORIAL_SOSTENIBLE_(VTS)",
+    "groupId": "06f7d8e0",
     "formationDate": "2000-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2395,8 +2472,9 @@
     ]
   },
   {
+    "id": 78,
     "name": "La Sociedad Económica En Colombia -soecol-",
-    "groupId": "GROUP_LA_SOCIEDAD_ECONÓMICA_EN_COLOMBIA_-SOECOL-",
+    "groupId": "2888cbf8",
     "formationDate": "2003-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2427,8 +2505,9 @@
     ]
   },
   {
+    "id": 79,
     "name": "Gica Grupo De Investigación En Ingeniería Civil Y Ambiental",
-    "groupId": "GROUP_GICA_GRUPO_DE_INVESTIGACIÓN_EN_INGENIERÍA_CIVIL_Y_AMBIENTAL",
+    "groupId": "5be9280b",
     "formationDate": "2006-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2462,8 +2541,9 @@
     ]
   },
   {
+    "id": 80,
     "name": "Integridad Y Evaluacion De Materiales \"giem\"",
-    "groupId": "GROUP_INTEGRIDAD_Y_EVALUACION_DE_MATERIALES_\"GIEM\"",
+    "groupId": "5f165f56",
     "formationDate": "2004-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2497,8 +2577,9 @@
     ]
   },
   {
+    "id": 81,
     "name": "Grupo De Investigacion En Produccion Animal Del Tropico Alto Colombiano-- Gipatracol",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACION_EN_PRODUCCION_ANIMAL_DEL_TROPICO_ALTO_COLOMBIANO--_GIPATRACOL",
+    "groupId": "21de866f",
     "formationDate": "2016-07-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2526,8 +2607,9 @@
     ]
   },
   {
+    "id": 82,
     "name": "Grupo De Investigacion En Mercadeo Y Ciencias Agroambientales",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACION_EN_MERCADEO_Y_CIENCIAS_AGROAMBIENTALES",
+    "groupId": "03c21a07",
     "formationDate": "2005-02-01T05:00:00.000Z",
     "location": {
       "department": "Bogotá, D. C.",
@@ -2557,8 +2639,9 @@
     ]
   },
   {
+    "id": 83,
     "name": "Gigas Grupo De Investigación En Gestión Administrativa Y Empresarial Sostenible",
-    "groupId": "GROUP_GIGAS_GRUPO_DE_INVESTIGACIÓN_EN_GESTIÓN_ADMINISTRATIVA_Y_EMPRESARIAL_SOSTENIBLE",
+    "groupId": "30525453",
     "formationDate": "2006-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2589,8 +2672,9 @@
     ]
   },
   {
+    "id": 84,
     "name": "Danum - Desarrollo Y Aplicaciones De Nuevos Materiales",
-    "groupId": "GROUP_DANUM_-_DESARROLLO_Y_APLICACIONES_DE_NUEVOS_MATERIALES",
+    "groupId": "38bb772e",
     "formationDate": "2007-12-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2620,8 +2704,9 @@
     ]
   },
   {
+    "id": 85,
     "name": "Historia De La Salud En Boyaca",
-    "groupId": "GROUP_HISTORIA_DE_LA_SALUD_EN_BOYACA",
+    "groupId": "2998cec7",
     "formationDate": "1996-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2650,8 +2735,9 @@
     ]
   },
   {
+    "id": 86,
     "name": "Ditmav- Diseño, Innovación Y Asistencia Técnica Para Materiales Avanzados",
-    "groupId": "GROUP_DITMAV-_DISEÑO,_INNOVACIÓN_Y_ASISTENCIA_TÉCNICA_PARA_MATERIALES_AVANZADOS",
+    "groupId": "1a97a236",
     "formationDate": "2016-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2680,8 +2766,9 @@
     ]
   },
   {
+    "id": 87,
     "name": "Grupo Metalurgia No Ferrosa",
-    "groupId": "GROUP_GRUPO_METALURGIA_NO_FERROSA",
+    "groupId": "7529a20c",
     "formationDate": "2012-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2711,8 +2798,9 @@
     ]
   },
   {
+    "id": 88,
     "name": "Tongue: Teaching On New Grounds Unexplored English Possibilities",
-    "groupId": "GROUP_TONGUE:_TEACHING_ON_NEW_GROUNDS_UNEXPLORED_ENGLISH_POSSIBILITIES",
+    "groupId": "2c19fe90",
     "formationDate": "2008-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2743,8 +2831,9 @@
     ]
   },
   {
+    "id": 89,
     "name": "Grupo De Investigación En Arqueología, Sociedad Y Cultura",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_ARQUEOLOGÍA,_SOCIEDAD_Y_CULTURA",
+    "groupId": "8e74a37d",
     "formationDate": "1991-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2774,8 +2863,9 @@
     ]
   },
   {
+    "id": 90,
     "name": "Grupo Bioplasma-uptc",
-    "groupId": "GROUP_GRUPO_BIOPLASMA-UPTC",
+    "groupId": "2a9ba52d",
     "formationDate": "2002-12-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2807,8 +2897,9 @@
     ]
   },
   {
+    "id": 91,
     "name": "Grupo De Investigacion En Bioquímica Y Nutrición Animal Gibna",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACION_EN_BIOQUÍMICA_Y_NUTRICIÓN_ANIMAL_GIBNA",
+    "groupId": "46fc90ed",
     "formationDate": "2003-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2836,8 +2927,9 @@
     ]
   },
   {
+    "id": 92,
     "name": "Ecología De Bosques Andinos Colombianos - Ebac",
-    "groupId": "GROUP_ECOLOGÍA_DE_BOSQUES_ANDINOS_COLOMBIANOS_-_EBAC",
+    "groupId": "efd5e04f",
     "formationDate": "2001-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2868,8 +2960,9 @@
     ]
   },
   {
+    "id": 93,
     "name": "Grupo De Investigacion Biología Para La Conservación",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACION_BIOLOGÍA_PARA_LA_CONSERVACIÓN",
+    "groupId": "467d69b7",
     "formationDate": "1999-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2901,8 +2994,9 @@
     ]
   },
   {
+    "id": 94,
     "name": "Grupo De Investigación En Química Y Tecnología De Alimentos",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_QUÍMICA_Y_TECNOLOGÍA_DE_ALIMENTOS",
+    "groupId": "a839b0c9",
     "formationDate": "2001-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2934,8 +3028,9 @@
     ]
   },
   {
+    "id": 95,
     "name": "Biodiversidad Y Conservación",
-    "groupId": "GROUP_BIODIVERSIDAD_Y_CONSERVACIÓN",
+    "groupId": "29de6ca5",
     "formationDate": "1984-03-01T05:00:00.000Z",
     "location": {
       "department": "Bogotá, D. C.",
@@ -2964,8 +3059,9 @@
     ]
   },
   {
+    "id": 96,
     "name": "Grupo De Investigación De Farmacia Y Medio Ambiente (farquima)",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_DE_FARMACIA_Y_MEDIO_AMBIENTE_(FARQUIMA)",
+    "groupId": "e2d42182",
     "formationDate": "2019-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -2993,8 +3089,9 @@
     ]
   },
   {
+    "id": 97,
     "name": "Grupo Investigacion En Ingenieria Sismica Y Amenazas Geoambientales",
-    "groupId": "GROUP_GRUPO_INVESTIGACION_EN_INGENIERIA_SISMICA_Y_AMENAZAS_GEOAMBIENTALES",
+    "groupId": "e970b91b",
     "formationDate": "1999-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3025,8 +3122,9 @@
     ]
   },
   {
+    "id": 98,
     "name": "Research In Science, Education And Technology - Reset",
-    "groupId": "GROUP_RESEARCH_IN_SCIENCE,_EDUCATION_AND_TECHNOLOGY_-_RESET",
+    "groupId": "3483b2aa",
     "formationDate": "2016-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3054,8 +3152,9 @@
     ]
   },
   {
+    "id": 99,
     "name": "Lenguajes En Educación (leen)",
-    "groupId": "GROUP_LENGUAJES_EN_EDUCACIÓN_(LEEN)",
+    "groupId": "2f03ec7a",
     "formationDate": "2010-12-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3085,8 +3184,9 @@
     ]
   },
   {
+    "id": 100,
     "name": "Grupo De Investigaciones Filosóficas Kairós",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIONES_FILOSÓFICAS_KAIRÓS",
+    "groupId": "38384809",
     "formationDate": "2016-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3114,8 +3214,9 @@
     ]
   },
   {
+    "id": 101,
     "name": "Investigación Y Desarrollo En Operación Del Tránsito-gidot",
-    "groupId": "GROUP_INVESTIGACIÓN_Y_DESARROLLO_EN_OPERACIÓN_DEL_TRÁNSITO-GIDOT",
+    "groupId": "ebd196b0",
     "formationDate": "2003-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3147,8 +3248,9 @@
     ]
   },
   {
+    "id": 102,
     "name": "Procesos Ambientalmente Amigables",
-    "groupId": "GROUP_PROCESOS_AMBIENTALMENTE_AMIGABLES",
+    "groupId": "cfe93c42",
     "formationDate": "2015-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3177,8 +3279,9 @@
     ]
   },
   {
+    "id": 103,
     "name": "Grupo Modelos De Desarrollo En America Latina - Modeal",
-    "groupId": "GROUP_GRUPO_MODELOS_DE_DESARROLLO_EN_AMERICA_LATINA_-_MODEAL",
+    "groupId": "7544ee02",
     "formationDate": "1999-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3209,8 +3312,9 @@
     ]
   },
   {
+    "id": 104,
     "name": "Historia Y Prospectiva De La Universidad Latinoamericana.hisula.",
-    "groupId": "GROUP_HISTORIA_Y_PROSPECTIVA_DE_LA_UNIVERSIDAD_LATINOAMERICANA.HISULA.",
+    "groupId": "485866af",
     "formationDate": "1992-09-01T04:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3239,8 +3343,9 @@
     ]
   },
   {
+    "id": 105,
     "name": "Centro De Investigaciones En Optimización Y Logística - Ciol",
-    "groupId": "GROUP_CENTRO_DE_INVESTIGACIONES_EN_OPTIMIZACIÓN_Y_LOGÍSTICA_-_CIOL",
+    "groupId": "3fc3eabf",
     "formationDate": "2001-02-01T05:00:00.000Z",
     "location": {
       "department": "Bogotá, D. C.",
@@ -3272,8 +3377,9 @@
     ]
   },
   {
+    "id": 106,
     "name": "Grupo De Investigación En Innovación Y Desarrollo Productivo Grindep",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_INNOVACIÓN_Y_DESARROLLO_PRODUCTIVO_GRINDEP",
+    "groupId": "7bd72bc5",
     "formationDate": "2005-07-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3303,8 +3409,9 @@
     ]
   },
   {
+    "id": 107,
     "name": "Grupo Investigación En Manejo De Información Gimi",
-    "groupId": "GROUP_GRUPO_INVESTIGACIÓN_EN_MANEJO_DE_INFORMACIÓN_GIMI",
+    "groupId": "966dbca2",
     "formationDate": "2007-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3333,8 +3440,9 @@
     ]
   },
   {
+    "id": 108,
     "name": "Grupo De Fisica De Altas Energias",
-    "groupId": "GROUP_GRUPO_DE_FISICA_DE_ALTAS_ENERGIAS",
+    "groupId": "eeffe396",
     "formationDate": "2017-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3363,8 +3471,9 @@
     ]
   },
   {
+    "id": 109,
     "name": "Grupo De Superficies Electroquimica Y Corrosión",
-    "groupId": "GROUP_GRUPO_DE_SUPERFICIES_ELECTROQUIMICA_Y_CORROSIÓN",
+    "groupId": "cd8602f1",
     "formationDate": "2000-05-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3394,8 +3503,9 @@
     ]
   },
   {
+    "id": 110,
     "name": "Grupo De Investigación En Ciencias Biomédicas Uptc (gicbuptc)",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_CIENCIAS_BIOMÉDICAS_UPTC_(GICBUPTC)",
+    "groupId": "0f565876",
     "formationDate": "2015-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3425,8 +3535,9 @@
     ]
   },
   {
+    "id": 111,
     "name": "Grupo De Investigación En Bioeconomía Y Sostenibilidad Agroalimentaria",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_BIOECONOMÍA_Y_SOSTENIBILIDAD_AGROALIMENTARIA",
+    "groupId": "40bb4fa5",
     "formationDate": "2018-12-01T00:00:00.000Z",
     "location": {
       "department": "-"
@@ -3456,8 +3567,9 @@
     ]
   },
   {
+    "id": 112,
     "name": "Galash",
-    "groupId": "GROUP_GALASH",
+    "groupId": "4b6a88eb",
     "formationDate": "2012-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3486,8 +3598,9 @@
     ]
   },
   {
+    "id": 113,
     "name": "Grupo De Investigación En Gestion Y Calidad En Enfermería",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_GESTION_Y_CALIDAD_EN_ENFERMERÍA",
+    "groupId": "2e3287ce",
     "formationDate": "2010-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3516,8 +3629,9 @@
     ]
   },
   {
+    "id": 114,
     "name": "Grupo De Energía Y Aplicación De Nuevas Tecnologías",
-    "groupId": "GROUP_GRUPO_DE_ENERGÍA_Y_APLICACIÓN_DE_NUEVAS_TECNOLOGÍAS",
+    "groupId": "fb7412df",
     "formationDate": "2002-07-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3547,8 +3661,9 @@
     ]
   },
   {
+    "id": 115,
     "name": "Grupo Manejo Biologico De Cultivos",
-    "groupId": "GROUP_GRUPO_MANEJO_BIOLOGICO_DE_CULTIVOS",
+    "groupId": "674d1465",
     "formationDate": "2001-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3578,8 +3693,9 @@
     ]
   },
   {
+    "id": 116,
     "name": "Grupo De Investigación En Educación Matemática - Pirámide",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_EDUCACIÓN_MATEMÁTICA_-_PIRÁMIDE",
+    "groupId": "fb329402",
     "formationDate": "2003-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3609,8 +3725,9 @@
     ]
   },
   {
+    "id": 117,
     "name": "Aion - Tiempo De La Infancia",
-    "groupId": "GROUP_AION_-_TIEMPO_DE_LA_INFANCIA",
+    "groupId": "ea9ef0ca",
     "formationDate": "2009-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3639,8 +3756,9 @@
     ]
   },
   {
+    "id": 118,
     "name": "Grupo De Investigación En Estudios Micro Y Macro Ambientales Micram",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_ESTUDIOS_MICRO_Y_MACRO_AMBIENTALES_MICRAM",
+    "groupId": "b1140a28",
     "formationDate": "2005-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3669,8 +3787,9 @@
     ]
   },
   {
+    "id": 119,
     "name": "Grupo De Catalisis De La Universidad Pedagógica Y Tecnológica De Colombia (gc-uptc)",
-    "groupId": "GROUP_GRUPO_DE_CATALISIS_DE_LA_UNIVERSIDAD_PEDAGÓGICA_Y_TECNOLÓGICA_DE_COLOMBIA_(GC-UPTC)",
+    "groupId": "c9a3b1ac",
     "formationDate": "1997-09-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3701,8 +3820,9 @@
     ]
   },
   {
+    "id": 120,
     "name": "Grupo De Investigación En Psicología Clínica Y De La Salud",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_PSICOLOGÍA_CLÍNICA_Y_DE_LA_SALUD",
+    "groupId": "88ca62f2",
     "formationDate": "2006-10-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3731,8 +3851,9 @@
     ]
   },
   {
+    "id": 121,
     "name": "Grupo De Investigaciones En Química Ambiental",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIONES_EN_QUÍMICA_AMBIENTAL",
+    "groupId": "300dd833",
     "formationDate": "2005-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3762,8 +3883,9 @@
     ]
   },
   {
+    "id": 122,
     "name": "Asociacion: Centro De Estudios Regionales, Region",
-    "groupId": "GROUP_ASOCIACION:_CENTRO_DE_ESTUDIOS_REGIONALES,_REGION",
+    "groupId": "28185b0b",
     "formationDate": "1993-07-01T05:00:00.000Z",
     "location": {
       "department": "Valle Del Cauca",
@@ -3797,8 +3919,9 @@
     ]
   },
   {
+    "id": 123,
     "name": "Geografía Y Ordenamiento Territorial (geot)",
-    "groupId": "GROUP_GEOGRAFÍA_Y_ORDENAMIENTO_TERRITORIAL_(GEOT)",
+    "groupId": "826cd3bd",
     "formationDate": "1988-02-01T05:00:00.000Z",
     "location": {
       "department": "Bogotá, D. C.",
@@ -3829,8 +3952,9 @@
     ]
   },
   {
+    "id": 124,
     "name": "Gercus Exclusiones Y Resistencias En El Cuidado De La Salud",
-    "groupId": "GROUP_GERCUS_EXCLUSIONES_Y_RESISTENCIAS_EN_EL_CUIDADO_DE_LA_SALUD",
+    "groupId": "b26a1a52",
     "formationDate": "2003-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3861,8 +3985,9 @@
     ]
   },
   {
+    "id": 125,
     "name": "In Crescendo",
-    "groupId": "GROUP_IN_CRESCENDO",
+    "groupId": "4146c092",
     "formationDate": "2005-09-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3890,8 +4015,9 @@
     ]
   },
   {
+    "id": 126,
     "name": "Ciencia Y Educacion En Tecnologia E Informatica - Cetin",
-    "groupId": "GROUP_CIENCIA_Y_EDUCACION_EN_TECNOLOGIA_E_INFORMATICA_-_CETIN",
+    "groupId": "813d8e81",
     "formationDate": "2005-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3920,8 +4046,9 @@
     ]
   },
   {
+    "id": 127,
     "name": "Tica Tecnologia Investigacion Y Ciencia Aplicada",
-    "groupId": "GROUP_TICA_TECNOLOGIA_INVESTIGACION_Y_CIENCIA_APLICADA",
+    "groupId": "b2215492",
     "formationDate": "2004-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3949,8 +4076,9 @@
     ]
   },
   {
+    "id": 128,
     "name": "Atencion Primaria En Salud Uptc",
-    "groupId": "GROUP_ATENCION_PRIMARIA_EN_SALUD_UPTC",
+    "groupId": "796cc1ad",
     "formationDate": "2011-09-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -3978,8 +4106,9 @@
     ]
   },
   {
+    "id": 129,
     "name": "Eureka+i",
-    "groupId": "GROUP_EUREKA+I",
+    "groupId": "96e47f6a",
     "formationDate": "2010-05-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4006,8 +4135,9 @@
     ]
   },
   {
+    "id": 130,
     "name": "Ceres - Grupo De Investigación En Gestión Agroindustrial, Desarrollo De La Poscosecha, Administración Agropecuaria.",
-    "groupId": "GROUP_CERES_-_GRUPO_DE_INVESTIGACIÓN_EN_GESTIÓN_AGROINDUSTRIAL,_DESARROLLO_DE_LA_POSCOSECHA,_ADMINISTRACIÓN_AGROPECUARIA.",
+    "groupId": "df896af0",
     "formationDate": "2004-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4036,8 +4166,9 @@
     ]
   },
   {
+    "id": 131,
     "name": "Grupo De Investigacion Y Desarrollo En Infraestructura Vial - Grinfravial",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACION_Y_DESARROLLO_EN_INFRAESTRUCTURA_VIAL_-_GRINFRAVIAL",
+    "groupId": "d88dc97f",
     "formationDate": "2002-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4067,8 +4198,9 @@
     ]
   },
   {
+    "id": 132,
     "name": "Grupo De Investigación En Epidemiología Clínica De Colombia",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_EPIDEMIOLOGÍA_CLÍNICA_DE_COLOMBIA",
+    "groupId": "095bf539",
     "formationDate": "2015-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4096,8 +4228,9 @@
     ]
   },
   {
+    "id": 133,
     "name": "Grupo De Investigación En Software - Gis",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_SOFTWARE_-_GIS",
+    "groupId": "9fc1eda0",
     "formationDate": "2004-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4129,8 +4262,9 @@
     ]
   },
   {
+    "id": 134,
     "name": "Gente",
-    "groupId": "GROUP_GENTE",
+    "groupId": "0d3d1178",
     "formationDate": "2007-12-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4160,8 +4294,9 @@
     ]
   },
   {
+    "id": 135,
     "name": "La Ilustración En América Colonial. Ilac.",
-    "groupId": "GROUP_LA_ILUSTRACIÓN_EN_AMÉRICA_COLONIAL._ILAC.",
+    "groupId": "ba59850e",
     "formationDate": "1992-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4190,8 +4325,9 @@
     ]
   },
   {
+    "id": 136,
     "name": "Reconciliación Con La Justicia Y La Dignidad Humana - Red Humana",
-    "groupId": "GROUP_RECONCILIACIÓN_CON_LA_JUSTICIA_Y_LA_DIGNIDAD_HUMANA_-_RED_HUMANA",
+    "groupId": "74e308d6",
     "formationDate": "2008-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4219,8 +4355,9 @@
     ]
   },
   {
+    "id": 137,
     "name": "Clinica Y Salud",
-    "groupId": "GROUP_CLINICA_Y_SALUD",
+    "groupId": "134ca8f6",
     "formationDate": "2003-07-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4248,8 +4385,9 @@
     ]
   },
   {
+    "id": 138,
     "name": "Cuerpo Investigativo De Tecnica Juridica Citec",
-    "groupId": "GROUP_CUERPO_INVESTIGATIVO_DE_TECNICA_JURIDICA_CITEC",
+    "groupId": "b299d312",
     "formationDate": "2011-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4279,8 +4417,9 @@
     ]
   },
   {
+    "id": 139,
     "name": "Grupo De Investigación En Metalurgia Física De Procesos De Manufactura - Gimefp",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_METALURGIA_FÍSICA_DE_PROCESOS_DE_MANUFACTURA_-_GIMEFP",
+    "groupId": "31091f3f",
     "formationDate": "2014-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4311,8 +4450,9 @@
     ]
   },
   {
+    "id": 140,
     "name": "Grupo De Investigación En Procesamiento De Señales Dsp-uptc",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIÓN_EN_PROCESAMIENTO_DE_SEÑALES_DSP-UPTC",
+    "groupId": "16080925",
     "formationDate": "1999-09-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4342,8 +4482,9 @@
     ]
   },
   {
+    "id": 141,
     "name": "Elex",
-    "groupId": "GROUP_ELEX",
+    "groupId": "7c84be93",
     "formationDate": "2003-01-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4375,8 +4516,9 @@
     ]
   },
   {
+    "id": 142,
     "name": "Grupo De Investigacion En Informatica, Electronica Y Comunicaciones - Infelcom",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACION_EN_INFORMATICA,_ELECTRONICA_Y_COMUNICACIONES_-_INFELCOM",
+    "groupId": "3a424f06",
     "formationDate": "2003-04-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4407,8 +4549,9 @@
     ]
   },
   {
+    "id": 143,
     "name": "Grupo De Álgebra Y Análisis Uptc",
-    "groupId": "GROUP_GRUPO_DE_ÁLGEBRA_Y_ANÁLISIS_UPTC",
+    "groupId": "63ea43ae",
     "formationDate": "2003-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4442,8 +4585,9 @@
     ]
   },
   {
+    "id": 144,
     "name": "Caldas",
-    "groupId": "GROUP_CALDAS",
+    "groupId": "54bf20f3",
     "formationDate": "2003-01-01T05:00:00.000Z",
     "location": {
       "department": "Bogotá, D. C.",
@@ -4476,8 +4620,9 @@
     ]
   },
   {
+    "id": 145,
     "name": "Ingenieria Geologica Uptc",
-    "groupId": "GROUP_INGENIERIA_GEOLOGICA_UPTC",
+    "groupId": "965b1ee6",
     "formationDate": "2002-03-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4510,8 +4655,9 @@
     ]
   },
   {
+    "id": 146,
     "name": "Actividad Física Y Deporte, Acfyde",
-    "groupId": "GROUP_ACTIVIDAD_FÍSICA_Y_DEPORTE,_ACFYDE",
+    "groupId": "5ddd6ec5",
     "formationDate": "2008-12-01T00:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4542,8 +4688,9 @@
     ]
   },
   {
+    "id": 147,
     "name": "Educacion, Salud Y Desarrollo Rural",
-    "groupId": "GROUP_EDUCACION,_SALUD_Y_DESARROLLO_RURAL",
+    "groupId": "d4f84355",
     "formationDate": "1999-08-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4573,8 +4720,9 @@
     ]
   },
   {
+    "id": 148,
     "name": "Cacaenta",
-    "groupId": "GROUP_CACAENTA",
+    "groupId": "69c24ab5",
     "formationDate": "2004-06-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4604,8 +4752,9 @@
     ]
   },
   {
+    "id": 149,
     "name": "Grupo De Investigaciones Históricas Gihistor",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACIONES_HISTÓRICAS_GIHISTOR",
+    "groupId": "0011038c",
     "formationDate": "2014-05-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4633,8 +4782,9 @@
     ]
   },
   {
+    "id": 150,
     "name": "Ecoeficiencia, Productos Naturales E Innovación Tecnológica",
-    "groupId": "GROUP_ECOEFICIENCIA,_PRODUCTOS_NATURALES_E_INNOVACIÓN_TECNOLÓGICA",
+    "groupId": "9eef1e7d",
     "formationDate": "2004-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4667,8 +4817,9 @@
     ]
   },
   {
+    "id": 151,
     "name": "Grupo De Investigacion En Desarrollo Y Produccion Agraria Sostenible",
-    "groupId": "GROUP_GRUPO_DE_INVESTIGACION_EN_DESARROLLO_Y_PRODUCCION_AGRARIA_SOSTENIBLE",
+    "groupId": "8002f636",
     "formationDate": "2010-02-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
@@ -4696,8 +4847,9 @@
     ]
   },
   {
+    "id": 152,
     "name": "Competitividad Y Desarrollo Local",
-    "groupId": "GROUP_COMPETITIVIDAD_Y_DESARROLLO_LOCAL",
+    "groupId": "bd0642aa",
     "formationDate": "2004-05-01T05:00:00.000Z",
     "location": {
       "department": "Boyacá",
