@@ -1,8 +1,9 @@
 import chalk from "chalk";
 import app from "./app.js";
 import connect from "./config/database.config.js";
+import { envConfig } from "./config/env.config.js";
 
-const port = 8080;
+const port = envConfig.port || 4000;
 
 function startServer() {
   try {
