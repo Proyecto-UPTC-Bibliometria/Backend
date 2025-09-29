@@ -1,12 +1,11 @@
 import mongoose from "mongoose";
+import MemberGroups from "./auxiliars/memberGroups.interface";
 
 export default interface Member {
   _id?: mongoose.Types.ObjectId;
   id: number;
   name: string;
-  group: string;
-  groupId: string;
   state: string;
-  dedicatedHours: number;
   cvUrl?: string;
+  groups: MemberGroups[];
 }

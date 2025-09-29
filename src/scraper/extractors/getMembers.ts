@@ -26,8 +26,11 @@ export default async function getMembers(): Promise<Member[] | undefined> {
         const tables = await page.$$("table");
 
         const members = await tables[4].$$eval("tbody tr", parseMembers, {
-          group: capitalize(
-            group.name.toLowerCase().replaceAll(/\s+/g, " ") || ""
+          groupName: capitalize(
+            group.name
+              .toLowerCase()
+              .replaceAll("--", "-")
+              .replaceAll(/\s+/g, " ") || ""
           ),
         });
 
@@ -42,7 +45,23 @@ export default async function getMembers(): Promise<Member[] | undefined> {
 
     const membersData = await batchProcessor(groupsUrls, processMember);
 
-    const membersWithId = membersData.map((member, index) => ({
+    const filteredMembers: Member[] = [];
+
+    membersData.forEach((member) => {
+      const group = member.groups[0];
+
+      const existingMember = filteredMembers.find(
+        (foundMember) => foundMember.name === member.name
+      );
+
+      if (existingMember) {
+        existingMember.groups.push(group);
+      } else {
+        filteredMembers.push(member);
+      }
+    });
+
+    const membersWithId = filteredMembers.map((member, index) => ({
       ...member,
       id: index + 1,
     }));
@@ -53,7 +72,11 @@ export default async function getMembers(): Promise<Member[] | undefined> {
       chalk.blue(membersWithId.length)
     );
 
-    console.log(chalk.gray("▶ Total members expected:"), chalk.yellow(10437));
+    console.log(
+      chalk.gray("▶ Total members expected:"),
+      "Around ",
+      chalk.yellow(8500)
+    );
 
     return membersWithId;
   } catch (error) {

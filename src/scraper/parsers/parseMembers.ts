@@ -5,7 +5,7 @@ export default function parseMembers(
   rows: Element[],
   externalData: externalMemberData
 ): Member[] {
-  const { group } = externalData;
+  const { groupName } = externalData;
 
   function getTextContent(element: Element, child: number): string {
     const text = element.querySelector(`td:nth-child(${child})`);
@@ -17,7 +17,7 @@ export default function parseMembers(
     );
   }
 
-  function getUrlText(element: Element, child: number, href?: boolean): string {
+  function getText(element: Element, child: number, href?: boolean): string {
     const link = element.querySelector(`td:nth-child(${child}) a`);
 
     if (!link) return "";
@@ -58,12 +58,12 @@ export default function parseMembers(
 
   return rows
     .filter((row) => {
-      const name = getUrlText(row, 1);
+      const name = getText(row, 1);
       return name !== "";
     })
     .map((row) => {
-      const name = getUrlText(row, 1);
-      const cvUrl = getUrlText(row, 1, true);
+      const name = getText(row, 1);
+      const cvUrl = getText(row, 1, true);
       const dedicatedHours = parseInt(getTextContent(row, 3) || "0");
       const state =
         getTextContent(row, 4).split(" - ")[1] === "Actual"
@@ -73,11 +73,14 @@ export default function parseMembers(
       const member: Member = {
         id: 0,
         name,
-        group: group,
-        groupId: hexId(group, 8),
         state,
-        dedicatedHours,
         cvUrl,
+        groups: [
+          {
+            groupId: hexId(groupName, 8),
+            dedicatedHours,
+          },
+        ],
       };
 
       return member;
