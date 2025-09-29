@@ -1,10 +1,10 @@
 import memberModel from "../models/member.model.js";
-import { redisClient } from "../server.js";
+// import { redisClient } from "../server.js";
 
 export async function findAllMembers() {
-  const cacheMembers = await redisClient.get("members");
+  // const cacheMembers = await redisClient.get("members");
 
-  if (cacheMembers) return JSON.parse(cacheMembers);
+  // if (cacheMembers) return JSON.parse(cacheMembers);
 
   const foundMembers = await memberModel
     .find()
@@ -12,19 +12,19 @@ export async function findAllMembers() {
     .sort({ id: 1 })
     .lean();
 
-  await redisClient.set("members", JSON.stringify(foundMembers));
+  // await redisClient.set("members", JSON.stringify(foundMembers));
 
   return foundMembers;
 }
 
 export async function findMemberById(id: number) {
-  const cacheMember = await redisClient.get(`member:${id}`);
+  // const cacheMember = await redisClient.get(`member:${id}`);
 
-  if (cacheMember) return JSON.parse(cacheMember);
+  // if (cacheMember) return JSON.parse(cacheMember);
 
   const foundMember = await memberModel.findOne({ id }).select("-_id").lean();
 
-  await redisClient.set(`member:${id}`, JSON.stringify(foundMember));
+  // await redisClient.set(`member:${id}`, JSON.stringify(foundMember));
 
   return foundMember;
 }
