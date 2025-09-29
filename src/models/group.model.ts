@@ -39,12 +39,10 @@ const groupSchema = new mongoose.Schema(
   }
 );
 
-// groupSchema.index({ groupId: 1 }, { unique: true });
-
 groupSchema.virtual("members", {
   ref: "Member",
   localField: "groupId",
-  foreignField: "groupId",
+  foreignField: "groups.groupId",
 });
 
 groupSchema.virtual("publications", {

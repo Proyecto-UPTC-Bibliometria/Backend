@@ -2,14 +2,22 @@ import chalk from "chalk";
 import app from "./app.js";
 import connect from "./config/database.config.js";
 import { envConfig } from "./config/env.config.js";
+import { createClient } from "redis";
 
 const port = envConfig.port || 4000;
+const redisUrl = envConfig.redis_url || "redis://localhost:6379";
 
-function startServer() {
+export const redisClient = createClient({ url: redisUrl });
+
+async function startServer() {
   try {
+    console.clear();
+
+    await redisClient.connect();
+    console.log(chalk.green("✓"), "Redis connected successfully.");
+
     app.listen(port);
 
-    console.clear();
     console.log(
       chalk.green("✓"),
       "Server is running on port:",

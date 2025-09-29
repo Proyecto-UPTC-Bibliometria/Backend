@@ -10,7 +10,7 @@ export default async function connect() {
 
     await mongoose.connect(uri);
 
-    console.log(chalk.green("✓"), "Succesfully connected to database\n");
+    console.log(chalk.green("✓"), "Succesfully connected to database.\n");
   } catch (error) {
     const typedError = error as Error;
 
