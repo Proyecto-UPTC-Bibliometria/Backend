@@ -45,8 +45,8 @@ groupSchema.virtual("members", {
   foreignField: "groups.groupId",
 });
 
-groupSchema.virtual("publications", {
-  ref: "Publication",
+groupSchema.virtual("articles", {
+  ref: "Article",
   localField: "groupId",
   foreignField: "groupId",
 });
