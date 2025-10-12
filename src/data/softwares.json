@@ -1,0 +1,6741 @@
+[
+  {
+    "id": 1,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Motor Metrics",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Motor Metrics",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Edgar Efren Tibaduiza Rincon",
+      "Luis David Patarroyo Gutierrez",
+      "Wilman Alonso Pineda Munoz",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "3b10d0dc"
+  },
+  {
+    "id": 2,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Herramienta Didactica - Descriptando La Geometría",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Fidel Alfonso Romero Toledo",
+      "Edwan Anderson Ariza Echeverri",
+      "Diego Fernando Villate Fonseca"
+    ],
+    "group": "3b10d0dc"
+  },
+  {
+    "id": 3,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Rmo-rl-nc-c",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diego Fernando Villate Fonseca",
+      "Wilman Alonso Pineda Munoz",
+      "Mercy Tatiana Villate Fonseca"
+    ],
+    "group": "3b10d0dc"
+  },
+  {
+    "id": 4,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Herramienta Didáctica En Vr Para La Capacitación En El Manejo De Plaguicidas Para Cultivadores De Papa",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Fidel Alfonso Romero Toledo"
+    ],
+    "group": "3b10d0dc"
+  },
+  {
+    "id": 5,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Black 19.27",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Black 19.27",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "3b10d0dc"
+  },
+  {
+    "id": 6,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ecowheels Advisor",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Ecowheels Advisor",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "3b10d0dc"
+  },
+  {
+    "id": 7,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Cuk System Design",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Cuk System Design",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Edgar Efren Tibaduiza Rincon",
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "3b10d0dc"
+  },
+  {
+    "id": 8,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pcti",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Pcti",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Edgar Efren Tibaduiza Rincon"
+    ],
+    "group": "3b10d0dc"
+  },
+  {
+    "id": 9,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Thevelab (the Virtual Electrical Lab)",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia -  Uptc -  Sede Tunja",
+    "authors": [
+      "Fidel Alfonso Romero Toledo",
+      "Diego Alejandro Albarracin Acero"
+    ],
+    "group": "3b10d0dc"
+  },
+  {
+    "id": 10,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ecoaprendizaje En Putumayo",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Ecoaprendizaje En Putumayo",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Camilo Sanchez Rojas",
+      "Yenny Carolina Riano Castellanos",
+      "Michael David Ruiz Galindo",
+      "Edgar Orlando Caro Caro",
+      "Ana Maria Castro Canon"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 11,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ailluingacomunidad Inga",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Ailluingacomunidad Inga",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Camilo Sanchez Rojas",
+      "Maria Nelba Monroy Fonseca",
+      "Michael David Ruiz Galindo",
+      "Yenny Carolina Riano Castellanos",
+      "Lorenyi Avila Cuintaco"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 12,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ecoaprendizaje En Putumayo",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Ecoaprendizaje En Putumayo",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Edgar Orlando Caro Caro",
+      "Yenny Carolina Riano Castellanos",
+      "Michael David Ruiz Galindo",
+      "Ana Maria Castro Canon",
+      "Camilo Sanchez Rojas"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 13,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Aylluingacomunidad Inga",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Aylluingacomunidad Inga",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Edgar Orlando Caro Caro",
+      "Maria Nelba Monroy Fonseca",
+      "Yenny Carolina Riano Castellanos",
+      "Michael David Ruiz Galindo",
+      "Lorenyi Avila Cuintaco"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 14,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Soy Putumayo",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Soy Putumayo",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Camilo Sanchez Rojas",
+      "Jimmy Yordany Ardila Munoz",
+      "Michael David Ruiz Galindo",
+      "Yenny Carolina Riano Castellanos"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 15,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Soy Putumayo",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Soy Putumayo",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Jimmy Yordany Ardila Munoz",
+      "Camilo Sanchez Rojas",
+      "Yenny Carolina Riano Castellanos",
+      "Michael David Ruiz Galindo"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 16,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Quick Score Robotic 1.0",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Quick Score Robotic 1.0",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Camilo Sanchez Rojas"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 17,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Convivencia Digitic-m",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diego Alejandro Molina Sosa"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 18,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Cognita Gufo V1.0",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Cognita Gufo V1.0",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diego Alejandro Molina Sosa"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 19,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Contenu Analysis",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diego Alejandro Molina Sosa",
+      "Jimmy Yordany Ardila Munoz"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 20,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Netiquetapp",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Https://play.google.com/store/apps/details?id=air.netiquetapp",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Sarabanda Barrera",
+      "Liliana Patricia Fernandez Rodriguez",
+      "Andres Julian Caro Genoy"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 21,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Cuenta Contando",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Sarabanda Barrera",
+      "Danilo Alfonso Acuna Becerra",
+      "Camilo Fonseca Sanchez"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 22,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Learn Easy English V2.0",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Learn Easy English V2.0",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diego Alejandro Molina Sosa"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 23,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Quimicamente",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Quimicamente",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Jimmy Yordany Ardila Munoz",
+      "Diego Alejandro Molina Sosa",
+      "Diego Mauricio Bernal Rios"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 24,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Químicamente",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Químicamente",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diego Alejandro Molina Sosa",
+      "Jimmy Yordany Ardila Munoz",
+      "Diego Mauricio Bernal Rios"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 25,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Aprendamos Juntos",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Aprendamos Juntos",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Juan Sebastian Sarabanda Barrera",
+      "Danilo Fonseca Sanchez",
+      "Cesar Leonardo Avila Acuna"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 26,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Amecdroid",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Amecdroid",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Juan Sebastian Sarabanda Barrera",
+      "Miguel Angel Mendoza Moreno"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 27,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Comparación Entre Los Estilos De Aprendizaje Visual Y Auditivo Con Los Ambientes Computacionales Gráfico Y Sonoro",
+    "country": "Colombia",
+    "year": 2005,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Recursos Propios",
+    "authors": [
+      "Edgar Orlando Caro Caro"
+    ],
+    "group": "31acdf6e"
+  },
+  {
+    "id": 28,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Q Point Transistor",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 29,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ferro_sim_v2_uptc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 30,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Filteruptc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Luis David Patarroyo Gutierrez",
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 31,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Simulador De Hornos Industriales Uptc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 32,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Amp-op-analysis",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Amp-op-analysis",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Luis David Patarroyo Gutierrez",
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 33,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Cuk System Design",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Edgar Efren Tibaduiza Rincon"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 34,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Diode Applications",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Diode Applications",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Luis David Patarroyo Gutierrez",
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 35,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Transfer Fun So Plot",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Luis David Patarroyo Gutierrez",
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 36,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Codisy",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Luis David Patarroyo Gutierrez",
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 37,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software Hdmi - Convertidor Buck Cuadrático 200w",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Software Hdmi - Convertidor Buck Cuadrático 200w",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diego Andres Bautista Lopez"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 38,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ladrc Design Web",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Michell Josep Quintero Duran"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 39,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Dc-dc Re Uptc",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Luis David Patarroyo Gutierrez",
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 40,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pwm_tutor",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 41,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pcti",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Edgar Efren Tibaduiza Rincon"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 42,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pid Design Web",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Luis David Patarroyo Gutierrez",
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 43,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Dies",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 44,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Bitguard",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Bitguard",
+    "projectName": "",
+    "fundingInstitution": "Softbit S.a.s",
+    "authors": [
+      "Diego Andres Bautista Lopez",
+      "Yeisson David Torres Valero"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 45,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Pind - Precision Index V1.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Pind - Precision Index V1.0",
+    "projectName": "",
+    "fundingInstitution": "Universidad De Los Llanos",
+    "authors": [
+      "Fabian Jimenez Lopez",
+      "Andres Fernando Jimenez Lopez",
+      "Dayra Yisel Garcia Ramirez"
+    ],
+    "group": "b15d6138"
+  },
+  {
+    "id": 46,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Portal De Eventos Vicerrectoría De Investigación Y Extensión",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Portal De Eventos Vicerrectoría De Investigación Y Extensión",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Angela Saray Burbano Valdivieso",
+      "Yesid Rangel Orozco"
+    ],
+    "group": "d1142c54"
+  },
+  {
+    "id": 47,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Media Streamer",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Media Streamer Para Visualización Remota De Imágenes De Un Telescopio",
+    "projectName": "",
+    "fundingInstitution": "Universidad Sergio Arboleda",
+    "authors": [
+      "Omar Ferney Herrera Alvarez",
+      "Ricardo Hjalmar Gonzalez Garcia"
+    ],
+    "group": "2920c541"
+  },
+  {
+    "id": 48,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "1.- Multimedia : Stres Y Técnicas De Afrontamiento",
+    "country": "Colombia",
+    "year": 1999,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Ana Gemma Barrantes Munoz"
+    ],
+    "group": "afadf859"
+  },
+  {
+    "id": 49,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ibus",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Ibus",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Miguel Angel Mendoza Moreno",
+      "Diana Liseth Angarita Lozano",
+      "Jhefer Hernan Tellez Triana",
+      "Benjamin Rojas Alvarado"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 50,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Fmcsatc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Fmcsatc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Miguel Angel Mendoza Moreno",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Carlos Andres Gonzalez Amarillo",
+      "Cristian Leonardo Cardenas Garcia",
+      "Carlos Arturo Parra Vargas",
+      "Fredy Yesid Mesa Jimenez",
+      "Claudia Liliana Sanchez Saenz",
+      "Indry Milena Saavedra Gaona"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 51,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Bcvic",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Bcvic",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Miguel Angel Mendoza Moreno",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Carlos Andres Gonzalez Amarillo",
+      "Ivan Alejandro Camargo Marquez"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 52,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Bcvic",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Bcvic",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Carlos Andres Gonzalez Amarillo",
+      "Miguel Angel Mendoza Moreno",
+      "Ivan Alejandro Camargo Marquez",
+      "Ariel Adolfo Rodriguez Hernandez"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 53,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Bcvic",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Bcvic",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ivan Alejandro Camargo Marquez",
+      "Carlos Andres Gonzalez Amarillo",
+      "Miguel Angel Mendoza Moreno",
+      "Ariel Adolfo Rodriguez Hernandez"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 54,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Fmcsatc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Fmcsatc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Carlos Andres Gonzalez Amarillo",
+      "Cristian Leonardo Cardenas Garcia",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Miguel Angel Mendoza Moreno",
+      "Indry Milena Saavedra Gaona",
+      "Fredy Yesid Mesa Jimenez",
+      "Claudia Liliana Sanchez Saenz",
+      "Carlos Arturo Parra Vargas"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 55,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Responsive Mobility (evaluación De La Movilidad)",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Responsive Mobility (evaluación De La Movilidad)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Diana Liseth Angarita Lozano",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Miguel Angel Mendoza Moreno",
+      "Sonia Esperanza Diaz Marquez",
+      "Maria Eugenia Morales Puentes"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 56,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "8.- Multimedia : Sapae - Software Aprendiendo Pensamiento Aleatorio Y Estadística",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Sapae",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Jaime Fernando Morales Rodriguez"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 57,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Raeetificate",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Raeetificate",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Miguel Angel Mendoza Moreno",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Andres Steven Barrios Martinez"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 58,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Raeetificate",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Raeetificate",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Andres Steven Barrios Martinez"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 59,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Red Social Para Egresados De La Uptc",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Red Social Para Egresados De La Uptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "John Alexander Agudelo Rojas",
+      "Miguel Angel Mendoza Moreno",
+      "Gustavo Caceres Castellanos"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 60,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Marco De Trabajo De Desarrollo De Soluciones Informáticas Basado En Micro Servicios",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Marco De Trabajo De Desarrollo De Soluciones Informáticas Basado En Micro Servicios",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Josue Nicolas Pinzon Villlamil"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 61,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Toolkit Web Para La Clasificación De Imágenes Con Algoritmos De Aprendizaje De Máquina Supervisados",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Toolkit Web Para La Clasificación De Imágenes Con Algoritmos De Aprendizaje De Máquina Supervisados",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Alvaro Ramiro Hernandez Millan",
+      "Larry Mauricio Portocarrero Lopez",
+      "Miguel Angel Mendoza Moreno",
+      "Alexander Castro Romero"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 62,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Amecdroid",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Amecdroid",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Juan Sebastian Sarabanda Barrera",
+      "Miguel Angel Mendoza Moreno"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 63,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Toolkit Pipelines De Transformación De Imagen",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Toolkit Pipelines De Transformación De Imagen",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Larry Mauricio Portocarrero Lopez",
+      "Alvaro Ramiro Hernandez Millan",
+      "Miguel Angel Mendoza Moreno",
+      "Alexander Castro Romero"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 64,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Reglas Ortográficas Básicas, Uso De La (c, V, B, S, Z Y H)",
+    "country": "Colombia",
+    "year": 2017,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Leidy Fernanda Gonzalez Najar"
+    ],
+    "group": "e64b75bd"
+  },
+  {
+    "id": 65,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sipmo",
+    "country": "Colombia",
+    "year": 2013,
+    "tradeName": "Sipmo \"pedidos Por Celular \"",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Jhonatan Javier Alarcon Ariza"
+    ],
+    "group": "b2c61203"
+  },
+  {
+    "id": 66,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Responsive Mobility (evaluación De La Movilidad)",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Responsive Mobility (evaluación De La Movilidad)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Diana Liseth Angarita Lozano",
+      "Miguel Angel Mendoza Moreno",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Sonia Esperanza Diaz Marquez",
+      "Maria Eugenia Morales Puentes"
+    ],
+    "group": "e92a87b7"
+  },
+  {
+    "id": 67,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "1.- Multimedia : Suba Territorio Ambiental",
+    "country": "Colombia",
+    "year": 2007,
+    "tradeName": "Construcción De Estrategias De Trabajo Socioambiental",
+    "projectName": "Alcaldía Local De Suba - Dama",
+    "fundingInstitution": "Alcaldía Local De Suba",
+    "authors": [
+      "Maria Teresa Forero Duarte"
+    ],
+    "group": "c54881f0"
+  },
+  {
+    "id": 68,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "2.- Multimedia : Aportes Culturales Y Pedagógicos De 4 Juegos Tradicionales En El Grado 0 Por Medio De La Multimedia.",
+    "country": "Colombia",
+    "year": 2000,
+    "tradeName": "Los Juegos Tradicionales",
+    "projectName": "Universidad El Bosque",
+    "fundingInstitution": "",
+    "authors": [
+      "Carolina Soler Martin"
+    ],
+    "group": "c54881f0"
+  },
+  {
+    "id": 69,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Base De Datos Para Manejo De Proveedores En La Empresa Construcciones Y Montajes Electroduitama Ltda.",
+    "country": "Colombia",
+    "year": 2006,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Construcciones Y Montajes Electroduitama Ltda.",
+    "authors": [
+      "Flor Marlen Avila Guerrero"
+    ],
+    "group": "b3ebf344"
+  },
+  {
+    "id": 70,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Solución Informatica Para Los Estados Del Arte",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Carmen Cecilia Velandia Nino",
+      "Martha Yaneth Santana Martinez",
+      "Johana Marcela Ramos Jimenez"
+    ],
+    "group": "b3ebf344"
+  },
+  {
+    "id": 71,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Análisis, Diseño Y Programación De Una Solución Informática Para Un Modelo De Estado Del Arte De La Investigación Construido Por Los Programas De Administración De La Seccional Duitama Para Los Programas De Pregrado De La Uptc.",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "Sicea",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Johana Marcela Ramos Jimenez",
+      "Martha Yaneth Santana Martinez",
+      "Carmen Cecilia Velandia Nino"
+    ],
+    "group": "b3ebf344"
+  },
+  {
+    "id": 72,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Sistema De Información: Observatorio De Emprendimiento Tunja, Emprender Siobet",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Sistema De Información: Observatorio De Emprendimiento Tunja",
+    "projectName": "",
+    "fundingInstitution": "Alcaldía De Tunja",
+    "authors": [
+      "Gladys Yaneth Marino Becerra",
+      "Jose Luis Gaitan Suarez",
+      "Inelia Medina Sandoval"
+    ],
+    "group": "075a1dd0"
+  },
+  {
+    "id": 73,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Sistema De Informacion Para La Trazabilidad Del Tomate ¿ Trazato¿",
+    "country": "Colombia",
+    "year": 2012,
+    "tradeName": "Trazato",
+    "projectName": "Ministerio Del Interior Oficina De Derechos De Autor",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Gladys Yaneth Marino Becerra",
+      "Jose Luis Gaitan Suarez"
+    ],
+    "group": "075a1dd0"
+  },
+  {
+    "id": 74,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Sistema De Información Para El Centro De Gestionveredal De La Papa",
+    "country": "Colombia",
+    "year": 2012,
+    "tradeName": "Cegevepa",
+    "projectName": "Ministerio Del Interior Direccion Nacional De Derechos De Autor",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Jose Luis Gaitan Suarez",
+      "Gladys Yaneth Marino Becerra"
+    ],
+    "group": "075a1dd0"
+  },
+  {
+    "id": 75,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Sistema De Informacion Para El Centro De Gestion Veredal Del Tomate Valle De Los Dinosaurios Cegeveto",
+    "country": "Colombia",
+    "year": 2011,
+    "tradeName": "Sistema De Informacion Para El Centro De Gestion Veredal Del Tomate Valle De Los Dinosaurios Cegeveto",
+    "projectName": "Ministerio Del Interior Y Justicia",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Jose Luis Gaitan Suarez"
+    ],
+    "group": "075a1dd0"
+  },
+  {
+    "id": 76,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software De Gestión Documental Crepib",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Software De Gestión Documental Crepib",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Rosa Nely Perez Martinez",
+      "Ivan David Ruiz Rosas",
+      "Carlos Andres Perez Lopez"
+    ],
+    "group": "538f2306"
+  },
+  {
+    "id": 77,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema Para La Gestión De Proyectos",
+    "country": "Colombia",
+    "year": 2010,
+    "tradeName": "Sistema Para La Gestión De Proyectos",
+    "projectName": "Centro Regional De Gestión Para La Productividad E Innovación De Boyacá",
+    "fundingInstitution": "",
+    "authors": [
+      "Zulma Hasbleidy Viancha Sanchez"
+    ],
+    "group": "538f2306"
+  },
+  {
+    "id": 78,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Referenciación De La Productividad",
+    "country": "Colombia",
+    "year": 2005,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Zulma Hasbleidy Viancha Sanchez",
+      "Carlos Canaveral"
+    ],
+    "group": "538f2306"
+  },
+  {
+    "id": 79,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Monitoreo De Las Actividades De Innovación De Las Cadenas Agroalimentarias De Boyacá",
+    "country": "Colombia",
+    "year": 2005,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Zulma Hasbleidy Viancha Sanchez"
+    ],
+    "group": "538f2306"
+  },
+  {
+    "id": 80,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Información De Ciencia Y Tecnología Para Boyacá",
+    "country": "Colombia",
+    "year": 2004,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Zulma Hasbleidy Viancha Sanchez",
+      "Edwin Yesid Moreno Martinez"
+    ],
+    "group": "538f2306"
+  },
+  {
+    "id": 81,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pacana",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "Pacana",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Diana Carolina Latorre Velasquez",
+      "Claudia Patricia Navarro Roldan",
+      "Nancy Lizeth Ramirez Roncancio"
+    ],
+    "group": "af60f715"
+  },
+  {
+    "id": 82,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "2.- Multimedia : Pacana",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "Pacana: Situación De Resolución De Problemas Para Determinar Niveles De Comprensión Lectora",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Nancy Lizeth Ramirez Roncancio",
+      "Diana Carolina Latorre Velasquez",
+      "Claudia Patricia Navarro Roldan"
+    ],
+    "group": "af60f715"
+  },
+  {
+    "id": 83,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "3.- Multimedia : Pacana: Situación De Resolución De Problemas Para Determinar Niveles De Comprensión Lectora",
+    "country": "Colombia",
+    "year": 2008,
+    "tradeName": "Pacana",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Claudia Patricia Navarro Roldan",
+      "Nancy Ramirez",
+      "Carolina Latorrre Velasquez"
+    ],
+    "group": "af60f715"
+  },
+  {
+    "id": 84,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "4.- Multimedia : Juaninco: Situación De Resolución De Problemas Que Involucra La Comprensión De Sistemas De Engranajes",
+    "country": "Colombia",
+    "year": 2008,
+    "tradeName": "Juaninco",
+    "projectName": "Razonamiento Científico A Edades Tempranas En Ambientes Virtuales",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Claudia Patricia Navarro Roldan",
+      "Liliana Melendez"
+    ],
+    "group": "af60f715"
+  },
+  {
+    "id": 85,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "1.- Multimedia : Sensorium. Modelo De Diseño De Orientación Visual Interactiva Para Interfaces Digitales",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Claudia Rojas Rodriguez",
+      "Daniel Felipe Jimenez R"
+    ],
+    "group": "bced37cc"
+  },
+  {
+    "id": 86,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Plataforma Informatica Para El Observatorio Turistico En El Departamento De Boyaca",
+    "country": "Colombia",
+    "year": 2016,
+    "tradeName": "Observatorio Turistico - Otguia",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Ramon Hernando Granados",
+      "David Emmanuel Garcia Caceres",
+      "Hugo Alberto Cano Hernandez",
+      "Sandra Milena Sanchez Castellanos"
+    ],
+    "group": "cb6dddfb"
+  },
+  {
+    "id": 87,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Información Red De Gestión Integral Para La Retención Y Permanencia De La Universidad Nacional Abierta Y A Distancia",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Sistema De Información Red De Gestión Integral Para La Retención Y Permanencia De La Universidad Nacional Abierta Y A Distancia",
+    "projectName": "",
+    "fundingInstitution": "Universidad Nacional Abierta Y A Distancia",
+    "authors": [
+      "Julialba Angel Osorio",
+      "Yulian Adalberto Sepulveda Casadiego",
+      "Juan Carlos Padilla Osorio"
+    ],
+    "group": "4adc82bd"
+  },
+  {
+    "id": 88,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Camposmart",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Camposmart",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Jorge Armando Fonseca Carreno",
+      "Maria Consuelo Rodriguez Nino",
+      "Hector Elias Gonzalez Huerfano"
+    ],
+    "group": "4adc82bd"
+  },
+  {
+    "id": 89,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Fmcsatc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Fmcsatc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Carlos Arturo Parra Vargas",
+      "Indry Milena Saavedra Gaona",
+      "Miguel Angel Mendoza Moreno",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Fredy Yesid Mesa Jimenez",
+      "Carlos Andres Gonzalez Amarillo",
+      "Cristian Leonardo Cardenas Garcia"
+    ],
+    "group": "1957aa84"
+  },
+  {
+    "id": 90,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ibus",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Ibus",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diana Liseth Angarita Lozano",
+      "Miguel Angel Mendoza Moreno",
+      "Benjamin Rojas Alvarado",
+      "Jhefer Hernan Tellez Triana"
+    ],
+    "group": "c868a30b"
+  },
+  {
+    "id": 91,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Responsive Mobility (evaluación De La Movilidad)",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Responsive Mobility (evaluación De La Movilidad)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Sonia Esperanza Diaz Marquez",
+      "Maria Eugenia Morales Puentes",
+      "Diana Liseth Angarita Lozano",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Miguel Angel Mendoza Moreno"
+    ],
+    "group": "c868a30b"
+  },
+  {
+    "id": 92,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Responsive Mobility (evaluación De La Movilidad)",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Responsive Mobility (evaluación De La Movilidad)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diana Liseth Angarita Lozano",
+      "Miguel Angel Mendoza Moreno",
+      "Sonia Esperanza Diaz Marquez",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Maria Eugenia Morales Puentes"
+    ],
+    "group": "c868a30b"
+  },
+  {
+    "id": 93,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Modelo De Simulación De Líneas De Espera Simitv",
+    "country": "Colombia",
+    "year": 2005,
+    "tradeName": "Simitv",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Luis Gabriel Marquez Diaz"
+    ],
+    "group": "c868a30b"
+  },
+  {
+    "id": 94,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Herramientas Computacionales Para El Planeamiento Operativo Del Transporte Público Urbano",
+    "country": "Colombia",
+    "year": 2002,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Domingo Ernesto Duenas Ruiz",
+      "Helver Valero",
+      "Mauricio Cruz"
+    ],
+    "group": "c868a30b"
+  },
+  {
+    "id": 95,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Em-21 Entrenador Morse",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Entrenador Morse",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Patricia Carvajal Medina"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 96,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software Educativo Se Utilice En Aplicación Para Tablets Online Y Offline, Para Implementar En Los Grados 8, 9, 10 Y 11, Para El Apoyo De Modelos Educativos Flexibles En Las Zonas Rurales.",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Software Educativo Se Utilice En Aplicación Para Tablets Online Y Offline",
+    "projectName": "",
+    "fundingInstitution": "Corporación Para La Educación Y Las Tics",
+    "authors": [
+      "Miguel Angel Vargas Hernandez",
+      "Carmelia Judith Martinez Salcedo",
+      "Olga Najar Sanchez",
+      "William Oswaldo Cuervo Gomez",
+      "Ilba Yaneth Rodriguez Tamayo",
+      "Lynda Yohanna Prieto Gonzalez"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 97,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Curso Virtual Baja Visión Para Maestros",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Curso Virtual Baja Visión",
+    "projectName": "",
+    "fundingInstitution": "Corporación Para La Educación Y Las Tics",
+    "authors": [
+      "Miguel Angel Vargas Hernandez",
+      "Carmelia Judith Martinez Salcedo",
+      "Jasmin Tatiana Castrillon Valdes",
+      "Olga Najar Sanchez",
+      "Carolina Pita Corredor",
+      "Lynda Yohanna Prieto Gonzalez",
+      "William Oswaldo Cuervo Gomez",
+      "Ilba Yaneth Rodriguez Tamayo"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 98,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Modelo Educativo Flexible Postprimaria O Modelo Educativo Flexible Secundaria Activa Grado Sexto.",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Modelo Educativo Flexible Postprimaria O Modelo Educativo Flexible Secundaria Activa Grado Sexto.",
+    "projectName": "",
+    "fundingInstitution": "Corporación Para La Educación Y Las Tics",
+    "authors": [
+      "Miguel Angel Vargas Hernandez",
+      "Carmelia Judith Martinez Salcedo",
+      "Olga Najar Sanchez",
+      "William Oswaldo Cuervo Gomez",
+      "Ilba Yaneth Rodriguez Tamayo",
+      "Lynda Yohanna Prieto Gonzalez"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 99,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "5.- Multimedia : Diplomado En Nic_niif Para La Dirección De Impuestos Y Aduanas Nacionales Dian",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Diplomado En Nic_niif Para La Dirección De Impuestos Y Aduanas Nacionales Dian",
+    "projectName": "",
+    "fundingInstitution": "Corporación Para La Educación Y Las Tics",
+    "authors": [
+      "Miguel Angel Vargas Hernandez",
+      "Olga Najar Sanchez",
+      "William Oswaldo Cuervo Gomez",
+      "Ilba Yaneth Rodriguez Tamayo",
+      "Carmelia Judith Martinez Salcedo",
+      "Lynda Yohanna Prieto Gonzalez"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 100,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Curso Virtual Habilitación Básica Funcional",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Curso Virtual Habilitación Básica Funcional",
+    "projectName": "",
+    "fundingInstitution": "Corporación Para La Educación Y Las Tics",
+    "authors": [
+      "Miguel Angel Vargas Hernandez",
+      "Carmelia Judith Martinez Salcedo",
+      "Carmen Andrea Castro",
+      "Carolina Pita Corredor",
+      "Jasmin Tatiana Castrillon Valdes",
+      "Olga Najar Sanchez"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 101,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Curso Virtual Economía Solidaria",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Curso Virtual De Economía Solidaria",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia -  Uptc -  Sede Tunja",
+    "authors": [
+      "Miguel Angel Vargas Hernandez",
+      "Olga Najar Sanchez",
+      "William Oswaldo Cuervo Gomez",
+      "Ilba Yaneth Rodriguez Tamayo",
+      "Lynda Yohanna Prieto Gonzalez",
+      "Carmelia Judith Martinez Salcedo"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 102,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "8.- Otra : Finanzas Personales",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Curso Virtual Finanzas Personales",
+    "projectName": "",
+    "fundingInstitution": "Corporación Para La Educación Y Las Tics",
+    "authors": [
+      "Miguel Angel Vargas Hernandez",
+      "Olga Najar Sanchez",
+      "Lynda Yohanna Prieto Gonzalez",
+      "William Oswaldo Cuervo Gomez",
+      "Carmelia Judith Martinez Salcedo"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 103,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "9.- Multimedia : Lenguaje De Consulta Estructurado - Sql",
+    "country": "Colombia",
+    "year": 2017,
+    "tradeName": "Lenguaje De Consulta Estructurado - Sql",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Mary Luz Ortiz Ortiz",
+      "William Oswaldo Cuervo Gomez"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 104,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "10.- Multimedia : Método Prosdos",
+    "country": "Colombia",
+    "year": 2011,
+    "tradeName": "Método Prosdos",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "William Oswaldo Cuervo Gomez"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 105,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Administrador De Modulos Virtuales Educativos",
+    "country": "Colombia",
+    "year": 2008,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Jerson Velasquez Ruiz"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 106,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Comparación Entre Los Estilos De Aprendizaje Visual Y Auditivo Con Los Ambientes Computacionales Gráfico Y Sonoro",
+    "country": "Colombia",
+    "year": 2005,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Recursos Propios",
+    "authors": [
+      "Edgar Orlando Caro Caro"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 107,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "13.- Multimedia : \"diseño Y Elaboración De Un Software Para El Aprendizaje De Electrónica Digital Básica\"",
+    "country": "Colombia",
+    "year": 2004,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "William Oswaldo Cuervo Gomez"
+    ],
+    "group": "6a99c40d"
+  },
+  {
+    "id": 108,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "¿gestión De La Competitividad Del Sector Hotelero De Boyacá Modelo Tridimensional¿",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "¿gestión De La Competitividad Del Sector Hotelero De Boyacá Modelo Tridimensional¿",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Nubia Consuelo Cortes Rodriguez",
+      "Pedro Ignacio Moya Espinosa",
+      "Luz Clemencia Calvache Archila"
+    ],
+    "group": "f4ad87af"
+  },
+  {
+    "id": 109,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Gestión De La Competitividad Del Sector Hotelero De Boyacá Modelo Tridimensional",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Gestión De La Competitividad Del Sector Hotelero De Boyacá Modelo Tridimensional",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Nubia Consuelo Cortes Rodriguez",
+      "Pedro Ignacio Moya Espinosa",
+      "Luz Clemencia Calvache Archila"
+    ],
+    "group": "f4ad87af"
+  },
+  {
+    "id": 110,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Gestión De La Competitividad Del Sector Hotelero De Boyacá Modelo Tridimensional",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Gestión De La Competitividad Del Sector Hotelero De Boyacá Modelo Tridimensional",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Pedro Ignacio Moya Espinosa",
+      "Nubia Consuelo Cortes Rodriguez"
+    ],
+    "group": "f4ad87af"
+  },
+  {
+    "id": 111,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Sistema De Información: Observatorio De Emprendimiento Tunja, Emprender Siobet",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Sistema De Información: Observatorio De Emprendimiento Tunja",
+    "projectName": "",
+    "fundingInstitution": "Alcaldía De Tunja",
+    "authors": [
+      "Gladys Yaneth Marino Becerra",
+      "Jose Luis Gaitan Suarez",
+      "Inelia Medina Sandoval"
+    ],
+    "group": "19fa46a8"
+  },
+  {
+    "id": 112,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Sistema De Información: Observatorio De Emprendimiento Tunja, Emprender Siobet",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Sistema De Información: Observatorio De Emprendimiento Tunja",
+    "projectName": "",
+    "fundingInstitution": "Alcaldía De Tunja",
+    "authors": [
+      "Gladys Yaneth Marino Becerra",
+      "Jose Luis Gaitan Suarez",
+      "Inelia Medina Sandoval"
+    ],
+    "group": "19fa46a8"
+  },
+  {
+    "id": 113,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Sistema De Informacion Para La Trazabilidad Del Tomate ¿ Trazato¿",
+    "country": "Colombia",
+    "year": 2012,
+    "tradeName": "Trazato",
+    "projectName": "Ministerio Del Interior Oficina De Derechos De Autor",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Gladys Yaneth Marino Becerra",
+      "Jose Luis Gaitan Suarez"
+    ],
+    "group": "19fa46a8"
+  },
+  {
+    "id": 114,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Sistema De Informacion Para El Centro De Gestion Veredal De La Papa",
+    "country": "Colombia",
+    "year": 2012,
+    "tradeName": "Cegevepa",
+    "projectName": "Ministerio Del Interior: Direccion Nacional De Derechos De Autor",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Gladys Yaneth Marino Becerra",
+      "Jose Luis Gaitan Suarez"
+    ],
+    "group": "19fa46a8"
+  },
+  {
+    "id": 115,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Sistema De Información Para El Centro De Gestión Veredal Del Tomate Valle De Los Dinosaurios Cegeveto.",
+    "country": "Colombia",
+    "year": 2011,
+    "tradeName": "Cegeveto",
+    "projectName": "Direccion Nacional De Derechos De Autor",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Gladys Yaneth Marino Becerra",
+      "Jose Luis Gaitan Suarez"
+    ],
+    "group": "19fa46a8"
+  },
+  {
+    "id": 116,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Modelo De Simulación Gerencial",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "Modelo De Simulación Gerencial \" Un Juego Empresarial\"",
+    "projectName": "",
+    "fundingInstitution": "Universidad De Boyacá",
+    "authors": [
+      "Carlos Julio Pacanchique Pacanchique",
+      "Gloria Carvajal Estupinan"
+    ],
+    "group": "19fa46a8"
+  },
+  {
+    "id": 117,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Calculadora Electrónica Básica",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Fausto Mauricio Lagos Suarez"
+    ],
+    "group": "240668d9"
+  },
+  {
+    "id": 118,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Calculadora De Funciones Parabólicas",
+    "country": "Colombia",
+    "year": 2002,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Fausto Mauricio Lagos Suarez"
+    ],
+    "group": "240668d9"
+  },
+  {
+    "id": 119,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "1.- Multimedia : Videojuego Didáctico En Estequiometria Para Estudiantes De Educación Media- Moll2all",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Moll2alluptc",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Laura Marcela Rincon Perez",
+      "Jorge Enrique Otalora Luna"
+    ],
+    "group": "321f34ed"
+  },
+  {
+    "id": 120,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "2.- Multimedia : El Mundo De Los Números Fraccionarios",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "William Orlando Alvarez Araque"
+    ],
+    "group": "321f34ed"
+  },
+  {
+    "id": 121,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "3.- Otra : Software Colaborativo Para La Integración De Investigadores A Través De Renata.",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Aracelly Forero Romero"
+    ],
+    "group": "321f34ed"
+  },
+  {
+    "id": 122,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Easyventapp",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Easyventapp",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Hugo Ruiz Bautista",
+      "Nancy Moreno Chacon",
+      "Juan Carlos Camargo Garcia"
+    ],
+    "group": "1d8f22dc"
+  },
+  {
+    "id": 123,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "\"figura\" Sistema Para El Control De Figuracion",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Siderurgica Nacional Sidenal S.a.",
+    "authors": [
+      "Fredy Alexander Alvarado Alvarado"
+    ],
+    "group": "1d8f22dc"
+  },
+  {
+    "id": 124,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "\"concal\" Control Estadistico De Calidad",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Siderurgica Nacional Sidenal S.a.",
+    "authors": [
+      "Fredy Alexander Alvarado Alvarado"
+    ],
+    "group": "1d8f22dc"
+  },
+  {
+    "id": 125,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Polymerstrainapp",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Ricardo Alfonso Paredes Roa",
+      "Daniel Nicolas Quintana Marino",
+      "Karol Lizeth Roa Bohorquez",
+      "Hugo Fernando Castro Silva"
+    ],
+    "group": "1d8f22dc"
+  },
+  {
+    "id": 126,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "\"siger\" Sistema De Gestión De Indicadores Y Evaluación De Resultados",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "\"siger\"",
+    "projectName": "",
+    "fundingInstitution": "Siderurgica Nacional Sidenal S.a.",
+    "authors": [
+      "Fredy Alexander Alvarado Alvarado"
+    ],
+    "group": "1d8f22dc"
+  },
+  {
+    "id": 127,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "\"sidor\" Sistema De Documentación Y Registros",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Sidor",
+    "projectName": "",
+    "fundingInstitution": "Siderurgica Nacional Sidenal S.a.",
+    "authors": [
+      "Fredy Alexander Alvarado Alvarado"
+    ],
+    "group": "1d8f22dc"
+  },
+  {
+    "id": 128,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Appbikeroute",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ricardo Alfonso Paredes Roa",
+      "Hugo Fernando Castro Silva"
+    ],
+    "group": "1d8f22dc"
+  },
+  {
+    "id": 129,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Agility Vas",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Hugo Ruiz Bautista",
+      "Andres Leonardo Alfonso Diaz",
+      "Ivan David Alfonso Diaz",
+      "Rafael Guillermo Garcia Caceres"
+    ],
+    "group": "1d8f22dc"
+  },
+  {
+    "id": 130,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "1.- Multimedia : Explorando Mi Colegio",
+    "country": "Colombia",
+    "year": 2007,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Alexander Mojica Ruiz"
+    ],
+    "group": "012c9dcd"
+  },
+  {
+    "id": 131,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Base De Datos Para El Registro Y Manejo De La Colección Zoológica Del Museo De Historia Natural",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Gloria Leonor Gutierrez Gomez",
+      "Miguel Angel Leguizamon",
+      "Luis Gonzalo Andrade Trujillo"
+    ],
+    "group": "012c9dcd"
+  },
+  {
+    "id": 132,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Monitor Vam",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Asociación Profesional De Egresados Uptc",
+    "authors": [
+      "Eduardo Avendano Fernandez",
+      "Fabian Andres Medina Becerra",
+      "Andres Leonardo Alfonso Diaz",
+      "Ivan David Alfonso Diaz"
+    ],
+    "group": "e55c1d22"
+  },
+  {
+    "id": 133,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Subtune: Software Para Modelos De Propogación En Espacios Subterráneos",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia -  Uptc -  Sede Tunja",
+    "authors": [
+      "Eduardo Avendano Fernandez",
+      "Cristian Camilo Suancha Alvarez",
+      "Fabian Andres Medina Becerra"
+    ],
+    "group": "e55c1d22"
+  },
+  {
+    "id": 134,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Remote Data Capture Control",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Herman Antonio Fernandez Gonzalez",
+      "Juan Carlos Munoz Perez",
+      "Fabian Andres Medina Becerra"
+    ],
+    "group": "e55c1d22"
+  },
+  {
+    "id": 135,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Remote Data Capture Control",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Juan Carlos Munoz Perez",
+      "Herman Antonio Fernandez Gonzalez",
+      "Fabian Andres Medina Becerra"
+    ],
+    "group": "e55c1d22"
+  },
+  {
+    "id": 136,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Desarrollo De Aplicativo Web Para Lectura De Etiquetas Rfid Para Control De Inventario En Biblioteca",
+    "country": "Colombia",
+    "year": 2012,
+    "tradeName": "Aplicativo Web Para Gestión De Inventario De Bibliografía Usando Rfid",
+    "projectName": "",
+    "fundingInstitution": "Universidad Santo Tomas Seccional Tunja",
+    "authors": [
+      "Eduardo Avendano Fernandez"
+    ],
+    "group": "e55c1d22"
+  },
+  {
+    "id": 137,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software Para Diseño De Dipolos Y Loops En Matlab",
+    "country": "Colombia",
+    "year": 2008,
+    "tradeName": "Software En Matlab Para Simulación Y Cálculo De Parámetros De Interes De Antenas Dipolo Y Loops",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Eduardo Avendano Fernandez"
+    ],
+    "group": "e55c1d22"
+  },
+  {
+    "id": 138,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Aplicativo Para Estadísticas Y Análisis De Tráfico.",
+    "country": "Colombia",
+    "year": 2005,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Empresas Municipales De Cali E.i.c.e. E.s.p.",
+    "authors": [
+      "Juan Carlos Munoz Perez"
+    ],
+    "group": "e55c1d22"
+  },
+  {
+    "id": 139,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Base De Datos En Discapacidad, Nutricion, Maltrato Y Sustancias Psicoactivas En Tunja Y Duitama",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "Aplicacion En Salud Epiinfo",
+    "projectName": "",
+    "fundingInstitution": "Issb",
+    "authors": [
+      "Fred Manrique Abril"
+    ],
+    "group": "852018b8"
+  },
+  {
+    "id": 140,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Webvalidator 2.1: Análisis De Accesibilidad De Sitios Web Bajo Pautas Wcag 2.1",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Webvalidator 2.1: Análisis De Accesibilidad De Sitios Web Bajo Pautas Wcag 2.1",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Jorge Armando Nino Vega",
+      "Julio Enrique Duarte",
+      "Flavio Humberto Fernandez Morales"
+    ],
+    "group": "602e5913"
+  },
+  {
+    "id": 141,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Principios De Funcionamiento De Un Transformador Didáctico Desmontable",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Principios De Funcionamiento De Un Transformador Didáctico Desmontable",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Julio Enrique Duarte",
+      "Flavio Humberto Fernandez Morales",
+      "Yenny Briggitt Diaz Triana"
+    ],
+    "group": "602e5913"
+  },
+  {
+    "id": 142,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Técnicas Ópticas Para La Medida De Pequeños Desplazamientos",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Técnicas Ópticas Para La Medida De Pequeños Desplazamientos",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Julio Enrique Duarte",
+      "Flavio Humberto Fernandez Morales",
+      "Luis Fernando Parra Leon"
+    ],
+    "group": "602e5913"
+  },
+  {
+    "id": 143,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Material Educativo Computarizado",
+    "country": "Colombia",
+    "year": 2017,
+    "tradeName": "Aquavida",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Ruben Dario Angarita Lopez"
+    ],
+    "group": "602e5913"
+  },
+  {
+    "id": 144,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Material Educativo Computarizado Para Ver El Funcionamiento De Una Arrancador Suave Y Su Interaccion Con Un Motor Trifasico Jaula De Ardilla",
+    "country": "Colombia",
+    "year": 2010,
+    "tradeName": "Funcionamiento De Un Arrancador Suave Y Su Interaccion Con Un Motor Trifasico Jaula De Ardilla.",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Luis Fernando Parra Leon"
+    ],
+    "group": "602e5913"
+  },
+  {
+    "id": 145,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ii Autoevaluación Programa De Licenciatura En Ciencias Sociales",
+    "country": "Colombia",
+    "year": 2013,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Franz Gutierrez Rey"
+    ],
+    "group": "06f7d8e0"
+  },
+  {
+    "id": 146,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "2.- Multimedia : Memorias Del Iv Simposio Colombo Mexicano De Investigación Geográfica",
+    "country": "Colombia",
+    "year": 2011,
+    "tradeName": "",
+    "projectName": "Convenio Universidad Pedagógica Y Tecnológica De Colombia (uptc) E Instituto Geográfico Agustín Codazzi (igac)",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Franz Gutierrez Rey"
+    ],
+    "group": "06f7d8e0"
+  },
+  {
+    "id": 147,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "3.- Multimedia : Curso Básico De Geografía Física",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "Curso Básico De Geografía Física - Multimedia",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Franz Gutierrez Rey"
+    ],
+    "group": "06f7d8e0"
+  },
+  {
+    "id": 148,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "4.- Multimedia : Autoevaluación Programa De Licenciatura En Ciencias Sociales",
+    "country": "Colombia",
+    "year": 2007,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Franz Gutierrez Rey"
+    ],
+    "group": "06f7d8e0"
+  },
+  {
+    "id": 149,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "5.- Multimedia : Memorias Del Diplomado De Gestión Urbana Para El Ordenamiento Territorial",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Franz Gutierrez Rey"
+    ],
+    "group": "06f7d8e0"
+  },
+  {
+    "id": 150,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Paquete De Software Educativo Sobre La Hidrografía",
+    "country": "Colombia",
+    "year": 1992,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Corpporación  Universitaria Antonio Nario",
+    "authors": [
+      "Franz Gutierrez Rey"
+    ],
+    "group": "06f7d8e0"
+  },
+  {
+    "id": 151,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Radypol",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Radypol",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Carlos Eduardo Martinez Suarez",
+      "Hugo Hernado Mendoza Vargas",
+      "Isaura Rojas Sanchez"
+    ],
+    "group": "5be9280b"
+  },
+  {
+    "id": 152,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software De Gestión De Proyectos De Grado Para Posgrados De La Universidad Pedagógica Y Tecnológica De",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Software De Gestión De Proyectos De Grados Para Posgrados De La Universidad Pedagógica Y Tecnológica De Colombia (uptc)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Luis Miguel Toloza Gordillo",
+      "Jorge Andres Sarmiento Rojas"
+    ],
+    "group": "5be9280b"
+  },
+  {
+    "id": 153,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software De Gestión De Proyectos De Grado Para Posgrados De La Universidad Pedagógica Y Tecnológica De",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Software De Gestión De Proyectos De Grados Para Posgrados De La Universidad Pedagógica Y Tecnológica De Colombia (uptc)",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Jorge Andres Sarmiento Rojas",
+      "Luis Miguel Toloza Gordillo"
+    ],
+    "group": "5be9280b"
+  },
+  {
+    "id": 154,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Vibraseñales",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Vibraseñales",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Angel Eduard Rodriguez Suesca"
+    ],
+    "group": "5be9280b"
+  },
+  {
+    "id": 155,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Dismeconcret",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Dismeconcret",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Carlos Eduardo Martinez Suarez",
+      "Daniel Santiago Romero Suesca"
+    ],
+    "group": "5be9280b"
+  },
+  {
+    "id": 156,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Opvs- Sotware De Organización Y Planeación Unificadas",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Opvs- Sotware De Organización Y Planeación Unificadas",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Luis Miguel Toloza Gordillo",
+      "Jorge Andres Sarmiento Rojas"
+    ],
+    "group": "5be9280b"
+  },
+  {
+    "id": 157,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Opvs- Sotware De Organización Y Planeación Unificadas",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Jorge Andres Sarmiento Rojas",
+      "Luis Miguel Toloza Gordillo"
+    ],
+    "group": "5be9280b"
+  },
+  {
+    "id": 158,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Sistema De Monitoreo Para Procesos De Protección Catódica Con Almacenamiento En Datalogger Y Envío Página Web",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Sistema De Monitoreo Para Procesos De Protección Catódica Con Almacenamiento En Datalogger Y Envío Página Web",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Enrique Vera Lopez",
+      "Daniel Alejandro Rodriguez Caro",
+      "Yaneth Pineda Triana"
+    ],
+    "group": "5f165f56"
+  },
+  {
+    "id": 159,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Monitoreo Para Procesos De Protección Catódica Con Almacenamiento En Datalogger Y Envío Página Web",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Sistema De Monitoreo Para Procesos De Protección Catódica Con Almacenamiento En Datalogger Y Envío Página Web",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Enrique Vera Lopez",
+      "Yaneth Pineda Triana",
+      "Daniel Alejandro Rodriguez Caro"
+    ],
+    "group": "5f165f56"
+  },
+  {
+    "id": 160,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Desarrollo De Una Herramienta Informatica Georeferenciada Para Analisis De Integridad De Ductos",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "Software Para Evaluacion De Integridad En Ductos",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Enrique Vera Lopez"
+    ],
+    "group": "5f165f56"
+  },
+  {
+    "id": 161,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Boyacapet",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Boyacapet- Vivienda Sustentable",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Myriam Yolanda Paredes Ceballos"
+    ],
+    "group": "30525453"
+  },
+  {
+    "id": 162,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "1.- Multimedia : Anatomía Y Radiología De La Columna Cervical",
+    "country": "Colombia",
+    "year": 2007,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Bernardo Francisco Melendez Alvarez"
+    ],
+    "group": "2998cec7"
+  },
+  {
+    "id": 163,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Base De Datos En Discapacidad, Nutricion, Maltrato Y Sustancias Psicoactivas En Tunja Y Duitama",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "Aplicacion En Salud Epiinfo",
+    "projectName": "",
+    "fundingInstitution": "Issb",
+    "authors": [
+      "Fred Manrique Abril"
+    ],
+    "group": "2998cec7"
+  },
+  {
+    "id": 164,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Información De Productividad Sip-uptc",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Sistema De Gestión De La Investigación Sgi-uptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Zaida Zarely Ojeda Perez",
+      "Juan Sebastian Gonzalez Sanabria",
+      "Enrique Vera Lopez",
+      "German Amezquita Becerra"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 165,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Gestión De La Investigación Sgi-uptc",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Sistema De Gestión De La Investigación Sgi-uptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Zaida Zarely Ojeda Perez",
+      "Enrique Vera Lopez",
+      "Juan Sebastian Gonzalez Sanabria",
+      "Juan Sebastian Diaz Penuela"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 166,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Nakamura 2000",
+    "country": "Colombia",
+    "year": 2000,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Orlando Rincon Arango",
+      "Andrez Paez"
+    ],
+    "group": "e970b91b"
+  },
+  {
+    "id": 167,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "1.- Multimedia : Video Proyecto Posgrados Uptc",
+    "country": "Colombia",
+    "year": 2011,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Yenny Paola Martinez Acero"
+    ],
+    "group": "2f03ec7a"
+  },
+  {
+    "id": 168,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Agility Vas",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres",
+      "Andres Leonardo Alfonso Diaz",
+      "Ivan David Alfonso Diaz",
+      "Hugo Ruiz Bautista"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 169,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Agility Vas",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Software Aplicativo Especializado Registrado",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres",
+      "Hugo Ruiz Bautista",
+      "Andres Leonardo Alfonso Diaz",
+      "Ivan David Alfonso Diaz"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 170,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Scloudpy: Sistema Informático Web De Multi-tenencia Para El Procesamiento En La Nube De Pedidos De Pymes",
+    "country": "Colombia",
+    "year": 2014,
+    "tradeName": "Scloudpy",
+    "projectName": "",
+    "fundingInstitution": "Pontificia Universidad Javeriana",
+    "authors": [
+      "Martha Helena Carrillo Ramirez",
+      "Lina Maria Consuelo Franky De Toro"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 171,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Grupal Expert Decision - Ged - Professional Non Explicit - Vr.1.2.0.",
+    "country": "Colombia",
+    "year": 2010,
+    "tradeName": "Ged - Professional Non Explicit - Vr.1.2.0.",
+    "projectName": "Ged - Professional Non Explicit - Vr.1.2.0.",
+    "fundingInstitution": "Rafael Guillermo García Cáceres",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres",
+      "Diana Carolina Ferro Valbuena"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 172,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Grupal Expert Decision - Ged - Professional Ordinal- Vr.1.2.0.",
+    "country": "Colombia",
+    "year": 2010,
+    "tradeName": "Ged - Professional Ordinal- Vr.1.2.0.",
+    "projectName": "Ged - Professional Ordinal- Vr.1.2.0.",
+    "fundingInstitution": "Rafael Guillermo García Cáceres",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres",
+      "Diana Carolina Ferro Valbuena"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 173,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Grupal Expert Decision - Profesional Stochastic - Vr 1.2.0",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "Grupal Expert Decision - Ged - Profesional Stochastic - Vr. 1.2.0",
+    "projectName": "Grupal Expert Decision - Ged - Profesional Stochastic - Vr. 1.2.0",
+    "fundingInstitution": "",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres",
+      "Diana Carolina Ferro Valbuena"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 174,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Grupal Expert Decision - Professional Deterministic - Vr.1.2.0",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "Grupal Expert Decision - Professional Deterministic - Vr.1.2.0",
+    "projectName": "Grupal Expert Decision - Professional Deterministic - Vr.1.2.0",
+    "fundingInstitution": "Rafael Guillermo García Cáceres",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres",
+      "Diana Carolina Ferro Valbuena"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 175,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Grupal Expert Decision - Ged - Professional - Vr.1.2.0",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "Grupal Expert Decision - Ged - Professional - Vr.1.2.0",
+    "projectName": "Grupal Expert Decision - Ged - Professional - Vr.1.2.0",
+    "fundingInstitution": "Rafael Guillermo García Cáceres",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres",
+      "Diana Carolina Ferro Valbuena"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 176,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Grupal Expert Decision - Nondominant",
+    "country": "Colombia",
+    "year": 2008,
+    "tradeName": "Grupal Expert Decision - Nondominant",
+    "projectName": "Grupal Expert Decision - Nondominant",
+    "fundingInstitution": "Rafael Guillermo García Cáceres",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 177,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Grupal Expert Decision - Ordinal",
+    "country": "Colombia",
+    "year": 2008,
+    "tradeName": "Grupal Expert Decision - Ordinal",
+    "projectName": "Grupal Expert Decision - Ordinal",
+    "fundingInstitution": "Rafael Guillermo García Cáceres",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 178,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Grupal Expert Decision - Stochastic",
+    "country": "Colombia",
+    "year": 2008,
+    "tradeName": "Grupal Expert Decision - Stochastic",
+    "projectName": "Grupal Expert Decision - Stochastic",
+    "fundingInstitution": "Rafael Guillermo García Cáceres",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 179,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Grupal Expert Decision - Deterministic",
+    "country": "Colombia",
+    "year": 2008,
+    "tradeName": "Grupal Expert Decision - Deterministic",
+    "projectName": "Grupal Expert Decision - Deterministic",
+    "fundingInstitution": "Rafael Guillermo García Cáceres",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 180,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Preferential Decision (academic)",
+    "country": "Colombia",
+    "year": 2006,
+    "tradeName": "Preferential Decision (academic)",
+    "projectName": "Preferential Decision (academic)",
+    "fundingInstitution": "Rafael Guillermo García Cáceres",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres",
+      "Sergio Torres Valdivieso",
+      "Diana Carolina Ferro Valbuena"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 181,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Cmtd (academic)",
+    "country": "Colombia",
+    "year": 2006,
+    "tradeName": "Cmtd Academic",
+    "projectName": "Dirección Nacional De Derechos De Autor",
+    "fundingInstitution": "Pontificia Universidad Javeriana",
+    "authors": [
+      "Rafael Guillermo Garcia Caceres",
+      "Olga Lucia Garcia",
+      "Felipe Nieto"
+    ],
+    "group": "3fc3eabf"
+  },
+  {
+    "id": 182,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Monitorizar La Propagación De La Enfermedad De Leucosis Bovina",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "David Eduardo Guerrero Casas",
+      "Javier Antonio Ballesteros Ricaurte"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 183,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Investigation System Comparator",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "Esteban Novoa Quinones",
+      "Samuel Felipe Ruiz Duarte"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 184,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Cvlac Scraper",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Cvlac Scraper",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "Alexander Castro Romero",
+      "Esteban Novoa Quinones",
+      "Samuel Felipe Ruiz Duarte"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 185,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Información De Productividad Sip-uptc",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Sistema De Información De Productividad Sip-uptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "Zaida Zarely Ojeda Perez",
+      "Enrique Vera Lopez",
+      "German Amezquita Becerra"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 186,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Gestión De La Investigación Sgi-uptc",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Sistema De Gestión De La Investigación Sgi-uptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "Enrique Vera Lopez",
+      "Juan Sebastian Diaz Penuela",
+      "Zaida Zarely Ojeda Perez"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 187,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Memo-math",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Javier Antonio Ballesteros Ricaurte",
+      "Monica Katherine Duran Vaca",
+      "Angela Maria Gonzalez Amarillo",
+      "Ariel Guillermo Sanchez Paipilla",
+      "Pedro Lopez Castellanos"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 188,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "App Ansenti",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Monica Katherine Duran Vaca",
+      "Ariel Guillermo Sanchez Paipilla",
+      "Javier Antonio Ballesteros Ricaurte",
+      "Pedro Lopez Castellanos",
+      "Angela Maria Gonzalez Amarillo"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 189,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ri - Evaluación De Repositorios",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Ri - Evaluación De Repositorios",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "Fabian Nicolas Ramos Corredor"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 190,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "App Sentimientos",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Javier Antonio Ballesteros Ricaurte",
+      "Ariel Guillermo Sanchez Paipilla",
+      "Monica Katherine Duran Vaca",
+      "Angela Maria Gonzalez Amarillo",
+      "Pedro Lopez Castellanos"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 191,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Game-math",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Javier Antonio Ballesteros Ricaurte",
+      "Monica Katherine Duran Vaca",
+      "Angela Maria Gonzalez Amarillo",
+      "Ariel Guillermo Sanchez Paipilla",
+      "Pedro Lopez Castellanos"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 192,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Journal Stats 1.0",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "Camila Andrea Herrera Melo",
+      "Javier Antonio Ballesteros Ricaurte"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 193,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Journal Stats 1.0",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Journal Stats 1.0",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "Camila Andrea Herrera Melo",
+      "Julian Camilo Serna Vargas",
+      "Javier Antonio Ballesteros Ricaurte"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 194,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Reference Stats",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Reference Stats",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "Camila Andrea Herrera Melo",
+      "Julian Camilo Serna Vargas"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 195,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Api Scracovid",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia -  Uptc -  Sede Tunja",
+    "authors": [
+      "Ariel Guillermo Sanchez Paipilla",
+      "Monica Katherine Duran Vaca",
+      "Javier Antonio Ballesteros Ricaurte",
+      "Angela Maria Gonzalez Amarillo"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 196,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Scracovid",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia -  Uptc -  Sede Tunja",
+    "authors": [
+      "Ariel Guillermo Sanchez Paipilla",
+      "Monica Katherine Duran Vaca",
+      "Angela Maria Gonzalez Amarillo",
+      "Javier Antonio Ballesteros Ricaurte"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 197,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Scracovid-movil",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Ariel Guillermo Sanchez Paipilla",
+      "Monica Katherine Duran Vaca",
+      "Javier Antonio Ballesteros Ricaurte",
+      "Angela Maria Gonzalez Amarillo"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 198,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema Para La Generación De Triggers De Auditoría De Transacciones De Tabla Para El Sgbd Oracle 11g R2 Versión 1.0",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Audit Trigger Generator",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "William Orlando Cuervo Aponte"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 199,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Validador De Calidad De Referencias De Artículos Científicos Para Revistas Publicadas En Ojs",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "Camila Andrea Herrera Melo",
+      "Julian Camilo Serna Vargas"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 200,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Simulador Logmath",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Angela Maria Gonzalez Amarillo",
+      "Adriana Granados Comba",
+      "Javier Ernesto Rodriguez Hernandez",
+      "Javier Antonio Ballesteros Ricaurte"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 201,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Red Social Para Egresados De La Uptc",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Red Social Para Egresados De La Uptc",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "John Alexander Agudelo Rojas",
+      "Miguel Angel Mendoza Moreno",
+      "Gustavo Caceres Castellanos"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 202,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Algoritmo Para La Proyección Y Análisis Volumétrico En Los Sgbd Postgresql Y Oracle",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Algoritmo Para La Proyección Y Análisis Volumétrico En Los Sgbd Postgresql Y Oracle",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Juan Sebastian Gonzalez Sanabria",
+      "Jhon Alexander Vega Martinez",
+      "Omar Alfonso Sepulveda Cordon"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 203,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Analizador Semántico",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Julian Camilo Pulido Delgado"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 204,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Analizador Semántico",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Analizador Semántico Apoyado En Ontologías Para Analisis De Tendencias I+d+i",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Marco Javier Suarez Baron",
+      "Julian Camilo Pulido Delgado"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 205,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Herramienta De Visualización Y Diagnóstico De Escenarios De Riesgo De Oleoductos Basados En Información Georreferenciada",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Leidy Alexandra Lozano Jacome"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 206,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Herramienta De Visualización Y Diagnóstico De Escenarios De Riesgo De Oleoductos Basados En Información Georreferenciada",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Claudia Marcela Corredor Reyes"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 207,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "¿\tSistema Para El Control De Mantenimiento Del Parque Automotor Y Control De Conductores En Empresas De Transporte Público Intermunicipal.",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "¿\tSistema Para El Control De Mantenimiento Del Parque Automotor Y Control De Conductores En Empresas De Transporte Público Intermunicipal.",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Diego Alfonso Pedroza Castro"
+    ],
+    "group": "966dbca2"
+  },
+  {
+    "id": 208,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software Para El Manejo Integral De La Corrosión En Los Campos De Producción De Yaguara Y Río Ceibas De Petrobras",
+    "country": "Colombia",
+    "year": 2001,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Petrobras Colombia",
+    "authors": [
+      "Enrique Vera Lopez",
+      "Jaime Corredor"
+    ],
+    "group": "cd8602f1"
+  },
+  {
+    "id": 209,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Subtune: Software Para Modelos De Propagación En Espacios Subterráneos",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Cristian Camilo Suancha Alvarez"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 210,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Hydro Taylor Monitor",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Jairo Armando Riano Herrera",
+      "Marco Javier Suarez Baron",
+      "Oscar Javier Garcia Cabrejo"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 211,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sgi 3535",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Sgi 3535",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Marco Javier Suarez Baron",
+      "Oscar Javier Garcia Cabrejo",
+      "Jairo Armando Riano Herrera"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 212,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sgi-3535",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Jairo Armando Riano Herrera",
+      "Marco Javier Suarez Baron",
+      "Oscar Javier Garcia Cabrejo"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 213,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Monitor Vam",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Monitor Vam",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Fabian Andres Medina Becerra",
+      "Eduardo Avendano Fernandez",
+      "Andres Leonardo Alfonso Diaz",
+      "Ivan David Alfonso Diaz"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 214,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Hydro Taylor Monitor",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Hydro Taylor Monitor",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Marco Javier Suarez Baron",
+      "Oscar Javier Garcia Cabrejo",
+      "Jairo Armando Riano Herrera"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 215,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "App Potato",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "App Potato",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Marco Javier Suarez Baron",
+      "Johan David Diaz Mendivelso",
+      "Robert Alexander Limas Sierra"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 216,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Remote Data Capture Control",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Fabian Andres Medina Becerra",
+      "Herman Antonio Fernandez Gonzalez",
+      "Juan Carlos Munoz Perez"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 217,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Caracterizacion Empresarial",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Caracterizacion Empresarial",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Camilo Harvey Bohorquez Dallos",
+      "Andrea Catherine Alarcon Aldana"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 218,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Rifile",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Fabian Andres Medina Becerra",
+      "Andres Leonardo Alfonso Diaz"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 219,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Repositorio De Gamificación En Ambientes De Aprendizaje Activo (aaa)",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Repositorio De Gamificación En Ambientes De Aprendizaje Activo (aaa)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Jose Vidal Contreras Cuervo",
+      "Jairo Armando Riano Herrera"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 220,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Repositorio De Gamigicación En Ambientes Virtuales De Aprendizaje (aaa)",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Repositorio De Gamigicación En Ambientes Virtuales De Aprendizaje (aaa)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Jairo Armando Riano Herrera",
+      "Jose Vidal Contreras Cuervo",
+      "Jahir Fabian Fiquitiva Ricaurte"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 221,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Predictor De Situación Académica Uptc Seccional Sogamoso",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Predictor De Situación Académica Uptc Seccional Sogamoso",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Johan David Diaz Mendivelso",
+      "Marco Javier Suarez Baron"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 222,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Predictor De Situación Académica Uptc Seccional Sogamoso",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Predictor  De  Situación  Académica  Uptc  Seccional  Sogamoso",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia -  Uptc -  Sede Tunja",
+    "authors": [
+      "Marco Javier Suarez Baron",
+      "Johan David Diaz Mendivelso"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 223,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Agility Ntf",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Andres Leonardo Alfonso Diaz",
+      "Marien Rocio Barrera Gomez"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 224,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Agricultic, Software Para La Adquisión De Datos, Monitoreo Y Control De Procesos Agroindustriales",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Jairo Armando Riano Herrera",
+      "Jorge Enrique Chaparro Mesa",
+      "Fredy Alonso Leon Socha"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 225,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Agility Lab",
+    "country": "Colombia",
+    "year": 2017,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Andres Leonardo Alfonso Diaz"
+    ],
+    "group": "4b6a88eb"
+  },
+  {
+    "id": 226,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Webvalidator 2.1: Análisis De Accesibilidad De Sitios Web Bajo Pautas Wcag 2.1",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Webvalidator 2.1: Análisis De Accesibilidad De Sitios Web Bajo Pautas Wcag 2.1",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Flavio Humberto Fernandez Morales",
+      "Jorge Armando Nino Vega",
+      "Julio Enrique Duarte"
+    ],
+    "group": "fb7412df"
+  },
+  {
+    "id": 227,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Webvalidator 2.1: Análisis De Accesibilidad De Sitios Web Bajo Pautas Wcag 2.1",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Webvalidator 2.1: Análisis De Accesibilidad De Sitios Web Bajo Pautas Wcag 2.1",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Julio Enrique Duarte",
+      "Jorge Armando Nino Vega",
+      "Flavio Humberto Fernandez Morales"
+    ],
+    "group": "fb7412df"
+  },
+  {
+    "id": 228,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Principios De Funcionamiento De Un Transformador Didáctico Desmontable",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Principios De Funcionamiento De Un Transformador Didáctico Desmontable",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Flavio Humberto Fernandez Morales",
+      "Julio Enrique Duarte",
+      "Yenny Briggitt Diaz Triana"
+    ],
+    "group": "fb7412df"
+  },
+  {
+    "id": 229,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Técnicas Ópticas Para La Medida De Pequeños Desplazamientos",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Técnicas Ópticas Para La Medida De Pequeños Desplazamientos",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Flavio Humberto Fernandez Morales",
+      "Julio Enrique Duarte",
+      "Luis Fernando Parra Leon"
+    ],
+    "group": "fb7412df"
+  },
+  {
+    "id": 230,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Curso De Química Ii En El Aula Virtual",
+    "country": "Colombia",
+    "year": 2001,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pontificia Bolivariana",
+    "authors": [
+      "Julia Constanza Reyes Cuellar"
+    ],
+    "group": "300dd833"
+  },
+  {
+    "id": 231,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Insecon. Software Para La Elaboración De Interfaces Para Secuencias De Constructor",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Insecon",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Hernan De Jesus Manrique Espindola"
+    ],
+    "group": "813d8e81"
+  },
+  {
+    "id": 232,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "2.- Multimedia : Lenguaje De Consulta Estructurado - Sql",
+    "country": "Colombia",
+    "year": 2017,
+    "tradeName": "Lenguaje De Consulta Estructurado - Sql",
+    "projectName": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Mary Luz Ortiz Ortiz",
+      "William Oswaldo Cuervo Gomez"
+    ],
+    "group": "813d8e81"
+  },
+  {
+    "id": 233,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Método Prosdos",
+    "country": "Colombia",
+    "year": 2011,
+    "tradeName": "Método Prosdos",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Mary Luz Ortiz Ortiz"
+    ],
+    "group": "813d8e81"
+  },
+  {
+    "id": 234,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Responsive Mobility (evaluación De La Movilidad)",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Responsive Mobility (evaluación De La Movilidad)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diana Liseth Angarita Lozano",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Miguel Angel Mendoza Moreno",
+      "Sonia Esperanza Diaz Marquez",
+      "Maria Eugenia Morales Puentes"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 235,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Bcvic",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Bcvic",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Miguel Angel Mendoza Moreno",
+      "Ivan Alejandro Camargo Marquez",
+      "Carlos Andres Gonzalez Amarillo"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 236,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Fmcsatc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Fmcsatc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Miguel Angel Mendoza Moreno",
+      "Cristian Leonardo Cardenas Garcia",
+      "Carlos Andres Gonzalez Amarillo",
+      "Carlos Arturo Parra Vargas",
+      "Indry Milena Saavedra Gaona",
+      "Fredy Yesid Mesa Jimenez",
+      "Claudia Liliana Sanchez Saenz"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 237,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Fmcsatc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Cristian Leonardo Cardenas Garcia",
+      "Miguel Angel Mendoza Moreno",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Carlos Andres Gonzalez Amarillo",
+      "Carlos Arturo Parra Vargas",
+      "Fredy Yesid Mesa Jimenez",
+      "Claudia Liliana Sanchez Saenz",
+      "Indry Milena Saavedra Gaona"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 238,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Tablisign",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Na",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Yilberth Andres Martinez Castillo",
+      "Martha Milena Torres Garcia"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 239,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software Para La Comunicación Tic, Entre Acudientes, Docentes E Instituciones Educativas",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Orlando Navas Chavez"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 240,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Model -ctt",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Model-ctt",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diana Riscanevo Espitia"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 241,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Model -ctt Modelo De Analisis De Temperaturas En Un Reactor",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Model -ctt Modelo De Analisis De Temperaturas En Un Reactor",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Diana Riscanevo Espitia",
+      "Oscar Alexander Bellon Hernandez",
+      "Nixon Fernando Rojas Cardenas"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 242,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Raeeficate",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Raeeficate",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Miguel Angel Mendoza Moreno",
+      "Andres Steven Barrios Martinez"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 243,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Signsor",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Signsor",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia -  Uptc -  Sede Tunja",
+    "authors": [
+      "Yilberth Andres Martinez Castillo",
+      "Martha Milena Torres Garcia"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 244,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Portal De Eventos Vicerrectoría De Investigación Y Extensión",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Portal De Eventos Vicerrectoría De Investigación Y Extensión",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Angela Saray Burbano Valdivieso",
+      "Yesid Rangel Orozco"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 245,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Cliente Rest Clarisa Api",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Cliente Rest Clarisa Api",
+    "projectName": "",
+    "fundingInstitution": "Clarisa Cloud Sas",
+    "authors": [
+      "Josue Nicolas Pinzon Villlamil"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 246,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "13.- Multimedia : Mecanismos Software Para Aprender Sobre La Transformación Del Movimiento Y Principios De Robótica",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Mecanismos Software Para Aprender Sobre La Transformación Del Movimiento Y Principios De Robótica",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Ricardo Rincon Duran"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 247,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Model-pyr Simulador Para Modelado Dinámico De La Degradación Térmica De Polímeros Mediante Pirólisis",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Model-pyr Simulador Para Modelado Dinámico De La Degradación Térmica De Polímeros Mediante Pirólisis",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Alexander Bellon Hernandez",
+      "Diana Riscanevo Espitia",
+      "Ariel Adolfo Rodriguez Hernandez"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 248,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "15.- Multimedia : La Caverna Aprende A Crear Aplicaciones Móviles Jugando",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "La Caverna",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Cristian Camilo Fonseca Barrera",
+      "Ariel Adolfo Rodriguez Hernandez"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 249,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "16.- Multimedia : Desafío Ecológico",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Desafío Ecológico",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Lydy Yalile Ducuara Amado"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 250,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Desafío Ecológico",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Desafío Ecológico",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Lydy Yalile Ducuara Amado"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 251,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "18.- Multimedia : La Caverna Aprende A Crear Aplicaciones Móviles Jugando",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Cristian Camilo Fonseca Barrera",
+      "Ariel Adolfo Rodriguez Hernandez"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 252,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Productos Qr",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Na",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Yilberth Andres Martinez Castillo"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 253,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "20.- Multimedia : Aprendo Tecnología E Informática - Procesador De Texto Y Estructuras Livianas",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Aprendo Tecnología E Informática - Procesador De Texto Y Estructuras Livianas",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Carlos Andres Jimenez Cuadros",
+      "Ariel Adolfo Rodriguez Hernandez"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 254,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "21.- Multimedia : Aprendo Tecnología E Informática - Procesador De Texto Y Estructuras Livianas",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Aprendo Tecnología E Informática - Procesador De Texto Y Estructuras Livianas",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Carlos Andres Jimenez Cuadros",
+      "Ariel Adolfo Rodriguez Hernandez"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 255,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Mecanismos Software Para Aprender Sobre La Transformación Del Movimiento Y Principios De Robótica",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Mecanismos Software Para Aprender Sobre La Transformación Del Movimiento Y Principios De Robótica",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Ricardo Rincon Duran"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 256,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Model-pyr Simulador Para Modelado Dinámico De La Degradación Térmica De Polímeros Mediante Pirólisis",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Model-pyr Simulador Para Modelado Dinámico De La Degradación Térmica De Polímeros Mediante Pirólisis",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Alexander Bellon Hernandez",
+      "Diana Riscanevo Espitia",
+      "Ariel Adolfo Rodriguez Hernandez"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 257,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "24.- Multimedia : Ventana A La Investigación (vi)",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "Ventana A La Investigación (vi)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ruben Dario Vargas Julio",
+      "Tania Catalina Amaya Rincon",
+      "Julieth Paola Hurtado Ortiz",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Adriana Rocio Santos Vesga"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 258,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Marco De Trabajo De Desarrollo De Soluciones Informáticas Basado En Micro Servicios",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Marco De Trabajo De Desarrollo De Soluciones Informáticas Basado En Micro Servicios",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Josue Nicolas Pinzon Villlamil"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 259,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Marco De Trabajo De Desarrollo De Soluciones Informáticas Basado En Micro Servicios",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Marco De Trabajo De Desarrollo De Soluciones Informáticas Basado En Micro Servicios",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Josue Nicolas Pinzon Villlamil",
+      "Ariel Adolfo Rodriguez Hernandez"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 260,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Notificaciones V2.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Notificaciones",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 261,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Auditoria V2.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Auditoria",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 262,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Lion Wizard V2.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Lion Wizard",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello",
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 263,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Ambiente De Modelado Isml",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Ambiente De Modelado Isml",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 264,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Batchprocessing V2.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Batchprocessing",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 265,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Transformador De Modelos Isml A Cruds",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Transformador De Modelos Isml A Cruds",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 266,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Entitymatic V2.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Entitymatic",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Josue Nicolas Pinzon Villlamil",
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 267,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Filegenerator V2.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Filegenerator",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 268,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Fileprocessing V2.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Fileprocessing",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 269,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Lion Security V2.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Lion Security",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 270,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Menu V2.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Menu V2.0",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 271,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Lion Cache V2.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Lion Cache",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Jorge Leonardo Camargo Cuervo",
+      "Angee Julileth Zambrano Gomez",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 272,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Transformador Isml A Jee6-jsf",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Transformador Isml A Jee6-jsf",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 273,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Transformador Isml A Jee6-javafx2",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Transformador Isml A Jee6-javafx2",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Maria Catalina Acero Rozo",
+      "Angee Julileth Zambrano Gomez",
+      "Jorge Leonardo Camargo Cuervo",
+      "Josue Nicolas Pinzon Villlamil",
+      "Lina Maria Consuelo Franky De Toro",
+      "Jaime Andres Pavlich Mariscal",
+      "John Olarte Abello"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 274,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Organización, Registro Y Control Académico",
+    "country": "Colombia",
+    "year": 2007,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Suweb Ltda",
+    "authors": [
+      "Cesar Mauricio Duenas Ruiz"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 275,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Gestión De Logros Sgl",
+    "country": "Colombia",
+    "year": 2007,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Suweb Ltda",
+    "authors": [
+      "Cesar Mauricio Duenas Ruiz"
+    ],
+    "group": "b2215492"
+  },
+  {
+    "id": 276,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Analisis De Objetivos - Ado",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Analisis De Objetivos - Ado",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Gloria Acened Puentes Montanez",
+      "Jorge Enrique Espindola Diaz",
+      "Ariel Guillermo Sanchez Paipilla"
+    ],
+    "group": "df896af0"
+  },
+  {
+    "id": 277,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Análisis De Problemas - Adp",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Adp - Analisis De Problemas",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Gloria Acened Puentes Montanez",
+      "Jorge Enrique Espindola Diaz",
+      "Ariel Guillermo Sanchez Paipilla"
+    ],
+    "group": "df896af0"
+  },
+  {
+    "id": 278,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Análisis De Actores - Ana",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Gloria Acened Puentes Montanez",
+      "Jorge Enrique Espindola Diaz",
+      "Ariel Guillermo Sanchez Paipilla"
+    ],
+    "group": "df896af0"
+  },
+  {
+    "id": 279,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Planificación Estratégica Rural - Per",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Planificaciòn Estratègica Rural",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Gloria Acened Puentes Montanez",
+      "Jorge Enrique Espindola Diaz",
+      "Ariel Guillermo Sanchez Paipilla"
+    ],
+    "group": "df896af0"
+  },
+  {
+    "id": 280,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "5.- Multimedia : Software Para La Educación Y El Aprendizaje De Conceptos Básicos En Educación Ambiental Para Niños De Quinto Primaria",
+    "country": "Colombia",
+    "year": 2007,
+    "tradeName": "Ecolandia",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Edith Maritza Diaz Ramirez",
+      "Leticia Poveda",
+      "Carmen Gricelda Marino",
+      "Neila Adiela Gomez"
+    ],
+    "group": "df896af0"
+  },
+  {
+    "id": 281,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Plataforma Tecnológica De Apoyo A Procesos De Rehabilitación Motora Movgis",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Plataforma Tecnológica De Apoyo A Procesos De Rehabilitación Motora Movgis",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Andrea Catherine Alarcon Aldana",
+      "Mauro Callejas Cuervo",
+      "Jorge Enrique Otalora Luna"
+    ],
+    "group": "9fc1eda0"
+  },
+  {
+    "id": 282,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Plataforma Tecnológica De Apoyo A Procesos De Rehabilitación Motora Movgis",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Plataforma Tecnológica De Apoyo A Procesos De Rehabilitación Motora Movgis",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Andrea Catherine Alarcon Aldana",
+      "Mauro Callejas Cuervo",
+      "Jorge Enrique Otalora Luna"
+    ],
+    "group": "9fc1eda0"
+  },
+  {
+    "id": 283,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pfda-fmea Software Multicriterio",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mauro Callejas Cuervo",
+      "Andres Felipe Viviescas Velandia",
+      "Luis Asuncion Perez Dominguez"
+    ],
+    "group": "9fc1eda0"
+  },
+  {
+    "id": 284,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Caracterizacion Empresarial",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Caracterizacion Empresarial",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Andrea Catherine Alarcon Aldana",
+      "Camilo Harvey Bohorquez Dallos"
+    ],
+    "group": "9fc1eda0"
+  },
+  {
+    "id": 285,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Herramienta De Modelado De Líneas De Código",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Locto - Herramienta De Modelado De Líneas De Código",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Andrea Catherine Alarcon Aldana",
+      "Jorge Enrique Otalora Luna",
+      "Mauro Callejas Cuervo"
+    ],
+    "group": "9fc1eda0"
+  },
+  {
+    "id": 286,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Herramienta De Modelado De Líneas De Código",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "Locto - Herramienta De Modelado De Líneas De Código",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Andrea Catherine Alarcon Aldana",
+      "Jorge Enrique Otalora Luna",
+      "Mauro Callejas Cuervo"
+    ],
+    "group": "9fc1eda0"
+  },
+  {
+    "id": 287,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Herramienta De Modelado De Líneas De Código",
+    "country": "Colombia",
+    "year": 2017,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Jorge Enrique Otalora Luna",
+      "Mauro Callejas Cuervo",
+      "Andrea Catherine Alarcon Aldana"
+    ],
+    "group": "9fc1eda0"
+  },
+  {
+    "id": 288,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Simulador Basado En Agentes Y En Dinámica De Sistemas",
+    "country": "Colombia",
+    "year": 2008,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Mauro Callejas Cuervo",
+      "Helver Augusto Valero Bustos"
+    ],
+    "group": "9fc1eda0"
+  },
+  {
+    "id": 289,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Tpcu/op",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Helver Augusto Valero Bustos",
+      "Edgar Mauricio Cruz"
+    ],
+    "group": "9fc1eda0"
+  },
+  {
+    "id": 290,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Motor Metrics",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Motor Metrics",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Wilman Alonso Pineda Munoz",
+      "Oscar Humberto Sierra Herrera",
+      "Edgar Efren Tibaduiza Rincon",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 291,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Windenergy",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Windenergy",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Wilman Alonso Pineda Munoz",
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Luis David Patarroyo Gutierrez",
+      "Oscar Mauricio Hernandez Gomez"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 292,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Windenergy",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Windenergy",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Wilman Alonso Pineda Munoz",
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez",
+      "Oscar Mauricio Hernandez Gomez"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 293,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pole Plotter",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Pole Plotter",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 294,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Rmo-rl-nc-c",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Rmo-rl-nc-c",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 295,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Kinemasolver",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Kinemasolver",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 296,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pv-calc-i",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Pv-calc-i",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 297,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Q-point Transistor",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Q-point Transistor",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 298,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ferro_sim_v2_uptc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Ferro_sim_v2_uptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 299,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Filteruptc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Filteruptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 300,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Simulador De Hornos Industriales Uptc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Simulador De Hornos Industriales Uptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 301,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Codisy",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Codisy",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 302,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Amp-op-analysis",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 303,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Transfer Fun So Plot",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 304,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Diode Applications",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 305,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Rmocrle",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Diego Fernando Villate Fonseca"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 306,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "R_moc_rl",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Diego Fernando Villate Fonseca"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 307,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "R_monc_rl",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Diego Fernando Villate Fonseca"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 308,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "R_monc_rle",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Diego Fernando Villate Fonseca"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 309,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "So_design_web",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "So_design_web",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Michell Josep Quintero Duran",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 310,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Dc-dc_re_uptc",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Dc-dc_re_uptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Luis David Patarroyo Gutierrez",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 311,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "So_system_clasification",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "So_system_clasification",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Michell Josep Quintero Duran",
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 312,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ladrc Design Web",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Ladrc Design Web",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Michell Josep Quintero Duran",
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 313,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "So_design_web",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "So_design_web",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Michell Josep Quintero Duran",
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 314,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Mi_uptc_app",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 315,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "So_system_clasification",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "So_system_clasification",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Michell Josep Quintero Duran",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 316,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Dies",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Dies",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Wilman Alonso Pineda Munoz",
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 317,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pid_design_fopdt_uptc",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Pid_design_fopdt_uptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Wilman Alonso Pineda Munoz",
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 318,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pcti",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Pcti",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Edgar Efren Tibaduiza Rincon"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 319,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Tanques En Cascada Pid",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Oswaldo Rodriguez Diaz"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 320,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Tanques En Cascada Pid",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Tanques En Cascada Pid",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Oswaldo Rodriguez Diaz",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 321,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pid_design_fopdt_uptc",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 322,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pwm Tutor",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Pwm Tutor",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Wilman Alonso Pineda Munoz",
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 323,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pid Design Web",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Pid Design Web",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 324,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ladrc Design",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Ladrc Design",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Michell Josep Quintero Duran"
+    ],
+    "group": "0d3d1178"
+  },
+  {
+    "id": 325,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "1.- Multimedia : Manual De Primeros Auxilios",
+    "country": "Colombia",
+    "year": 2005,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Institucion Invalida",
+    "authors": [
+      "Roberto Edgardo Marino Estepa"
+    ],
+    "group": "ba59850e"
+  },
+  {
+    "id": 326,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "2.- Multimedia : La Granja Del Saber",
+    "country": "Colombia",
+    "year": 2004,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Institucion Invalida",
+    "authors": [
+      "Roberto Edgardo Marino Estepa"
+    ],
+    "group": "ba59850e"
+  },
+  {
+    "id": 327,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "3.- Multimedia : La Tabla Periodica",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Institucion Invalida",
+    "authors": [
+      "Roberto Edgardo Marino Estepa",
+      "Nelson Javier Correa Romero"
+    ],
+    "group": "ba59850e"
+  },
+  {
+    "id": 328,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Q Point Transistor",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Q Point Transistor",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 329,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ferro_sim_v2_uptc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 330,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Codisy",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 331,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Transfer Fun So Plot",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Transfer Fun So Plot",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 332,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Filteruptc",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 333,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Cuk System Design",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Cuk System Design",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 334,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Diode Applications",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 335,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Amp-op-analysis",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Amp-op-analysis",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 336,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pwm Tutor",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Pwm Tutor",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 337,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pid_design_web",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 338,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Dc-dc_re_uptc",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Luis David Patarroyo Gutierrez"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 339,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "So_system_clasification",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Michell Josep Quintero Duran"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 340,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "So_design_web",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Michell Josep Quintero Duran"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 341,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Pid_design_fopdt_uptc",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Pid_design_fopdt_uptc",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Duitama",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 342,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Dies",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Dies",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Wilman Alonso Pineda Munoz"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 343,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Tanques En Serie Pid",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Tanques En Serie Pid",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Oswaldo Rodriguez Diaz"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 344,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ladrc Design",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Ladrc Design",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Mario Eduardo Gonzalez Nino",
+      "Oscar Humberto Sierra Herrera",
+      "Oscar Ivan Higuera Martinez"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 345,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Tanques En Serie Pid",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 346,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ladrc Design",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Oscar Humberto Sierra Herrera",
+      "Mario Eduardo Gonzalez Nino",
+      "Michell Josep Quintero Duran"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 347,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Pind - Precision Index V1.0",
+    "country": "Colombia",
+    "year": 2015,
+    "tradeName": "Pind - Precision Index V1.0",
+    "projectName": "",
+    "fundingInstitution": "Universidad De Los Llanos",
+    "authors": [
+      "Fabian Jimenez Lopez",
+      "Andres Fernando Jimenez Lopez",
+      "Dayra Yisel Garcia Ramirez"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 348,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Plataforma Virtual Para Péndulo Invertido Rotacional",
+    "country": "Colombia",
+    "year": 2011,
+    "tradeName": "Plataforma Virtual Para Péndulo Invertido Rotacional",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Oscar Oswaldo Rodriguez Diaz"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 349,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Acelerografo Triaxial Nagt",
+    "country": "Colombia",
+    "year": 2005,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Sergio Alonso Gutierrez Duarte"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 350,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Deteccion Y Extraccion De Cuerpos En Movimiento En Secuencias De Imagenes",
+    "country": "Colombia",
+    "year": 2005,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Dsp-uptc",
+    "authors": [
+      "Oscar Ivan Higuera Martinez"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 351,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Gsec V 2.0",
+    "country": "Colombia",
+    "year": 2004,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Orlando Fernandez Naranjo"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 352,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "(s.r.p.i)",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "Diseño Algoritmo Para El Reconocimiento De Patrones De Imagenes (s.r.p.i)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Nicolas Franciso Amezquita Gomez"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 353,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Val",
+    "country": "Colombia",
+    "year": 2003,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Yecid Fernando Barrera Alarcon"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 354,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Lavimsr Laboratorio Virtual De Mecanica De Suelos Y Rocas",
+    "country": "Colombia",
+    "year": 2001,
+    "tradeName": "(lavimsr)",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Henry Montana Quintero"
+    ],
+    "group": "16080925"
+  },
+  {
+    "id": 355,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Monitor Vam",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Andres Leonardo Alfonso Diaz",
+      "Fabian Andres Medina Becerra",
+      "Ivan David Alfonso Diaz",
+      "Eduardo Avendano Fernandez"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 356,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Generador De Clases Dbbf",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Andres Leonardo Alfonso Diaz"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 357,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ado - Analisis De Objetivos",
+    "country": "Colombia",
+    "year": 2022,
+    "tradeName": "Ado - Analisis De Objetivos",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Jorge Enrique Espindola Diaz",
+      "Gloria Acened Puentes Montanez",
+      "Ariel Guillermo Sanchez Paipilla"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 358,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Spacear Ios Infelcom",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Andres Leonardo Alfonso Diaz"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 359,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Game-math",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Game-math",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Monica Katherine Duran Vaca",
+      "Ariel Guillermo Sanchez Paipilla",
+      "Jazmin Andrea Saleh Pena",
+      "Pedro Lopez Castellanos",
+      "Javier Antonio Ballesteros Ricaurte",
+      "Angela Maria Gonzalez Amarillo"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 360,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "App Ansenti",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "App Ansenti",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Monica Katherine Duran Vaca",
+      "Ariel Guillermo Sanchez Paipilla",
+      "Angela Maria Gonzalez Amarillo",
+      "Javier Antonio Ballesteros Ricaurte",
+      "Pedro Lopez Castellanos",
+      "Jazmin Andrea Saleh Pena"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 361,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "App Sentimientos",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "App Sentimientos",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Monica Katherine Duran Vaca",
+      "Ariel Guillermo Sanchez Paipilla",
+      "Angela Maria Gonzalez Amarillo",
+      "Javier Antonio Ballesteros Ricaurte",
+      "Jazmin Andrea Saleh Pena",
+      "Pedro Lopez Castellanos"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 362,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Aplicativo Móvil Para La Gestión Inteligente De Sistemas De Riego En Cultivos Frutales.",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Agricultic Riego",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Nelson Barrera Lombana"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 363,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Traductor Bidireccional Móvil Morse",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Traductor Bidireccional Móvil Morse",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Jorge Enrique Espindola Diaz",
+      "Oscar Yesid Vargas Pedraza",
+      "Ariel Guillermo Sanchez Paipilla"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 364,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ana ¿ Analisis De Actores",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Ana ¿ Analisis De Actores",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Jorge Enrique Espindola Diaz",
+      "Gloria Acened Puentes Montanez",
+      "Ariel Guillermo Sanchez Paipilla"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 365,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Analisis De Problemas",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Adp - Analisis De Problemas",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Jorge Enrique Espindola Diaz",
+      "Gloria Acened Puentes Montanez",
+      "Ariel Guillermo Sanchez Paipilla"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 366,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Em-21 Entrenador Morse",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Andres Leonardo Alfonso Diaz",
+      "Marien Rocio Barrera Gomez",
+      "Maria Patricia Carvajal Medina"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 367,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Memo-math",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Memo-math",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Monica Katherine Duran Vaca",
+      "Jazmin Andrea Saleh Pena",
+      "Ariel Guillermo Sanchez Paipilla",
+      "Angela Maria Gonzalez Amarillo",
+      "Javier Antonio Ballesteros Ricaurte",
+      "Pedro Lopez Castellanos"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 368,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Fast Fission Track Laboratory - Fastftlab",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Fastftlab",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Jorge Enrique Espindola Diaz",
+      "Mauricio Alberto Bermudez Cella",
+      "Oscar Yesid Vargas Pedraza"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 369,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Api Scracovid",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Monica Katherine Duran Vaca",
+      "Javier Antonio Ballesteros Ricaurte",
+      "Angela Maria Gonzalez Amarillo",
+      "Ariel Guillermo Sanchez Paipilla"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 370,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Scracovid-movil",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Scracovid-movil",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Guillermo Sanchez Paipilla",
+      "Monica Katherine Duran Vaca",
+      "Angela Maria Gonzalez Amarillo",
+      "Javier Antonio Ballesteros Ricaurte"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 371,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Scracovid",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Monica Katherine Duran Vaca",
+      "Ariel Guillermo Sanchez Paipilla",
+      "Angela Maria Gonzalez Amarillo",
+      "Javier Antonio Ballesteros Ricaurte"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 372,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Scracovid",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Scracovid",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Guillermo Sanchez Paipilla",
+      "Monica Katherine Duran Vaca",
+      "Javier Antonio Ballesteros Ricaurte",
+      "Angela Maria Gonzalez Amarillo"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 373,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Scracovid-movil",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Monica Katherine Duran Vaca",
+      "Ariel Guillermo Sanchez Paipilla",
+      "Angela Maria Gonzalez Amarillo",
+      "Javier Antonio Ballesteros Ricaurte"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 374,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Api Scracovid",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Api Scracovid",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Guillermo Sanchez Paipilla",
+      "Monica Katherine Duran Vaca",
+      "Angela Maria Gonzalez Amarillo",
+      "Javier Antonio Ballesteros Ricaurte"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 375,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Planificación Estratégica Rural",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Planificación Estratégica Rural",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Jorge Enrique Espindola Diaz",
+      "Gloria Acened Puentes Montanez",
+      "Ariel Guillermo Sanchez Paipilla"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 376,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Planificacion Estrategica Rural",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Planificacion Estrategica Rural",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Ariel Guillermo Sanchez Paipilla",
+      "Jorge Enrique Espindola Diaz",
+      "Gloria Acened Puentes Montanez"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 377,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Rifile",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Rifile",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Marien Rocio Barrera Gomez",
+      "Andres Leonardo Alfonso Diaz",
+      "Fabian Andres Medina Becerra"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 378,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Rifile",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Rifile",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Andres Leonardo Alfonso Diaz",
+      "Marien Rocio Barrera Gomez",
+      "Fabian Andres Medina Becerra"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 379,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Agility Vas",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Andres Leonardo Alfonso Diaz",
+      "Ivan David Alfonso Diaz",
+      "Hugo Ruiz Bautista",
+      "Rafael Guillermo Garcia Caceres"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 380,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Fast Fission Track Laboratory",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Fastftlab",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Oscar Yesid Vargas Pedraza",
+      "Mauricio Alberto Bermudez Cella",
+      "Jorge Enrique Espindola Diaz"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 381,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Agility Ac",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Andres Leonardo Alfonso Diaz",
+      "Ivan David Alfonso Diaz",
+      "Marien Rocio Barrera Gomez"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 382,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Toolkit Pipelines De Transformación De Imagenes",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Alvaro Ramiro Hernandez Millan",
+      "Larry Mauricio Portocarrero Lopez",
+      "Miguel Angel Mendoza Moreno",
+      "Alexander Castro Romero"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 383,
+    "isValidated": true,
+    "type": "Computacional",
+    "name": "Toolkit Web Para La Clasificación De Imágenes Con Algoritmos De Aprendizaje De Máquina Supervisados",
+    "country": "Colombia",
+    "year": 2018,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Alvaro Ramiro Hernandez Millan",
+      "Larry Mauricio Portocarrero Lopez",
+      "Miguel Angel Mendoza Moreno",
+      "Alexander Castro Romero"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 384,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Metodología Groupware Para Redes Sociales De Aprendizaje En Mallas Computacionales",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "Metodología Groupware",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja",
+    "authors": [
+      "Miguel Angel Mendoza Moreno",
+      "Juan Pablo Meneses Ortegon",
+      "Mery Yolima Uribe Rios"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 385,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "31.- Multimedia : Metodologia Groupware Para Mallas Computacionales",
+    "country": "Colombia",
+    "year": 2009,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Juan Pablo Meneses Ortegon"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 386,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software Equino",
+    "country": "Colombia",
+    "year": 2007,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Papa Y Mama",
+    "authors": [
+      "Ricardo Ruiz Combita"
+    ],
+    "group": "3a424f06"
+  },
+  {
+    "id": 387,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema Para El Análisis De Evapotranspiración De Cultivos, Sisetc",
+    "country": "Colombia",
+    "year": 2024,
+    "tradeName": "Sistema Para El Análisis De Evapotranspiración De Cultivos",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia Uptc",
+    "authors": [
+      "Zagalo Suarez Aguilar"
+    ],
+    "group": "63ea43ae"
+  },
+  {
+    "id": 388,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software Para La Solución Del Problema De Riemann Aplicado A Los Sistemas P",
+    "country": "Colombia",
+    "year": 2013,
+    "tradeName": "Sistemas P",
+    "projectName": "Ascenso En El Escalafón Docente",
+    "fundingInstitution": "",
+    "authors": [
+      "Zagalo Suarez Aguilar"
+    ],
+    "group": "63ea43ae"
+  },
+  {
+    "id": 389,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Métodos Numéricos Para El Análisis De Relaciones Binarias",
+    "country": "Colombia",
+    "year": 2008,
+    "tradeName": "Métodos Numéricos Para El Análisis De Relaciones",
+    "projectName": "Ascenso Al Escalafón Docente",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Zagalo Suarez Aguilar"
+    ],
+    "group": "63ea43ae"
+  },
+  {
+    "id": 390,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Análisis De Relaciones Con Matrices Booleanas",
+    "country": "Colombia",
+    "year": 2007,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Zagalo Suarez Aguilar"
+    ],
+    "group": "63ea43ae"
+  },
+  {
+    "id": 391,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "5.- Multimedia : Mecs: Grafica Y Análisis De Funciones Trigronométricas. Números Enteros. Ejercitador De Funciones.",
+    "country": "Colombia",
+    "year": 2001,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Colegio",
+    "authors": [
+      "Zagalo Suarez Aguilar"
+    ],
+    "group": "63ea43ae"
+  },
+  {
+    "id": 392,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "6.- Multimedia : Mec Sobre Numeros Enteros",
+    "country": "Colombia",
+    "year": 1999,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Hector Julio Suarez Suarez"
+    ],
+    "group": "63ea43ae"
+  },
+  {
+    "id": 393,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software Sobre Funciones Trigonométricas",
+    "country": "Colombia",
+    "year": 1998,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "Universidad Antonio Nariño",
+    "authors": [
+      "Omaida Sepulveda Delgado",
+      "Zagalo Suarez Aguilar"
+    ],
+    "group": "63ea43ae"
+  },
+  {
+    "id": 394,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Software Para El Aprendizaje De Metodos Numericos",
+    "country": "Colombia",
+    "year": 1997,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Alvaro Calvache Archila"
+    ],
+    "group": "63ea43ae"
+  },
+  {
+    "id": 395,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Operaciones Con Polinomios",
+    "country": "Colombia",
+    "year": 1997,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Pedro Gilberto Perez Poblador",
+      "Guillermo Garcia",
+      "Aquileo Suarez"
+    ],
+    "group": "63ea43ae"
+  },
+  {
+    "id": 396,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sistema De Resgistro Y Control Académico",
+    "country": "Colombia",
+    "year": 1996,
+    "tradeName": "Sismota",
+    "projectName": "Registro Y Control Académico De Los Alumnos Del Colegio Santa Cruz De Motavita",
+    "fundingInstitution": "",
+    "authors": [
+      "Zagalo Suarez Aguilar"
+    ],
+    "group": "63ea43ae"
+  },
+  {
+    "id": 397,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Hydro Taylor Monitor",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Hydro Taylor Monitor",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Oscar Javier Garcia Cabrejo"
+    ],
+    "group": "965b1ee6"
+  },
+  {
+    "id": 398,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Sgi 3535",
+    "country": "Colombia",
+    "year": 2023,
+    "tradeName": "Sgi 3535",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Oscar Javier Garcia Cabrejo"
+    ],
+    "group": "965b1ee6"
+  },
+  {
+    "id": 399,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Fast Fission Track Laboratory (fastftlab)",
+    "country": "Colombia",
+    "year": 2021,
+    "tradeName": "Fastftlab",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia",
+    "authors": [
+      "Jorge Enrique Espindola Diaz",
+      "Mauricio Alberto Bermudez Cella"
+    ],
+    "group": "965b1ee6"
+  },
+  {
+    "id": 400,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Flow Kriging2d",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Flow Kriging2d",
+    "projectName": "",
+    "fundingInstitution": "Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Sogamoso",
+    "authors": [
+      "Oscar Javier Garcia Cabrejo",
+      "Luz Dary Castillo Alba"
+    ],
+    "group": "965b1ee6"
+  },
+  {
+    "id": 401,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Ufka_gui_setup.exe",
+    "country": "Colombia",
+    "year": 2019,
+    "tradeName": "",
+    "projectName": "",
+    "fundingInstitution": "",
+    "authors": [
+      "Oscar Javier Garcia Cabrejo",
+      "Jonathan Leonardo Avella Castro"
+    ],
+    "group": "965b1ee6"
+  },
+  {
+    "id": 402,
+    "isValidated": false,
+    "type": "Computacional",
+    "name": "Smilearning",
+    "country": "Colombia",
+    "year": 2020,
+    "tradeName": "Smilearning",
+    "projectName": "",
+    "fundingInstitution": "Universidad Del Cauca",
+    "authors": [
+      "Jaime Antonio Alvarez Soler"
+    ],
+    "group": "d4f84355"
+  }
+]

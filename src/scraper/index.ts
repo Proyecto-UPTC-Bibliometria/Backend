@@ -4,6 +4,7 @@ import getMembers from "./extractors/getMembers.js";
 import saveToJson from "./lib/saveToJson.js";
 import getArticles from "./extractors/getArticles.js";
 import getBooks from "./extractors/getBooks.js";
+import getSoftwares from "./extractors/getSoftwares.js";
 
 async function main() {
   console.clear();
@@ -11,14 +12,16 @@ async function main() {
   // const groups = await getGroupsData();
   // const members = await getMembers();
   // const articles = await getArticles();
-  const books = await getBooks();
+  // const books = await getBooks();
+  const softwares = await getSoftwares();
 
   try {
     const promises = [
       // saveToJson("groups.json", groups),
       // saveToJson("members.json", members),
       // saveToJson("articles.json", articles),
-      saveToJson("books.json", books),
+      // saveToJson("books.json", books),
+      saveToJson("softwares.json", softwares),
     ];
 
     await Promise.all(promises);
