@@ -6,7 +6,7 @@ export default interface Project {
   isValidated: boolean;
   name: string;
   startDate: Date;
-  endDate: Date;
+  endDate: Date | null;
   status: string;
   group: string;
 }

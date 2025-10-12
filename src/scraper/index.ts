@@ -5,23 +5,26 @@ import saveToJson from "./lib/saveToJson.js";
 import getArticles from "./extractors/getArticles.js";
 import getBooks from "./extractors/getBooks.js";
 import getSoftwares from "./extractors/getSoftwares.js";
+import getProjects from "./extractors/getProjects.js";
 
 async function main() {
   console.clear();
 
-  // const groups = await getGroupsData();
-  // const members = await getMembers();
-  // const articles = await getArticles();
-  // const books = await getBooks();
+  const groups = await getGroupsData();
+  const members = await getMembers();
+  const articles = await getArticles();
+  const books = await getBooks();
   const softwares = await getSoftwares();
+  const projects = await getProjects();
 
   try {
     const promises = [
-      // saveToJson("groups.json", groups),
-      // saveToJson("members.json", members),
-      // saveToJson("articles.json", articles),
-      // saveToJson("books.json", books),
+      saveToJson("groups.json", groups),
+      saveToJson("members.json", members),
+      saveToJson("articles.json", articles),
+      saveToJson("books.json", books),
       saveToJson("softwares.json", softwares),
+      saveToJson("projects.json", projects),
     ];
 
     await Promise.all(promises);
