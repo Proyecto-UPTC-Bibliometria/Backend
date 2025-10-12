@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-export default interface Articles {
+export default interface Article {
   _id?: mongoose.Types.ObjectId;
   id: number;
   isValidated: boolean;
