@@ -3,19 +3,22 @@ import getGroupsData from "./extractors/getGroupsData.js";
 import getMembers from "./extractors/getMembers.js";
 import saveToJson from "./lib/saveToJson.js";
 import getArticles from "./extractors/getArticles.js";
+import getBooks from "./extractors/getBooks.js";
 
 async function main() {
   console.clear();
 
   // const groups = await getGroupsData();
   // const members = await getMembers();
-  const articles = await getArticles();
+  // const articles = await getArticles();
+  const books = await getBooks();
 
   try {
     const promises = [
       // saveToJson("groups.json", groups),
       // saveToJson("members.json", members),
-      saveToJson("articles.json", articles),
+      // saveToJson("articles.json", articles),
+      saveToJson("books.json", books),
     ];
 
     await Promise.all(promises);

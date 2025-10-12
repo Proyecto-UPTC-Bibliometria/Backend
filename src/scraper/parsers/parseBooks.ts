@@ -1,10 +1,10 @@
-import Article from "../../interfaces/article.interface.js";
 import externalMemberData from "../../interfaces/auxiliars/externalMemberData.interface.js";
+import Book from "../../interfaces/book.interface.js";
 
-export default function parseArticles(
+export default function parseBooks(
   rows: Element[],
   externalData: externalMemberData
-): Article[] {
+): Book[] {
   const { groupName } = externalData;
 
   function getTextContent(element: Element): string {
@@ -29,9 +29,9 @@ export default function parseArticles(
     return hasImage;
   }
 
-  function parseArticleText(text: string): Article {
+  function parseBookText(text: string): Book {
     const cleanText = text
-      .replace(/^\d+\.-\s*Publicado en revista especializada:\s*/i, "")
+      .replace(/^\d+\.-\s*Libro resultado de investigación\s*:\s*/i, "")
       .trim();
 
     const titleMatch = cleanText.match(
@@ -44,55 +44,16 @@ export default function parseArticles(
     );
     const country = countryMatch ? countryMatch[1] : "";
 
-    const journalMatch = cleanText.match(
-      /(?:Colombia|Argentina|Mexico|México|España|Chile|Peru|Perú|Brasil|Estados Unidos|USA|United States)[,\s]+(.+?)\s+ISSN/i
-    );
-    const journal = journalMatch
-      ? journalMatch[1].replace(/^,\s*/, "").trim()
-      : "";
-
-    const issnMatch = cleanText.match(/ISSN:\s*([\d-]+)/i);
-    const issn = issnMatch ? issnMatch[1] : "";
-
     const yearMatch = cleanText.match(/\b(20\d{2}|19\d{2})\b/);
     const year = yearMatch ? parseInt(yearMatch[1]) : 0;
 
-    const volumeMatch = cleanText.match(/vol:?\s*(\d+|[IVX]+)/i);
-    const volume = volumeMatch ? volumeMatch[1] : "";
+    const isbnMatch = cleanText.match(/ISBN:\s*([\d-]+)/i);
+    const isbn = isbnMatch ? isbnMatch[1] : "";
 
-    const issueMatch = cleanText.match(/fasc:?\s*([^\s]+)/i);
-    let issue = "";
-    if (issueMatch && issueMatch[1]) {
-      const issueValue = issueMatch[1].trim();
-
-      if (
-        issueValue !== "N/A" &&
-        issueValue !== "n/a" &&
-        issueValue !== "-" &&
-        issueValue !== "págs:"
-      ) {
-        issue = issueValue;
-      }
-    }
-
-    const pagesMatch = cleanText.match(/págs?:?\s*([^,]+?)(?=,|\s+DOI|$)/i);
-    let pages = "";
-    if (pagesMatch && pagesMatch[1]) {
-      const pagesValue = pagesMatch[1].trim();
-
-      if (
-        pagesValue &&
-        pagesValue !== "-" &&
-        pagesValue !== "N/A" &&
-        pagesValue !== "n/a" &&
-        !pagesValue.match(/^[\s-]+$/)
-      ) {
-        pages = pagesValue;
-      }
-    }
-
-    const doiMatch = cleanText.match(/DOI:\s*([\d.\/a-z\-]+)/i);
-    const doi = doiMatch ? doiMatch[1] : "";
+    const publisherMatch = cleanText.match(/Ed\.\s*(.+?)\s+Autores?:/i);
+    const publisher = publisherMatch
+      ? publisherMatch[1].trim().replaceAll(/\s+/g, " ")
+      : "";
 
     const authorsMatch = cleanText.match(/Autores?:\s*(.+?)$/i);
     let authors: string[] = [];
@@ -109,13 +70,9 @@ export default function parseArticles(
       isValidated: false,
       title,
       country,
-      journal,
-      issn,
       year,
-      volume,
-      issue,
-      pages,
-      doi,
+      isbn,
+      publisher,
       authors,
       group: hexId(groupName, 8),
     };
@@ -145,16 +102,16 @@ export default function parseArticles(
   return rows
     .filter((row) => {
       const content = getTextContent(row);
-      const title = parseArticleText(getTextContent(row)).title;
+      const title = parseBookText(getTextContent(row)).title;
 
       return content !== "" && title !== "";
     })
     .map((row) => {
-      const article: Article = {
-        ...parseArticleText(getTextContent(row)),
+      const book: Book = {
+        ...parseBookText(getTextContent(row)),
         isValidated: getIsValidated(row),
       };
 
-      return article;
+      return book;
     });
 }

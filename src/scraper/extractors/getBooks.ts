@@ -3,13 +3,13 @@ import launchBrowser from "../lib/launchBrowser.js";
 import getGroupsUrl from "./getGroupsUrl.js";
 import loadPage from "../lib/loadPage.js";
 import GroupUrl from "../../interfaces/groupUrl.interface.js";
-import Article from "../../interfaces/article.interface.js";
 import batchProcessor from "../utils/batchProcessor.js";
-import parseArticles from "../parsers/parseArticles.js";
 import capitalize from "../../utils/capitalize.js";
+import Book from "../../interfaces/book.interface.js";
+import parseBooks from "../parsers/parseBooks.js";
 
-export default async function getArticles(): Promise<Article[] | undefined> {
-  console.log(chalk.gray("\n◔ Processing articles..."));
+export default async function getBooks(): Promise<Book[] | undefined> {
+  console.log(chalk.gray("\n◔ Processing books..."));
 
   const browser = await launchBrowser();
   const groupsUrls = await getGroupsUrl();
@@ -18,14 +18,14 @@ export default async function getArticles(): Promise<Article[] | undefined> {
     if (!groupsUrls || groupsUrls.length === 0)
       throw new Error("No groups found");
 
-    const processArticles = async (group: GroupUrl): Promise<Article[]> => {
+    const processBooks = async (group: GroupUrl): Promise<Book[]> => {
       try {
         if (!group.url) throw new Error("No group url found");
 
         const page = await loadPage(browser, group.url);
         const tables = await page.$$("table");
 
-        const articles = await tables[13].$$eval("tbody tr", parseArticles, {
+        const books = await tables[14].$$eval("tbody tr", parseBooks, {
           groupName: capitalize(
             group.name
               .toLowerCase()
@@ -34,33 +34,33 @@ export default async function getArticles(): Promise<Article[] | undefined> {
           ),
         });
 
-        return articles;
+        return books;
       } catch (error) {
         const typedError = error as Error;
 
-        console.error(chalk.red("\n✕ Error extracting articles:"), typedError);
+        console.error(chalk.red("\n✕ Error extracting books:"), typedError);
         return [];
       }
     };
 
-    const articlesData = await batchProcessor(groupsUrls, processArticles);
+    const booksData = await batchProcessor(groupsUrls, processBooks);
 
-    const articlesWithId = articlesData.map((article, index) => ({
-      ...article,
+    const booksWithId = booksData.map((book, index) => ({
+      ...book,
       id: index + 1,
     }));
 
     console.log(
       chalk.green("\n✓"),
-      "Processing completed. Total articles found:",
-      chalk.blue(articlesWithId.length)
+      "Processing completed. Total books found:",
+      chalk.blue(booksWithId.length)
     );
 
-    return articlesWithId;
+    return booksWithId;
   } catch (error) {
     const typedError = error as Error;
 
-    console.error(chalk.red("\n✕ Error extracting articles:"), typedError);
+    console.error(chalk.red("\n✕ Error extracting books:"), typedError);
   } finally {
     await browser.close();
   }
