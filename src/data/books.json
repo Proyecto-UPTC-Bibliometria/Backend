@@ -10775,6 +10775,36 @@
   },
   {
     "id": 711,
+    "isValidated": false,
+    "title": "IMPORTANCIA DEL CONTEO DE CELULAS SOMATICAS EN LA CALIDAD DE LA LECHE DE VACA",
+    "country": "Colombia",
+    "year": 2018,
+    "isbn": "978-958-660-276-1",
+    "publisher": "Universidad Pedagógica y Tecnológica de Colombia",
+    "authors": [
+      "Roy Jose Andrade Becerra",
+      "Julio Cesar Vargas Abella",
+      "Zonia Elizabeth Caro Carvajal"
+    ],
+    "group": "24b5e03c"
+  },
+  {
+    "id": 712,
+    "isValidated": true,
+    "title": "IMPORTANCIA DEL CONTEO DE CÉLULAS SOMÁTICAS EN LA CALIDAD DE LA LECHE DE VACA",
+    "country": "Colombia",
+    "year": 2018,
+    "isbn": "978-958-660-276-1",
+    "publisher": "Universidad Pedagógica y Tecnológica de Colombia",
+    "authors": [
+      "Roy Jose Andrade Becerra",
+      "Julio Cesar Vargas Abella",
+      "Zonia Elizabeth Caro Carvajal"
+    ],
+    "group": "24b5e03c"
+  },
+  {
+    "id": 713,
     "isValidated": true,
     "title": "RESPONSABILIDAD EXTRACONTRACTUAL DEL ESTADO POR ACTOS DE VANDALISMO",
     "country": "Colombia",
@@ -10787,7 +10817,7 @@
     "group": "30525453"
   },
   {
-    "id": 712,
+    "id": 714,
     "isValidated": false,
     "title": "MERCADEO AGROPECUARIO SEGUNDA EDICION",
     "country": "Colombia",
@@ -10800,7 +10830,7 @@
     "group": "30525453"
   },
   {
-    "id": 713,
+    "id": 715,
     "isValidated": false,
     "title": "MARKETING AGROPECUARIO",
     "country": "México",
@@ -10813,7 +10843,7 @@
     "group": "30525453"
   },
   {
-    "id": 714,
+    "id": 716,
     "isValidated": false,
     "title": "Constitución Política",
     "country": "Colombia",
@@ -10826,7 +10856,7 @@
     "group": "30525453"
   },
   {
-    "id": 715,
+    "id": 717,
     "isValidated": false,
     "title": "Mercadeo Agropecuario",
     "country": "Colombia",
@@ -10839,7 +10869,7 @@
     "group": "30525453"
   },
   {
-    "id": 716,
+    "id": 718,
     "isValidated": true,
     "title": "El Hospital de la Purísima Concepción de Tunja. 1553 - 1835",
     "country": "Colombia",
@@ -10852,7 +10882,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 717,
+    "id": 719,
     "isValidated": true,
     "title": "La mayor controversia científica de la intelectualidad",
     "country": "Colombia",
@@ -10865,7 +10895,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 718,
+    "id": 720,
     "isValidated": false,
     "title": "GRIPA Y PRIMERA GUERRA MUNDIAL: Clima y Muerte en la Pandemia de 1918-1918",
     "country": "Colombia",
@@ -10882,7 +10912,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 719,
+    "id": 721,
     "isValidated": false,
     "title": "Cultura y Salud Prehispánicas",
     "country": "Colombia",
@@ -10895,7 +10925,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 720,
+    "id": 722,
     "isValidated": false,
     "title": "Consumo De Sustancias Psicoactivas Y Factores Determinantes En Adolescentes Escolarizados De Tunja, 2009",
     "country": "Colombia",
@@ -10908,7 +10938,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 721,
+    "id": 723,
     "isValidated": false,
     "title": "El Lazareto De Boyaca: Lepra, Medicina, Iglesia Y Estado 1869-1916",
     "country": "Colombia",
@@ -10921,7 +10951,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 722,
+    "id": 724,
     "isValidated": false,
     "title": "Herramientas Iniciales Para La Investigacion En Salud",
     "country": "Colombia",
@@ -10934,7 +10964,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 723,
+    "id": 725,
     "isValidated": false,
     "title": "Epidemiologia Social Y Salud Publica Ii",
     "country": "Colombia",
@@ -10947,7 +10977,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 724,
+    "id": 726,
     "isValidated": false,
     "title": "Epidemiologia Social Y Salud Publica Ii",
     "country": "Colombia",
@@ -10960,7 +10990,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 725,
+    "id": 727,
     "isValidated": false,
     "title": "Aproximación Histórica a la Medicina y la Salud Pública en Tunja, Siglo XIX",
     "country": "Colombia",
@@ -10975,7 +11005,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 726,
+    "id": 728,
     "isValidated": false,
     "title": "Enfermería En",
     "country": "Colombia",
@@ -10988,7 +11018,7 @@
     "group": "2998cec7"
   },
   {
-    "id": 727,
+    "id": 729,
     "isValidated": false,
     "title": "Medicina y Salud en la Historia de",
     "country": "Colombia",
@@ -11006,7 +11036,51 @@
     "group": "2998cec7"
   },
   {
-    "id": 728,
+    "id": 730,
+    "isValidated": false,
+    "title": "Principios Teórico-Prácticos de Ergonomía para el Diseño y Evaluación de Herramientas, Puestos de Trabajo y Máquinas",
+    "country": "Colombia",
+    "year": 2021,
+    "isbn": "9789586605960",
+    "publisher": "Universidad Pedagógica y Tecnológica de Colombia",
+    "authors": [
+      "Yolanda Torres Perez"
+    ],
+    "group": "1a97a236"
+  },
+  {
+    "id": 731,
+    "isValidated": true,
+    "title": "GESTION DEL CONOCIMIENTO Y LA INNOVACION PARA EL DESARROLLO LOCAL. EXPERIENCIAS Y RESULTADOS EN 7 MUNICIPIOS",
+    "country": "Colombia",
+    "year": 2018,
+    "isbn": "978-958-660-337-9",
+    "publisher": "Universidad Pedagógica y Tecnológica de Colombia",
+    "authors": [
+      "Edwin Yesid Gomez Pachon",
+      "Oscar Gutierrez Molina",
+      "Shirley Andrea Ovalle Barreto",
+      "Patricia Carolina Barreto Bernal",
+      "Andres Ferney Largo Leon"
+    ],
+    "group": "1a97a236"
+  },
+  {
+    "id": 732,
+    "isValidated": false,
+    "title": "GESTION DEL CONOCIMIENTO Y LA INNOVACION PARA EL DESARROLLO LOCAL. EXPERIENCIAS Y RESULTADOS EN 7 MUNICIPIOS",
+    "country": "Colombia",
+    "year": 2018,
+    "isbn": "978-958-660-337-9",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Andres Ferney Largo Leon",
+      "Edwin Yesid Gomez Pachon"
+    ],
+    "group": "1a97a236"
+  },
+  {
+    "id": 733,
     "isValidated": false,
     "title": "Intercultural Practices in an EFL Classroom: Visibilizing Rural Territories in",
     "country": "Colombia",
@@ -11019,7 +11093,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 729,
+    "id": 734,
     "isValidated": false,
     "title": "UNDERSTANDING THE COMPLEXITIES OF SELF-IMAGE IN AN EFL RURAL SETTING",
     "country": "Colombia",
@@ -11034,7 +11108,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 730,
+    "id": 735,
     "isValidated": true,
     "title": "Sentidos de la formación de educadores en Idiomas Modernos en la Universidad Pedagógica y Tecnológica de",
     "country": "Colombia",
@@ -11047,7 +11121,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 731,
+    "id": 736,
     "isValidated": true,
     "title": "Student-teachers' identity construction and its connection with student-centered approaches: a narative study",
     "country": "Colombia",
@@ -11062,7 +11136,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 732,
+    "id": 737,
     "isValidated": true,
     "title": "Student-teachers' identity construction and its connection with student-centered approaches: a narative study",
     "country": "Colombia",
@@ -11077,7 +11151,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 733,
+    "id": 738,
     "isValidated": true,
     "title": "Student-teachers' identity construction and its connection with student-centered approaches: a narative study",
     "country": "Colombia",
@@ -11092,7 +11166,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 734,
+    "id": 739,
     "isValidated": true,
     "title": "Enhancing EFL Speaking in Rural Settings: Challenges and Opportunities for Material Developers",
     "country": "Colombia",
@@ -11107,7 +11181,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 735,
+    "id": 740,
     "isValidated": true,
     "title": "Enhancing EFL Speaking in Rural Settings: Challenges and Opportunities for Material Developers",
     "country": "Colombia",
@@ -11122,7 +11196,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 736,
+    "id": 741,
     "isValidated": true,
     "title": "Enhancing EFL Speaking in Rural Settings: Challenges and Opportunities for Material Developers",
     "country": "Colombia",
@@ -11137,7 +11211,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 737,
+    "id": 742,
     "isValidated": false,
     "title": "Reflexiones en contextos autónomos prara el aprendizaje de idiomas: voces de los estudiantes",
     "country": "Colombia",
@@ -11150,7 +11224,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 738,
+    "id": 743,
     "isValidated": false,
     "title": "A practical materials development guide for EFL pre-service, novice and in-service teachers",
     "country": "Colombia",
@@ -11163,7 +11237,7 @@
     "group": "2c19fe90"
   },
   {
-    "id": 739,
+    "id": 744,
     "isValidated": false,
     "title": "Educar para la paz. Una mirada de síntesis a su historia, enfoques y propuestas",
     "country": "Colombia",
@@ -11177,7 +11251,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 740,
+    "id": 745,
     "isValidated": false,
     "title": "Avalanchas y trabajos, arreglos y amarres Dos ensayos antropológicos acerca de Armero",
     "country": "Colombia",
@@ -11191,7 +11265,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 741,
+    "id": 746,
     "isValidated": false,
     "title": "Tunja Prehispánica. Estudio de los patrones de asentamiento",
     "country": "Colombia",
@@ -11204,7 +11278,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 742,
+    "id": 747,
     "isValidated": false,
     "title": "Etnografía y Patrimonio cultural. Caminos emergentes y perspectivas",
     "country": "Colombia",
@@ -11217,7 +11291,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 743,
+    "id": 748,
     "isValidated": false,
     "title": "Muertos sembrados, espíritus germinados: conflicto, vida y muerte en la paz y el orden territorial de Nasa Wesx, sur del Tolima",
     "country": "Colombia",
@@ -11230,7 +11304,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 744,
+    "id": 749,
     "isValidated": true,
     "title": "Las Tácticas del Habitar. Prácticas de recuerdos y (re)significación de lugares en contextos de retorno de población",
     "country": "Colombia",
@@ -11243,7 +11317,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 745,
+    "id": 750,
     "isValidated": false,
     "title": "Arqueología del arte rupestre. Excavaciones arqueológicas en El Colegio, Cundinamarca",
     "country": "Colombia",
@@ -11256,7 +11330,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 746,
+    "id": 751,
     "isValidated": true,
     "title": "Encanto de cabrestero",
     "country": "Colombia",
@@ -11270,7 +11344,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 747,
+    "id": 752,
     "isValidated": false,
     "title": "Fríjoles y Saberes de Boyacá",
     "country": "Colombia",
@@ -11283,7 +11357,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 748,
+    "id": 753,
     "isValidated": false,
     "title": "Pictografías, Moyas Y Rocas Del Farfacá De Tunja Y Motavita",
     "country": "Colombia",
@@ -11297,7 +11371,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 749,
+    "id": 754,
     "isValidated": true,
     "title": "Pictografías, Moyas Y Rocas Del Farfacá De Tunja Y Motavita",
     "country": "Colombia",
@@ -11311,7 +11385,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 750,
+    "id": 755,
     "isValidated": false,
     "title": "Rocas Y Petroglitos Del Guainia",
     "country": "Colombia",
@@ -11325,7 +11399,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 751,
+    "id": 756,
     "isValidated": false,
     "title": "TUNJA PREHISPANICA",
     "country": "Colombia",
@@ -11338,7 +11412,7 @@
     "group": "8e74a37d"
   },
   {
-    "id": 752,
+    "id": 757,
     "isValidated": false,
     "title": "Derechos Humanos Y Vida Cotidiana En Boyacá",
     "country": "Colombia",
@@ -11352,7 +11426,259 @@
     "group": "8e74a37d"
   },
   {
-    "id": 753,
+    "id": 758,
+    "isValidated": false,
+    "title": "Microorganismos endófitos en frailejones propagados in vitro: caracterizacion microbiologica y molecular. Biotecnologia inspirada en frailejones.",
+    "country": "Colombia",
+    "year": 2025,
+    "isbn": "978-958-660-932-6",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Zaida Zarely Ojeda Perez",
+      "Diana Marcela Arias Moreno",
+      "Maria Yecenia Hernandez Herrera"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 759,
+    "isValidated": false,
+    "title": "Meristemos apicales, una técnica de propagación in vitro útil en procesos de conservación de Espeletia paipana. Biotecnología inspirada en frailejones.",
+    "country": "Colombia",
+    "year": 2025,
+    "isbn": "978-958-660-929-6",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Zaida Zarely Ojeda Perez",
+      "Diana Marcela Arias Moreno",
+      "Maria Yecenia Hernandez Herrera"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 760,
+    "isValidated": false,
+    "title": "Biotecnología inspirada en frailejones: Inducción de procesos morfogénicos adventicios para la micropropagación de especies en peligro crítico. Biotecnología inspirada en frailejones",
+    "country": "Colombia",
+    "year": 2025,
+    "isbn": "978-958-660-933-3",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Zaida Zarely Ojeda Perez",
+      "Diana Marcela Arias Moreno",
+      "Maria Yecenia Hernandez Herrera"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 761,
+    "isValidated": false,
+    "title": "Modelo de Gestión Institucional de la Investigación y la Innovación en Instituciones de Educación Superior de América Latina",
+    "country": "Colombia",
+    "year": 2022,
+    "isbn": "978-958-8481-56-2",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Zaida Zarely Ojeda Perez",
+      "Elizabeth Bernal Gamboa",
+      "Diana Susana Granados Falla",
+      "Enrique Vera Lopez",
+      "Yeison Alberto Garces Gomez",
+      "Susan Margarita Benavides Trujillo"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 762,
+    "isValidated": false,
+    "title": "Colores y sabores de mi tierra: papas nativas cultivadas en Boyacá",
+    "country": "Colombia",
+    "year": 2021,
+    "isbn": "978-958-660-517-5",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Eyda Johanna Araque Barrera",
+      "Maria De Los Angeles Bohorquez Quintero",
+      "Jose Estiben Pacheco Diaz",
+      "Zaida Zarely Ojeda Perez",
+      "Diana Marcela Arias Moreno"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 763,
+    "isValidated": false,
+    "title": "Colores y sabores de mi tierra: papas nativas cultivadas en Boyacá",
+    "country": "Colombia",
+    "year": 2021,
+    "isbn": "978-958-660-517-5",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Maria De Los Angeles Bohorquez Quintero",
+      "Eyda Johanna Araque Barrera",
+      "Jose Estiben Pacheco Diaz",
+      "Zaida Zarely Ojeda Perez",
+      "Diana Marcela Arias Moreno"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 764,
+    "isValidated": false,
+    "title": "Colores y sabores de mi tierra: papas nativas cultivadas en Boyacá",
+    "country": "Colombia",
+    "year": 2021,
+    "isbn": "978-958-660-517-5",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Diana Marcela Arias Moreno",
+      "Jose Estiben Pacheco Diaz",
+      "Zaida Zarely Ojeda Perez",
+      "Maria De Los Angeles Bohorquez Quintero",
+      "Eyda Johanna Araque Barrera"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 765,
+    "isValidated": false,
+    "title": "Colores y sabores de mi tierra: papas nativas cultivadas en Boyacá",
+    "country": "Colombia",
+    "year": 2021,
+    "isbn": "978-958-660-517-5",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Zaida Zarely Ojeda Perez",
+      "Diana Marcela Arias Moreno",
+      "Jose Estiben Pacheco Diaz",
+      "Maria De Los Angeles Bohorquez Quintero",
+      "Eyda Johanna Araque Barrera"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 766,
+    "isValidated": false,
+    "title": "Colores y sabores de mi tierra: papas nativas cultivadas en Boyacá",
+    "country": "Colombia",
+    "year": 2021,
+    "isbn": "978-958-660-517-5",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Jose Estiben Pacheco Diaz",
+      "Diana Marcela Arias Moreno",
+      "Zaida Zarely Ojeda Perez",
+      "Maria De Los Angeles Bohorquez Quintero",
+      "Eyda Johanna Araque Barrera"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 767,
+    "isValidated": true,
+    "title": "AREAS ESTRATÉGICAS DE INVESTIGACIÓN E INNOVACIÓN: UNA APROXIMACIÓN A LA GESTIÓN DE LA INVESTIGACIÓN",
+    "country": "Colombia",
+    "year": 2019,
+    "isbn": "978-958-660-383-6",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Enrique Vera Lopez",
+      "Zaida Zarely Ojeda Perez",
+      "Nubia Yaneth Gomez Velasco",
+      "Patricia Carolina Barreto Bernal",
+      "Yasmith Adriana Camargo Gomez",
+      "Edgar Alonso Ramirez Hernandez"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 768,
+    "isValidated": false,
+    "title": "Lineamientos para la construcción de una política de innovación institucional",
+    "country": "Colombia",
+    "year": 2019,
+    "isbn": "978-958-660-382-9",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Zaida Zarely Ojeda Perez",
+      "Yasmith Adriana Camargo Gomez",
+      "Patricia Carolina Barreto Bernal",
+      "Ariel Adolfo Rodriguez Hernandez",
+      "Nubia Yaneth Gomez Velasco",
+      "Carlos Alberto Uribe Suarez",
+      "Enrique Vera Lopez"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 769,
+    "isValidated": false,
+    "title": "Roble Y Pino",
+    "country": "Colombia",
+    "year": 2005,
+    "isbn": "958-660-102-1",
+    "publisher": "Publicaciones e Imprenta Universidad Pedagógica y Tecnológica de Colombia",
+    "authors": [
+      "Jose Pacheco Maldonado",
+      "Maria Cristina Castellanos Corredor"
+    ],
+    "group": "2a9ba52d"
+  },
+  {
+    "id": 770,
+    "isValidated": true,
+    "title": "Nutrición animal, lípidos y fitoestrógenos",
+    "country": "Colombia",
+    "year": 2018,
+    "isbn": "978-958-660-274-7",
+    "publisher": "editorial uptc",
+    "authors": [
+      "Carlos Eduardo Rodriguez Molano",
+      "Dania Alejandra Fonseca Lopez"
+    ],
+    "group": "46fc90ed"
+  },
+  {
+    "id": 771,
+    "isValidated": false,
+    "title": "Eficacia de los extractos vegetales sobre la Rhipicephalus b.microplus",
+    "country": "España",
+    "year": 2015,
+    "isbn": "978-3-659-09736-2",
+    "publisher": "",
+    "authors": [
+      "Nestor Julian Pulido Suarez"
+    ],
+    "group": "46fc90ed"
+  },
+  {
+    "id": 772,
+    "isValidated": false,
+    "title": "Desarrollo ,sostenibilidad y medio ambiente, pilares para un desarrollo rural sostenible.",
+    "country": "Colombia",
+    "year": 2010,
+    "isbn": "978-958-9162-41-5",
+    "publisher": "Orión Editores",
+    "authors": [
+      "Luis Miguel Borras Sandoval"
+    ],
+    "group": "46fc90ed"
+  },
+  {
+    "id": 773,
+    "isValidated": false,
+    "title": "PRODUCCIÓN LIMPIA. Una alternativa para el desarrollo rural en",
+    "country": "Colombia",
+    "year": 2009,
+    "isbn": "9789584459237",
+    "publisher": "Edimpresos editores impresores",
+    "authors": [
+      "Luis Miguel Borras Sandoval"
+    ],
+    "group": "46fc90ed"
+  },
+  {
+    "id": 774,
     "isValidated": true,
     "title": "ZISUMA PARQUE NACIONAL NATURAL EL COCUY CUENCA ALTA DEL RÍO NEVADO",
     "country": "Colombia",
@@ -11370,7 +11696,7 @@
     "group": "467d69b7"
   },
   {
-    "id": 754,
+    "id": 775,
     "isValidated": true,
     "title": "Estudios Ecólogicos En El Parque Natural Municipal Ranchería. Un Aporte Para Sun Conservación",
     "country": "Colombia",
@@ -11397,7 +11723,7 @@
     "group": "467d69b7"
   },
   {
-    "id": 755,
+    "id": 776,
     "isValidated": true,
     "title": "Flórula De La Reserva Forestal Protectora ¨El Malmo¨ Tunja (Boyacá-Colombia)",
     "country": "Colombia",
@@ -11422,7 +11748,7 @@
     "group": "467d69b7"
   },
   {
-    "id": 756,
+    "id": 777,
     "isValidated": false,
     "title": "Importancia terapéutica y estabilizantes edulcorantes en la tecnología del yogur",
     "country": "Colombia",
@@ -11435,7 +11761,7 @@
     "group": "a839b0c9"
   },
   {
-    "id": 757,
+    "id": 778,
     "isValidated": false,
     "title": "Diagnostico Y Tecnicas Para El Manejo Dela Moniliasis Del Cacao",
     "country": "Colombia",
@@ -11448,7 +11774,7 @@
     "group": "a839b0c9"
   },
   {
-    "id": 758,
+    "id": 779,
     "isValidated": false,
     "title": "Tecnicas Para La Determinacion De Moleculas Bioactivas De Extractos De Plantas Para La Formulaion De Bioplaguicidas",
     "country": "Colombia",
@@ -11464,7 +11790,7 @@
     "group": "a839b0c9"
   },
   {
-    "id": 759,
+    "id": 780,
     "isValidated": false,
     "title": "Colombia diversidad biótica XXI. Tipos de vegetación en las regiones naturales de",
     "country": "Colombia",
@@ -11477,7 +11803,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 760,
+    "id": 781,
     "isValidated": false,
     "title": "Flora y vegetación del departamento de Boyacá",
     "country": "Colombia",
@@ -11499,7 +11825,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 761,
+    "id": 782,
     "isValidated": false,
     "title": "Fauna Silvestre en gradientes altitudinales de los Andes Nororientales de",
     "country": "Colombia",
@@ -11533,7 +11859,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 762,
+    "id": 783,
     "isValidated": false,
     "title": "Flora y vegetación del departamento de Boyacá",
     "country": "Colombia",
@@ -11547,7 +11873,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 763,
+    "id": 784,
     "isValidated": false,
     "title": "Memoria técnica del mapa de la vegetación natural de",
     "country": "Colombia",
@@ -11561,7 +11887,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 764,
+    "id": 785,
     "isValidated": true,
     "title": "Ecología y conservación de especies focales en sectores del Piedemonte Llanero en el tramo de la doble calzada Chirajara- Fundadores",
     "country": "Colombia",
@@ -11574,7 +11900,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 765,
+    "id": 786,
     "isValidated": true,
     "title": "Reptiles del Caribe",
     "country": "Colombia",
@@ -11589,7 +11915,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 766,
+    "id": 787,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica XIX. Selvas transicionales de Cumaribo (Vichada -",
     "country": "Colombia",
@@ -11604,7 +11930,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 767,
+    "id": 788,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica XX. Territorio sabanas y humedales de Arauca (Colombia)",
     "country": "Colombia",
@@ -11619,7 +11945,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 768,
+    "id": 789,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica XVIII. Biodiversidad y territorio de la serranía de Perijá (Cesar-Colombia)",
     "country": "Colombia",
@@ -11634,7 +11960,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 769,
+    "id": 790,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica XVII: La región de la Serranía de Manacacías (Meta) Orinoquía",
     "country": "Colombia",
@@ -11649,7 +11975,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 770,
+    "id": 791,
     "isValidated": true,
     "title": "Colombia Diversidad Biótica XVI. Patrones de riqueza y de diversidad de las plantas con flores en el bioma de páramo",
     "country": "Colombia",
@@ -11662,7 +11988,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 771,
+    "id": 792,
     "isValidated": true,
     "title": "La riqueza vegetal de la Amazonía de",
     "country": "Colombia",
@@ -11680,7 +12006,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 772,
+    "id": 793,
     "isValidated": true,
     "title": "Colombia Diversidad Biótica XV. Los bosques de robles (Fagaceae) en",
     "country": "Colombia",
@@ -11695,7 +12021,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 773,
+    "id": 794,
     "isValidated": false,
     "title": "Guía ilustrada del Proyecto Hidroeléctrico Ituango ¿ Antioquia. Vol. II. Fauna. Serie de Guías de Campo del Instituto de Ciencias Naturales de la Universidad Nacional de",
     "country": "Colombia",
@@ -11708,7 +12034,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 774,
+    "id": 795,
     "isValidated": false,
     "title": "Guía ilustrada del Proyecto Hidroeléctrico Ituango ¿ Antioquia. Vol. I. Geografía, vegetación y flora. Serie de Guías de Campo del Instituto de Ciencias Naturales de la Universidad Nacional de",
     "country": "Colombia",
@@ -11721,7 +12047,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 775,
+    "id": 796,
     "isValidated": false,
     "title": "Áreas propuestas para las actividades de reubicación de la fauna silvestre que será afectada por las actividades constructivas y de adecuación del vaso del embalse del Proyecto Hidroeléctrico Ituango (Antioquia,",
     "country": "Colombia",
@@ -11734,7 +12060,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 776,
+    "id": 797,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica Xiv. La Región De La Orinoquia De",
     "country": "Colombia",
@@ -11758,7 +12084,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 777,
+    "id": 798,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica. Publicación Especial No. 8. La Fauna Silvestre Del Cesar. Importancia Y Conservación",
     "country": "Colombia",
@@ -11776,7 +12102,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 778,
+    "id": 799,
     "isValidated": false,
     "title": "Colombia Diversidad Biotica XIII. Complejo cenagoso Zapatosa y ciénagas del Sur del Cesar: Biodiversidad, Conservación y manejo",
     "country": "Colombia",
@@ -11800,7 +12126,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 779,
+    "id": 800,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica. Publicación Especial No. 8. La Fauna Silvestre Del Cesar. Importancia Y Conservación",
     "country": "Colombia",
@@ -11818,7 +12144,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 780,
+    "id": 801,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica. Publicación Especial No. 8. La Fauna Silvestre Del Cesar. Importancia Y Conservación",
     "country": "Colombia",
@@ -11836,7 +12162,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 781,
+    "id": 802,
     "isValidated": false,
     "title": "Uso Del Buchón De Agua (Eichhornia Crassipes (Mart .) Solms), En Actividades De Recuperación De Áreas Intervenidas En Proyectos Hidroeléctricos.",
     "country": "Colombia",
@@ -11853,7 +12179,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 782,
+    "id": 803,
     "isValidated": true,
     "title": "La Fauna Silvestre del Cesar, importancia y Conservación",
     "country": "Colombia",
@@ -11871,7 +12197,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 783,
+    "id": 804,
     "isValidated": false,
     "title": "Las Ciénagas Del Departamento Del Cesar: Zapatosa Y Ciénagas Del Sur, Biodiversidad Y Conservación",
     "country": "Colombia",
@@ -11903,7 +12229,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 784,
+    "id": 805,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica: Las ciénagas del departamento del Cesar: Zapatosa y ciénagas del Sur, Biodiversidad y Conservación",
     "country": "Colombia",
@@ -11916,7 +12242,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 785,
+    "id": 806,
     "isValidated": false,
     "title": "La Biodiversidad De Municipios De Caribe",
     "country": "Colombia",
@@ -11931,7 +12257,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 786,
+    "id": 807,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica. Publicación Especial No. 5. La Vegetación ¿ Los Bosques Y El Hombre Con Especial Referencia Al Departamento Del Cesar",
     "country": "Colombia",
@@ -11944,7 +12270,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 787,
+    "id": 808,
     "isValidated": false,
     "title": "Bosque Del Agüil, Aguachica ¿ Cesar, Biodiversidad, Educación Ambiental Y Conservación.",
     "country": "Colombia",
@@ -11957,7 +12283,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 788,
+    "id": 809,
     "isValidated": false,
     "title": "La Biodiversidad De Municipios De Caribe",
     "country": "Colombia",
@@ -11972,7 +12298,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 789,
+    "id": 810,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica Xii. La Región Caribe De",
     "country": "Colombia",
@@ -11985,7 +12311,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 790,
+    "id": 811,
     "isValidated": false,
     "title": "Bosque Del Agüil, Aguachica ¿ Cesar, Biodiversidad, Educación Ambiental Y Conservación.",
     "country": "Colombia",
@@ -11998,7 +12324,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 791,
+    "id": 812,
     "isValidated": false,
     "title": "Bosque Del Agüil, Aguachica ¿ Cesar, Biodiversidad, Educación Ambiental Y Conservación.",
     "country": "Colombia",
@@ -12021,7 +12347,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 792,
+    "id": 813,
     "isValidated": false,
     "title": "La Biodiversidad De Municipios De Caribe",
     "country": "Colombia",
@@ -12034,7 +12360,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 793,
+    "id": 814,
     "isValidated": true,
     "title": "Bosque del Aguil (Aguachica-Cesar), Biodiversidad, Educación Ambiental y Conservación",
     "country": "Colombia",
@@ -12052,7 +12378,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 794,
+    "id": 815,
     "isValidated": false,
     "title": "V. Biología Y Conservación De Las Tortugas Continentales De",
     "country": "Colombia",
@@ -12069,7 +12395,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 795,
+    "id": 816,
     "isValidated": false,
     "title": "Las Ciénagas Del Departamento Del Cesar: Zapatosa Y Ciénagas Del Sur, Biodiversidad Y Conservación",
     "country": "Colombia",
@@ -12102,7 +12428,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 796,
+    "id": 817,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica. Publicación Especial No. 6. Las Ciénagas Y Los Patos En San Martín, Cesar,",
     "country": "Colombia",
@@ -12116,7 +12442,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 797,
+    "id": 818,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica. Publicación Especial No. 1. Guía De Campo: Anfibios Y Reptiles De Los Alrededores Del Complejo Cenagoso De Zapatosa, Departamento Del Cesar,",
     "country": "Colombia",
@@ -12131,7 +12457,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 798,
+    "id": 819,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica. Publicación Especial No. 3. Resumenes: Simposio Internacional sobre la Biodiversidad del Caribe",
     "country": "Colombia",
@@ -12144,7 +12470,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 799,
+    "id": 820,
     "isValidated": false,
     "title": "Plantas Útiles Del Complejo Cenagoso De Zapatosa. Publicación Especial No. 2. Guía De Campo",
     "country": "Colombia",
@@ -12157,7 +12483,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 800,
+    "id": 821,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica. Publicación Especial No. 1. Guía De Campo: Anfibios Y Reptiles De Los Alrededores Del Complejo Cenagoso De Zapatosa, Departamento Del Cesar,",
     "country": "Colombia",
@@ -12170,7 +12496,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 801,
+    "id": 822,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica Xi. Patrones De La Estructura Y De La Riqueza De La Vegetación En",
     "country": "Colombia",
@@ -12183,7 +12509,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 802,
+    "id": 823,
     "isValidated": false,
     "title": "Plantas Útiles Del Complejo Cenagoso De Zapatosa. Publicación Especial No. 2. Guía De Campo",
     "country": "Colombia",
@@ -12201,7 +12527,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 803,
+    "id": 824,
     "isValidated": false,
     "title": "Soacha Biodiversa, Caracterización De Flora Y Fauna En El Municipio De Soacha - Cundinamarca",
     "country": "Colombia",
@@ -12216,7 +12542,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 804,
+    "id": 825,
     "isValidated": false,
     "title": "Colombia, Diversidad Bíotica X, Cambio Global (Natural) Y Climatico (Antrópico) En El Paramo",
     "country": "Colombia",
@@ -12229,7 +12555,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 805,
+    "id": 826,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica Ix . Ciénagas De Córdoba: Biodiversidad Ecologica Y Manejo Ambiental",
     "country": "Colombia",
@@ -12242,7 +12568,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 806,
+    "id": 827,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica Viii . Baja Y Media Montaña De La Serranía Del Perijá.",
     "country": "Colombia",
@@ -12255,7 +12581,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 807,
+    "id": 828,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica Vii. Vegetación, Palinología Y Paleoecología De La Amazonia",
     "country": "Colombia",
@@ -12268,7 +12594,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 808,
+    "id": 829,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica Vi: Riqueza Y Diversidad De Los Musgos Y Líquenes En",
     "country": "Colombia",
@@ -12281,7 +12607,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 809,
+    "id": 830,
     "isValidated": false,
     "title": "Estudios De Ecosistemas Tropandinos-Ecoandes 7. La Cordillera Oriental",
     "country": "",
@@ -12294,7 +12620,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 810,
+    "id": 831,
     "isValidated": false,
     "title": "Fibras Vegetales",
     "country": "Colombia",
@@ -12310,7 +12636,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 811,
+    "id": 832,
     "isValidated": false,
     "title": "\"Colombia, Diversidad Biótica V. La Alta Montaña De La Serranía De Perijá\"",
     "country": "Colombia",
@@ -12323,7 +12649,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 812,
+    "id": 833,
     "isValidated": false,
     "title": "Los Tipos Nomenclaturales Depositados En La Colección Zoológica Del Instituto De Ciencias Naturales.",
     "country": "Colombia",
@@ -12337,7 +12663,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 813,
+    "id": 834,
     "isValidated": false,
     "title": "Libro Rojo De Los Invertebrados Terrestres De",
     "country": "Colombia",
@@ -12351,7 +12677,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 814,
+    "id": 835,
     "isValidated": false,
     "title": "Santa Maria Mariposas Alas Y Color Guia De Campo",
     "country": "Colombia",
@@ -12364,7 +12690,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 815,
+    "id": 836,
     "isValidated": false,
     "title": "La Cordillera Occidental",
     "country": "Colombia",
@@ -12379,7 +12705,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 816,
+    "id": 837,
     "isValidated": false,
     "title": "Mariposas De",
     "country": "Colombia",
@@ -12395,7 +12721,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 817,
+    "id": 838,
     "isValidated": false,
     "title": "El Orden Ephemeroptera (Insecta) En",
     "country": "Colombia",
@@ -12409,7 +12735,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 818,
+    "id": 839,
     "isValidated": true,
     "title": "Colombia Diversidad Biótica Iv. La Región Chocoana De",
     "country": "Colombia",
@@ -12422,7 +12748,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 819,
+    "id": 840,
     "isValidated": false,
     "title": "Flora De La Real Expedición Botánica Al Nuevo Reino De Granada: Crucíferas, Továriaceas, Podostemonáceas, Crasuláceas, Hidrangeáceas, Escalloniáceas, Grosulariáceas, Bruneliáceas, Cunoniáceas, Rosáceas, Chrisobalanáceas, Connaráceas Y Saxifragáceas",
     "country": "Colombia",
@@ -12437,7 +12763,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 820,
+    "id": 841,
     "isValidated": false,
     "title": "Libro Rojo De Los Reptiles De",
     "country": "Colombia",
@@ -12450,7 +12776,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 821,
+    "id": 842,
     "isValidated": false,
     "title": "Resumenes Viii Congreso Latinoamericano De Botánica Y Ii Congreso",
     "country": "Colombia",
@@ -12465,7 +12791,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 822,
+    "id": 843,
     "isValidated": false,
     "title": "Polen de la Subclase Asteridae en El Páramo de Monserrate",
     "country": "Colombia",
@@ -12478,7 +12804,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 823,
+    "id": 844,
     "isValidated": false,
     "title": "Lateglacial And Halocene Vegetation And Climatic Change In Lowland",
     "country": "Colombia",
@@ -12491,7 +12817,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 824,
+    "id": 845,
     "isValidated": false,
     "title": "Diagnóstico de los recursos naturales renovables del departamento de Cundinamarca situación actual y recomendaciones.",
     "country": "Colombia",
@@ -12505,7 +12831,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 825,
+    "id": 846,
     "isValidated": false,
     "title": "Colombia Diversidad Biótica Iii: La Región De Vida Paramuna.",
     "country": "Colombia",
@@ -12518,7 +12844,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 826,
+    "id": 847,
     "isValidated": false,
     "title": "Tardiglacial y holoceno del norte de la cordillera Occidental de",
     "country": "Colombia",
@@ -12531,7 +12857,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 827,
+    "id": 848,
     "isValidated": false,
     "title": "La Cordillera Central",
     "country": "",
@@ -12546,7 +12872,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 828,
+    "id": 849,
     "isValidated": false,
     "title": "Estudios De Ecosistemas Tropandinos (I)",
     "country": "Colombia",
@@ -12561,7 +12887,7 @@
     "group": "29de6ca5"
   },
   {
-    "id": 829,
+    "id": 850,
     "isValidated": false,
     "title": "Historia del desarrollo urbano de Tunja mediante un SIG",
     "country": "Colombia",
@@ -12574,7 +12900,7 @@
     "group": "e970b91b"
   },
   {
-    "id": 830,
+    "id": 851,
     "isValidated": false,
     "title": "HISTORIA DEL DESARROLLO URBANO DE TUNJA MEDIANTE UN SIG",
     "country": "Colombia",
@@ -12591,7 +12917,7 @@
     "group": "e970b91b"
   },
   {
-    "id": 831,
+    "id": 852,
     "isValidated": true,
     "title": "Metodología para la determinación de sobre anchos en vías carreteras a partir de la evaluación de trayectorias de giro",
     "country": "Colombia",
@@ -12606,7 +12932,7 @@
     "group": "e970b91b"
   },
   {
-    "id": 832,
+    "id": 853,
     "isValidated": true,
     "title": "Metodología para la determinación de sobreanchos en vías carreteras a partir de la evaluación de trayectorias de giro",
     "country": "Colombia",
@@ -12621,7 +12947,7 @@
     "group": "e970b91b"
   },
   {
-    "id": 833,
+    "id": 854,
     "isValidated": true,
     "title": "Cartografía con drones (VANT's)",
     "country": "Colombia",
@@ -12636,7 +12962,7 @@
     "group": "e970b91b"
   },
   {
-    "id": 834,
+    "id": 855,
     "isValidated": true,
     "title": "Cartografía con drones (VANT's)",
     "country": "Colombia",
@@ -12651,7 +12977,7 @@
     "group": "e970b91b"
   },
   {
-    "id": 835,
+    "id": 856,
     "isValidated": false,
     "title": "Desafíos de la Formación en tic para educadores de hoy. Un análisis desde la Política pública",
     "country": "Colombia",
@@ -12666,7 +12992,7 @@
     "group": "3483b2aa"
   },
   {
-    "id": 836,
+    "id": 857,
     "isValidated": false,
     "title": "Historia y Arte de Canarias, Ceuta y Melilla",
     "country": "Colombia",
@@ -12679,7 +13005,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 837,
+    "id": 858,
     "isValidated": false,
     "title": "Cincuenta Años Por Los Caminos De Dios",
     "country": "Colombia",
@@ -12692,7 +13018,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 838,
+    "id": 859,
     "isValidated": false,
     "title": "Viaje A La Memoria Por La Escuela De Idiomas 1960-2010",
     "country": "Colombia",
@@ -12705,7 +13031,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 839,
+    "id": 860,
     "isValidated": false,
     "title": "Lecturas Y Escrituras. Lecciones Doctorales",
     "country": "Colombia",
@@ -12718,7 +13044,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 840,
+    "id": 861,
     "isValidated": false,
     "title": "Primer  Encuentro Nacional Y 7° Encuentro De Investigaciones. La Investigación Como Articulador Entre La Ciencia Y La Paz. 30años De Compromiso Con",
     "country": "Colombia",
@@ -12731,7 +13057,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 841,
+    "id": 862,
     "isValidated": false,
     "title": "Lecturas Y Escrituras. Lecciones Doctorales",
     "country": "Colombia",
@@ -12744,7 +13070,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 842,
+    "id": 863,
     "isValidated": false,
     "title": "Lecturas Y Escrituras. Lecciones Doctorales",
     "country": "Colombia",
@@ -12757,7 +13083,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 843,
+    "id": 864,
     "isValidated": false,
     "title": "Lecturas Y Escrituras. Lecciones Doctorales",
     "country": "Colombia",
@@ -12770,7 +13096,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 844,
+    "id": 865,
     "isValidated": false,
     "title": "Educadores En America Latina Y El Caribe. De La Colonia A Los Siglos Xix Y Xx",
     "country": "Colombia",
@@ -12783,7 +13109,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 845,
+    "id": 866,
     "isValidated": false,
     "title": "Educadores Latinoamericanos Y Del Caribe Del Siglo Xx Al Xxi",
     "country": "Colombia",
@@ -12796,7 +13122,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 846,
+    "id": 867,
     "isValidated": false,
     "title": "Sembradores Para Siempre",
     "country": "Colombia",
@@ -12809,7 +13135,7 @@
     "group": "2f03ec7a"
   },
   {
-    "id": 847,
+    "id": 868,
     "isValidated": false,
     "title": "OREJAS DE PESCADO",
     "country": "Colombia",
@@ -12822,7 +13148,7 @@
     "group": "38384809"
   },
   {
-    "id": 848,
+    "id": 869,
     "isValidated": false,
     "title": "LA LUCHA POR EL RECONOCIMIENTO DE LA IDENTIDAD SEXUAL EN",
     "country": "COLOMBIA",
@@ -12835,7 +13161,7 @@
     "group": "38384809"
   },
   {
-    "id": 849,
+    "id": 870,
     "isValidated": false,
     "title": "Tras las heridas de lo que somos. Arte y nihilismo en la Era del vapor",
     "country": "Colombia",
@@ -12848,7 +13174,7 @@
     "group": "38384809"
   },
   {
-    "id": 850,
+    "id": 871,
     "isValidated": true,
     "title": "Guerra en",
     "country": "Colombia",
@@ -12861,7 +13187,7 @@
     "group": "38384809"
   },
   {
-    "id": 851,
+    "id": 872,
     "isValidated": false,
     "title": "La población desplaza en",
     "country": "Colombia",
@@ -12874,7 +13200,7 @@
     "group": "38384809"
   },
   {
-    "id": 852,
+    "id": 873,
     "isValidated": false,
     "title": "Legitimidad de la decisión judicial y gobierno de los jueces",
     "country": "Colombia",
@@ -12887,7 +13213,7 @@
     "group": "38384809"
   },
   {
-    "id": 853,
+    "id": 874,
     "isValidated": false,
     "title": "La población desplazada en",
     "country": "Colombia",
@@ -12900,7 +13226,7 @@
     "group": "38384809"
   },
   {
-    "id": 854,
+    "id": 875,
     "isValidated": true,
     "title": "“Guerra en",
     "country": "Colombia",
@@ -12913,7 +13239,7 @@
     "group": "38384809"
   },
   {
-    "id": 855,
+    "id": 876,
     "isValidated": false,
     "title": "John Stuart Mill: Vigencia y legado de su pensamiento",
     "country": "Colombia",
@@ -12926,7 +13252,7 @@
     "group": "38384809"
   },
   {
-    "id": 856,
+    "id": 877,
     "isValidated": false,
     "title": "Dinámicas Urbanas. Evaluación y gestión de la seguridad vial urbana mediante técnicas de auditorías",
     "country": "Colombia",
@@ -12941,7 +13267,7 @@
     "group": "ebd196b0"
   },
   {
-    "id": 857,
+    "id": 878,
     "isValidated": false,
     "title": "Dinámicas Urbanas. Evaluación y gestión de la seguridad vial urbana mediante técnicas de auditorías",
     "country": "Colombia",
@@ -12956,7 +13282,7 @@
     "group": "ebd196b0"
   },
   {
-    "id": 858,
+    "id": 879,
     "isValidated": true,
     "title": "Análisis espacial de la accidentalidad urbana. Método de investigación con SGI",
     "country": "Colombia",
@@ -12969,7 +13295,7 @@
     "group": "ebd196b0"
   },
   {
-    "id": 859,
+    "id": 880,
     "isValidated": false,
     "title": "Infraestructura de Datos Espaciales y Normatividad Geográfica en",
     "country": "México",
@@ -12986,7 +13312,7 @@
     "group": "ebd196b0"
   },
   {
-    "id": 860,
+    "id": 881,
     "isValidated": false,
     "title": "Estudio Socioeconómico y de Tránsito para carreteras Terciarias",
     "country": "Colombia",
@@ -13000,7 +13326,7 @@
     "group": "ebd196b0"
   },
   {
-    "id": 861,
+    "id": 882,
     "isValidated": false,
     "title": "Comprendiendo la pobreza",
     "country": "España",
@@ -13013,7 +13339,7 @@
     "group": "7544ee02"
   },
   {
-    "id": 862,
+    "id": 883,
     "isValidated": true,
     "title": "ESTUDIO PROSPECTIVO PARA EL SECTOR METALMECÁNICO DE BOYACA: APLICACION DE LA METODOLOGIA CUALITATIVA DE PROSPECTIVA LABORAL",
     "country": "Colombia",
@@ -13026,7 +13352,7 @@
     "group": "7544ee02"
   },
   {
-    "id": 863,
+    "id": 884,
     "isValidated": false,
     "title": "Efectos De Las Intervenciones Del Fmi En La Pobreza En",
     "country": "Colombia",
@@ -13039,7 +13365,7 @@
     "group": "7544ee02"
   },
   {
-    "id": 864,
+    "id": 885,
     "isValidated": false,
     "title": "Efectos De Las Intervenciones Del Fmi En La Pobreza En",
     "country": "Colombia",
@@ -13052,7 +13378,7 @@
     "group": "7544ee02"
   },
   {
-    "id": 865,
+    "id": 886,
     "isValidated": false,
     "title": "ENSAYOS DE ECONOMIA APLICADA EN YOPAL CASANARE- Dinamica Demografica y Acumulacion de Capital Humano",
     "country": "Colombia",
@@ -13066,7 +13392,7 @@
     "group": "7544ee02"
   },
   {
-    "id": 866,
+    "id": 887,
     "isValidated": false,
     "title": "Modelos De Desarrollo Y Economia Regional",
     "country": "Colombia",
@@ -13079,7 +13405,7 @@
     "group": "7544ee02"
   },
   {
-    "id": 867,
+    "id": 888,
     "isValidated": false,
     "title": "Perfiles De Un Economista Heterodoxo. Reflexiones Sobre La Obra De Jesus Antonio Bejarano",
     "country": "Colombia",
@@ -13093,7 +13419,7 @@
     "group": "7544ee02"
   },
   {
-    "id": 868,
+    "id": 889,
     "isValidated": false,
     "title": "EL PLAN DE DESARROLLO: UN MODELO PARA ARMAR",
     "country": "Colombia",
@@ -13107,7 +13433,7 @@
     "group": "7544ee02"
   },
   {
-    "id": 869,
+    "id": 890,
     "isValidated": false,
     "title": "DE LAS PEDAGOGÍAS MONÁSTICAS A LAS PEDAGOGÍAS VIRTUALES: UN RECORRIDO POR LAS AULAS UNIVERSITARIAS",
     "country": "Colombia",
@@ -13120,7 +13446,7 @@
     "group": "485866af"
   },
   {
-    "id": 870,
+    "id": 891,
     "isValidated": false,
     "title": "MUJER IGLESIA Y EDUCACIÓN EN",
     "country": "COLOMBIA",
@@ -13133,7 +13459,7 @@
     "group": "485866af"
   },
   {
-    "id": 871,
+    "id": 892,
     "isValidated": false,
     "title": "Elementos de Bibliometría. Fundamentos y aplicaciones",
     "country": "Colombia",
@@ -13148,7 +13474,7 @@
     "group": "485866af"
   },
   {
-    "id": 872,
+    "id": 893,
     "isValidated": false,
     "title": "Culturas políticas y resiliencia en la educación",
     "country": "Colombia",
@@ -13163,7 +13489,7 @@
     "group": "485866af"
   },
   {
-    "id": 873,
+    "id": 894,
     "isValidated": false,
     "title": "La investigación educativa en la región centro de",
     "country": "Colombia",
@@ -13176,7 +13502,7 @@
     "group": "485866af"
   },
   {
-    "id": 874,
+    "id": 895,
     "isValidated": false,
     "title": "Universidade e a Escola Básica: experiências de pesquisa colaborativa na Formação de Professores(as).",
     "country": "Colombia",
@@ -13189,7 +13515,7 @@
     "group": "485866af"
   },
   {
-    "id": 875,
+    "id": 896,
     "isValidated": false,
     "title": "PRACTICA PEDAGOGICA EN EL CONTEXTO DE LA ESCUELA NORMAL SUPERIOR DE CARTAGENA DE INDIAS 1847-2010",
     "country": "Colombia",
@@ -13200,7 +13526,7 @@
     "group": "485866af"
   },
   {
-    "id": 876,
+    "id": 897,
     "isValidated": false,
     "title": "Araújo, Regina Magna Bonifácio de Desenvolvimento profissional docente e inovação pedagógica: a formação de professores na região dos inconfidentes - OBEDUC e PIBID.",
     "country": "Brasil",
@@ -13213,7 +13539,7 @@
     "group": "485866af"
   },
   {
-    "id": 877,
+    "id": 898,
     "isValidated": true,
     "title": "Políticas y medición en ciencia y tecnología en la universidad",
     "country": "Colombia",
@@ -13228,7 +13554,7 @@
     "group": "485866af"
   },
   {
-    "id": 878,
+    "id": 899,
     "isValidated": true,
     "title": "Políticas y medición en ciencia y tecnología en la universidad",
     "country": "Colombia",
@@ -13243,7 +13569,7 @@
     "group": "485866af"
   },
   {
-    "id": 879,
+    "id": 900,
     "isValidated": false,
     "title": "Formación de líderes y directivos para el desarrollo sustentable de las Organizaciones e Instituciones.",
     "country": "España",
@@ -13256,7 +13582,7 @@
     "group": "485866af"
   },
   {
-    "id": 880,
+    "id": 901,
     "isValidated": false,
     "title": "Pesquisa em Rede: diálogos de formação em contextos coletivos de conhecimento.",
     "country": "Brasil",
@@ -13269,7 +13595,7 @@
     "group": "485866af"
   },
   {
-    "id": 881,
+    "id": 902,
     "isValidated": false,
     "title": "Nuevas perspectivas en la formación del profesorado.",
     "country": "España",
@@ -13282,7 +13608,7 @@
     "group": "485866af"
   },
   {
-    "id": 882,
+    "id": 903,
     "isValidated": false,
     "title": "La Independencia Americana Textos, enseñanza e imaginarios escolares en",
     "country": "Colombia",
@@ -13298,7 +13624,7 @@
     "group": "485866af"
   },
   {
-    "id": 883,
+    "id": 904,
     "isValidated": false,
     "title": "Mujeres e Investigación. Aportaciones Interdisciplinares",
     "country": "España",
@@ -13311,7 +13637,7 @@
     "group": "485866af"
   },
   {
-    "id": 884,
+    "id": 905,
     "isValidated": true,
     "title": "La independencia Americana. Textos, enseñanza e imaginarios escolares en",
     "country": "Colombia",
@@ -13329,7 +13655,7 @@
     "group": "485866af"
   },
   {
-    "id": 885,
+    "id": 906,
     "isValidated": false,
     "title": "Aproximaciones a la historia de la educación en Chiapas. Iniciativas de enseñanza en el siglo XIX",
     "country": "México",
@@ -13342,7 +13668,7 @@
     "group": "485866af"
   },
   {
-    "id": 886,
+    "id": 907,
     "isValidated": false,
     "title": "História e consciência de classe na educação",
     "country": "Brasil",
@@ -13355,7 +13681,7 @@
     "group": "485866af"
   },
   {
-    "id": 887,
+    "id": 908,
     "isValidated": false,
     "title": "CELEBRATING 70 YEARS OF WORKING TOWARDS HEALTH, PEACE AND SOCIAL JUSTICE.: International Council of Psychologists Proceedings 2011-12 Washington (USA) & Seville (SPAIN)",
     "country": "USA",
@@ -13368,7 +13694,7 @@
     "group": "485866af"
   },
   {
-    "id": 888,
+    "id": 909,
     "isValidated": false,
     "title": "Movimientos estudiantiles en la historia de América Latina, tomo IV.",
     "country": "México",
@@ -13381,7 +13707,7 @@
     "group": "485866af"
   },
   {
-    "id": 889,
+    "id": 910,
     "isValidated": false,
     "title": "Sindicalismo e Associativismo dos Trabalhadores em Educação no",
     "country": "Brasil",
@@ -13394,7 +13720,7 @@
     "group": "485866af"
   },
   {
-    "id": 890,
+    "id": 911,
     "isValidated": false,
     "title": "Evidencias, Conjeturas, Y Hallazgos En Torno A La Historia De La Educación Latinoamericana",
     "country": "México",
@@ -13407,7 +13733,7 @@
     "group": "485866af"
   },
   {
-    "id": 891,
+    "id": 912,
     "isValidated": false,
     "title": "Evidencias, Conjeturas, Y Hallazgos En Torno A La Historia De La Educación Latinoamericana.",
     "country": "México",
@@ -13421,7 +13747,7 @@
     "group": "485866af"
   },
   {
-    "id": 892,
+    "id": 913,
     "isValidated": false,
     "title": "Pedagogias Alternativas.",
     "country": "Brasil",
@@ -13434,7 +13760,7 @@
     "group": "485866af"
   },
   {
-    "id": 893,
+    "id": 914,
     "isValidated": false,
     "title": "Educação de Jovens e Adultos: Sujeitos, Sabres e Práticas",
     "country": "Brasil",
@@ -13448,7 +13774,7 @@
     "group": "485866af"
   },
   {
-    "id": 894,
+    "id": 915,
     "isValidated": false,
     "title": "la escuela rural en",
     "country": "Colombia",
@@ -13461,7 +13787,7 @@
     "group": "485866af"
   },
   {
-    "id": 895,
+    "id": 916,
     "isValidated": false,
     "title": "¡Vamos a leer un cuento! El papel de los papás y las mamás en la educación",
     "country": "México",
@@ -13474,7 +13800,7 @@
     "group": "485866af"
   },
   {
-    "id": 896,
+    "id": 917,
     "isValidated": false,
     "title": "Interdisciplinaridade e Transdisciplinaridade: políticas e práticas de formação de professores",
     "country": "Brasil",
@@ -13487,7 +13813,7 @@
     "group": "485866af"
   },
   {
-    "id": 897,
+    "id": 918,
     "isValidated": false,
     "title": "Ciudadanías E Identidades En Los Manuales Escolares (1970-2012)",
     "country": "España",
@@ -13500,7 +13826,7 @@
     "group": "485866af"
   },
   {
-    "id": 898,
+    "id": 919,
     "isValidated": true,
     "title": "La construcción de la nación Iberoamericana. Siglos XIX-XX. Comparaciones y conexiones",
     "country": "Colombia",
@@ -13513,7 +13839,7 @@
     "group": "485866af"
   },
   {
-    "id": 899,
+    "id": 920,
     "isValidated": false,
     "title": "Historia De Las Universidades Latinoamericanas. Tradición Y Modernidad",
     "country": "Argentina",
@@ -13526,7 +13852,7 @@
     "group": "485866af"
   },
   {
-    "id": 900,
+    "id": 921,
     "isValidated": false,
     "title": "La Construccion De La Nacion Iberoamericana. Siglos Xix - Xx \"Comparaciones Y Conexiones\"",
     "country": "Colombia",
@@ -13539,7 +13865,7 @@
     "group": "485866af"
   },
   {
-    "id": 901,
+    "id": 922,
     "isValidated": false,
     "title": "Ciudadanías E Identidades En Los Manuales Escolares (1970-2012)",
     "country": "España",
@@ -13555,7 +13881,7 @@
     "group": "485866af"
   },
   {
-    "id": 902,
+    "id": 923,
     "isValidated": false,
     "title": "Educar en Igualdad. Talleres de Sensibilización y Prevención de la Violencia de Género. Análisis y Evaluación",
     "country": "España",
@@ -13568,7 +13894,7 @@
     "group": "485866af"
   },
   {
-    "id": 903,
+    "id": 924,
     "isValidated": false,
     "title": "Sindicalismo E Associativismo Dos Trabalhadores Em Educação No",
     "country": "Brasil",
@@ -13582,7 +13908,7 @@
     "group": "485866af"
   },
   {
-    "id": 904,
+    "id": 925,
     "isValidated": false,
     "title": "Fray Vicente de Requejada. Biografìa y mito de un agustino quijotesco",
     "country": "Colombia",
@@ -13595,7 +13921,7 @@
     "group": "485866af"
   },
   {
-    "id": 905,
+    "id": 926,
     "isValidated": false,
     "title": "A natureza autoritária do Estado no",
     "country": "Brasil",
@@ -13608,7 +13934,7 @@
     "group": "485866af"
   },
   {
-    "id": 906,
+    "id": 927,
     "isValidated": false,
     "title": "Reflexiones acerca del trabajo académico en el Contexto Iberoamericano: historia de la educación, pedagogía y educación comparada",
     "country": "Colombia",
@@ -13621,7 +13947,7 @@
     "group": "485866af"
   },
   {
-    "id": 907,
+    "id": 928,
     "isValidated": false,
     "title": "El Ingreso De Las Mujeres A La Universidad. Estudiantes Y Docentes Abren Puertas A La Educación Superior",
     "country": "España",
@@ -13634,7 +13960,7 @@
     "group": "485866af"
   },
   {
-    "id": 908,
+    "id": 929,
     "isValidated": false,
     "title": "Educação além da escola: a batalha ideológica e as práticas culturais da resistência no contexto da ditadura civil-militar",
     "country": "Brasil",
@@ -13647,7 +13973,7 @@
     "group": "485866af"
   },
   {
-    "id": 909,
+    "id": 930,
     "isValidated": false,
     "title": "Independência E Universidade Na América Latina: Tradições, Tempos E Territórios",
     "country": "Brasil",
@@ -13660,7 +13986,7 @@
     "group": "485866af"
   },
   {
-    "id": 910,
+    "id": 931,
     "isValidated": false,
     "title": "Independência E Universidade Na América Latina: Tradições, Tempos E Territórios",
     "country": "Brasil",
@@ -13673,7 +13999,7 @@
     "group": "485866af"
   },
   {
-    "id": 911,
+    "id": 932,
     "isValidated": true,
     "title": "Educadores en América Latina Y Del Caribe. De la Colonia a los Siglo XIX Al XXI",
     "country": "Colombia",
@@ -13689,7 +14015,7 @@
     "group": "485866af"
   },
   {
-    "id": 912,
+    "id": 933,
     "isValidated": false,
     "title": "Reflexões Sobre O Tempo E A História, A Memória E A Utopia Na Escola.",
     "country": "Brasil",
@@ -13702,7 +14028,7 @@
     "group": "485866af"
   },
   {
-    "id": 913,
+    "id": 934,
     "isValidated": false,
     "title": "Textos, Autores Y Bibliotecas: 190 Años De La Biblioteca Mayor De Unc",
     "country": "Argentina",
@@ -13715,7 +14041,7 @@
     "group": "485866af"
   },
   {
-    "id": 914,
+    "id": 935,
     "isValidated": false,
     "title": "Teoria Da História:  A Educação No",
     "country": "Brasil",
@@ -13728,7 +14054,7 @@
     "group": "485866af"
   },
   {
-    "id": 915,
+    "id": 936,
     "isValidated": false,
     "title": "La Construccion De La Nacion Iberoamericana. Siglos Xix A Xxi",
     "country": "Colombia",
@@ -13741,7 +14067,7 @@
     "group": "485866af"
   },
   {
-    "id": 916,
+    "id": 937,
     "isValidated": false,
     "title": "Educación Y Adultos Mayores",
     "country": "Argentina",
@@ -13754,7 +14080,7 @@
     "group": "485866af"
   },
   {
-    "id": 917,
+    "id": 938,
     "isValidated": false,
     "title": "Educación, Salud Y Drogodependencias. Enfoques, Programas Y Experiencias En Ámbitos De Exclusión",
     "country": "España",
@@ -13767,7 +14093,7 @@
     "group": "485866af"
   },
   {
-    "id": 918,
+    "id": 939,
     "isValidated": false,
     "title": "Anton Makarenko",
     "country": "Brasil",
@@ -13781,7 +14107,7 @@
     "group": "485866af"
   },
   {
-    "id": 919,
+    "id": 940,
     "isValidated": false,
     "title": "Educación Y Adultos Mayores",
     "country": "Colombia",
@@ -13794,7 +14120,7 @@
     "group": "485866af"
   },
   {
-    "id": 920,
+    "id": 941,
     "isValidated": false,
     "title": "A classe operária vai ao campus: esboço de história social, trabalho precário, resistência e ousadia na universidade",
     "country": "Brasil",
@@ -13807,7 +14133,7 @@
     "group": "485866af"
   },
   {
-    "id": 921,
+    "id": 942,
     "isValidated": false,
     "title": "Acción Socioeducativa Con Mujeres, Salud Y Drogodependencias En El Medio Penitenciario",
     "country": "España",
@@ -13820,7 +14146,7 @@
     "group": "485866af"
   },
   {
-    "id": 922,
+    "id": 943,
     "isValidated": false,
     "title": "Educação, terra e liberdade: princípios educacionais do MST em perspectiva histórica",
     "country": "Brasil",
@@ -13833,7 +14159,7 @@
     "group": "485866af"
   },
   {
-    "id": 923,
+    "id": 944,
     "isValidated": false,
     "title": "Corts I Parlaments De La Corona D¿Aragó. Unes Institucions Emblemàtiques En Una Monarquia Composta",
     "country": "España",
@@ -13847,7 +14173,7 @@
     "group": "485866af"
   },
   {
-    "id": 924,
+    "id": 945,
     "isValidated": false,
     "title": "El Retorno Del Rey. El Restablecimiento Del Régimen Colonial En Cartagena De Indias (1815-1821)",
     "country": "España",
@@ -13860,7 +14186,7 @@
     "group": "485866af"
   },
   {
-    "id": 925,
+    "id": 946,
     "isValidated": false,
     "title": "Mujeres y Universidad en",
     "country": "España",
@@ -13873,7 +14199,7 @@
     "group": "485866af"
   },
   {
-    "id": 926,
+    "id": 947,
     "isValidated": false,
     "title": "En. Encarna Nicolás Y Camen González (Edas): Ayeres En Discusión: Temas Clave De La Historia Contemporánea Hoy.",
     "country": "España",
@@ -13886,7 +14212,7 @@
     "group": "485866af"
   },
   {
-    "id": 927,
+    "id": 948,
     "isValidated": false,
     "title": "La Palabra Como Provocación. Magia, Versos Y Filosofemas",
     "country": "España",
@@ -13899,7 +14225,7 @@
     "group": "485866af"
   },
   {
-    "id": 928,
+    "id": 949,
     "isValidated": false,
     "title": "Formación del magisterio en",
     "country": "España",
@@ -13912,7 +14238,7 @@
     "group": "485866af"
   },
   {
-    "id": 929,
+    "id": 950,
     "isValidated": false,
     "title": "Estudios de Historia de la Educación andaluza: Textos y documentos (Siglos XVIII XIX y XX)",
     "country": "España",
@@ -13925,7 +14251,7 @@
     "group": "485866af"
   },
   {
-    "id": 930,
+    "id": 951,
     "isValidated": false,
     "title": "Innovación Curricular Y Pedagógica En La Escuela Normal Superior De",
     "country": "Colombia",
@@ -13938,7 +14264,7 @@
     "group": "485866af"
   },
   {
-    "id": 931,
+    "id": 952,
     "isValidated": false,
     "title": "Tomo Ii Colección Historia Y Prospectiva De La Universidad Latinoamericana",
     "country": "Colombia",
@@ -13951,7 +14277,7 @@
     "group": "485866af"
   },
   {
-    "id": 932,
+    "id": 953,
     "isValidated": false,
     "title": "BARRERAS A LA PROMOCIÓN PROFESIONAL DE LAS MUJERES EN LA UNIVERSIDAD",
     "country": "España",
@@ -13964,7 +14290,7 @@
     "group": "485866af"
   },
   {
-    "id": 933,
+    "id": 954,
     "isValidated": false,
     "title": "MUJER Y CIENCIA WOMAN AND SCIENCE",
     "country": "España",
@@ -13977,7 +14303,7 @@
     "group": "485866af"
   },
   {
-    "id": 934,
+    "id": 955,
     "isValidated": false,
     "title": "La literatura y la educación: perspectivas históricas. Educación en la literatura y literatura en la educación",
     "country": "España",
@@ -13990,7 +14316,7 @@
     "group": "485866af"
   },
   {
-    "id": 935,
+    "id": 956,
     "isValidated": false,
     "title": "Visiones de Estado de",
     "country": "México",
@@ -14003,7 +14329,7 @@
     "group": "485866af"
   },
   {
-    "id": 936,
+    "id": 957,
     "isValidated": false,
     "title": "Proyecto de Aula: Estudio Socio Economico Juridico del uso del agua en San Cayetano- Bolivar",
     "country": "Colombia",
@@ -14016,7 +14342,7 @@
     "group": "485866af"
   },
   {
-    "id": 937,
+    "id": 958,
     "isValidated": false,
     "title": "La Autonomia Univesitária En América Latina: História Y Prospectiva.",
     "country": "Colombia",
@@ -14029,7 +14355,7 @@
     "group": "485866af"
   },
   {
-    "id": 938,
+    "id": 959,
     "isValidated": false,
     "title": "Atlas histórico de la U de G",
     "country": "México",
@@ -14042,7 +14368,7 @@
     "group": "485866af"
   },
   {
-    "id": 939,
+    "id": 960,
     "isValidated": false,
     "title": "Construyendo fronteras de raza en la educación femenina (Santiago de Cuba, 1ª mitad S.XIX)",
     "country": "Colombia",
@@ -14055,7 +14381,7 @@
     "group": "485866af"
   },
   {
-    "id": 940,
+    "id": 961,
     "isValidated": false,
     "title": "Políticas Educacionais & Discursos Pedagógicos",
     "country": "Brasil",
@@ -14068,7 +14394,7 @@
     "group": "485866af"
   },
   {
-    "id": 941,
+    "id": 962,
     "isValidated": false,
     "title": "Introduccion A La Pedagogia / Educacion Social",
     "country": "España",
@@ -14081,7 +14407,7 @@
     "group": "485866af"
   },
   {
-    "id": 942,
+    "id": 963,
     "isValidated": false,
     "title": "Primer  Encuentro Nacional Y 7° Encuentro De Investigaciones. La Investigación Como Articulador Entre La Ciencia Y La Paz. 30años De Compromiso Con",
     "country": "Colombia",
@@ -14094,7 +14420,7 @@
     "group": "485866af"
   },
   {
-    "id": 943,
+    "id": 964,
     "isValidated": false,
     "title": "Furs De Vàlencia, Estudio Introductorio Y Traducción.",
     "country": "España",
@@ -14107,7 +14433,7 @@
     "group": "485866af"
   },
   {
-    "id": 944,
+    "id": 965,
     "isValidated": false,
     "title": "Educacion Social Formacion Realidades Y Retos Coleccion Educacion Socia",
     "country": "España",
@@ -14120,7 +14446,7 @@
     "group": "485866af"
   },
   {
-    "id": 945,
+    "id": 966,
     "isValidated": false,
     "title": "Fuentes, reformas y planes de estudios, siglos XVII, XVIII y XIX",
     "country": "Argentina",
@@ -14133,7 +14459,7 @@
     "group": "485866af"
   },
   {
-    "id": 946,
+    "id": 967,
     "isValidated": false,
     "title": "El Segundo Escalón. Desequilibrio De Género En Ciencia Y Tecnología",
     "country": "España",
@@ -14146,7 +14472,7 @@
     "group": "485866af"
   },
   {
-    "id": 947,
+    "id": 968,
     "isValidated": false,
     "title": "Políticas Universitarias En  Latinoamérica:  Historia Y Prospectiva",
     "country": "Brasil",
@@ -14159,7 +14485,7 @@
     "group": "485866af"
   },
   {
-    "id": 948,
+    "id": 969,
     "isValidated": false,
     "title": "Políticas Universitarias En  Latinoamérica:  Historia Y Prospectiva",
     "country": "Brasil",
@@ -14172,7 +14498,7 @@
     "group": "485866af"
   },
   {
-    "id": 949,
+    "id": 970,
     "isValidated": false,
     "title": "Historia De América",
     "country": "España",
@@ -14185,7 +14511,7 @@
     "group": "485866af"
   },
   {
-    "id": 950,
+    "id": 971,
     "isValidated": false,
     "title": "Estudios De Historia De La Educación En Andalucia",
     "country": "España",
@@ -14198,7 +14524,7 @@
     "group": "485866af"
   },
   {
-    "id": 951,
+    "id": 972,
     "isValidated": false,
     "title": "Malinalco y sus contornos a través de los tiempos",
     "country": "México",
@@ -14211,7 +14537,7 @@
     "group": "485866af"
   },
   {
-    "id": 952,
+    "id": 973,
     "isValidated": false,
     "title": "Humanismo, Alienación Y Globalización",
     "country": "Colombia",
@@ -14224,7 +14550,7 @@
     "group": "485866af"
   },
   {
-    "id": 953,
+    "id": 974,
     "isValidated": false,
     "title": "Movimiento Universitario En América Latina, Siglo Xx",
     "country": "Colombia",
@@ -14237,7 +14563,7 @@
     "group": "485866af"
   },
   {
-    "id": 954,
+    "id": 975,
     "isValidated": false,
     "title": "Programas De Educación Intergeneracional. Acciones Estratégicas.",
     "country": "España",
@@ -14250,7 +14576,7 @@
     "group": "485866af"
   },
   {
-    "id": 955,
+    "id": 976,
     "isValidated": false,
     "title": "Representaciones Sociales De Los Jovenes Sobre Las Drogas Alcohol Tabaco Y Cannabis Y Su Influencia En El Consumo",
     "country": "España",
@@ -14263,7 +14589,7 @@
     "group": "485866af"
   },
   {
-    "id": 956,
+    "id": 977,
     "isValidated": false,
     "title": "Mujeres Y Educación. Saberes, Prácticas Y Discursos En La Historia",
     "country": "España",
@@ -14276,7 +14602,7 @@
     "group": "485866af"
   },
   {
-    "id": 957,
+    "id": 978,
     "isValidated": false,
     "title": "MUJER y CIENCIA La situación de las mujeres investigadoras en el sistema español de ciencia y tecnología.",
     "country": "España",
@@ -14289,7 +14615,7 @@
     "group": "485866af"
   },
   {
-    "id": 958,
+    "id": 979,
     "isValidated": false,
     "title": "LA SITUACIÓN DE LAS MUJERES EN LAS UNIVERSIDADES PUBLICAS ANDALUZAS",
     "country": "España",
@@ -14302,7 +14628,7 @@
     "group": "485866af"
   },
   {
-    "id": 959,
+    "id": 980,
     "isValidated": false,
     "title": "Historia De La Educacion En Espana Autores Textos Y Documentos",
     "country": "España",
@@ -14316,7 +14642,7 @@
     "group": "485866af"
   },
   {
-    "id": 960,
+    "id": 981,
     "isValidated": false,
     "title": "Lectores Del Quijote, 1605-2005",
     "country": "Colombia",
@@ -14329,7 +14655,7 @@
     "group": "485866af"
   },
   {
-    "id": 961,
+    "id": 982,
     "isValidated": false,
     "title": "Autores Del Quijote 1605-2005",
     "country": "Colombia",
@@ -14342,7 +14668,7 @@
     "group": "485866af"
   },
   {
-    "id": 962,
+    "id": 983,
     "isValidated": false,
     "title": "Políticas Educativas en",
     "country": "México",
@@ -14355,7 +14681,7 @@
     "group": "485866af"
   },
   {
-    "id": 963,
+    "id": 984,
     "isValidated": false,
     "title": "Memoria Conocimiento Y Utopía, Anuario De La Sociedad Mexicana De Historia De La Educación",
     "country": "España",
@@ -14368,7 +14694,7 @@
     "group": "485866af"
   },
   {
-    "id": 964,
+    "id": 985,
     "isValidated": false,
     "title": "Mujer y Ordenamiento jurídico",
     "country": "España",
@@ -14381,7 +14707,7 @@
     "group": "485866af"
   },
   {
-    "id": 965,
+    "id": 986,
     "isValidated": true,
     "title": "Modernización, Conflicto Y Violencia En",
     "country": "Colombia",
@@ -14394,7 +14720,7 @@
     "group": "485866af"
   },
   {
-    "id": 966,
+    "id": 987,
     "isValidated": false,
     "title": "La Educación En Personas Mayores. Ensayo De Nuevos Caminos",
     "country": "España",
@@ -14407,7 +14733,7 @@
     "group": "485866af"
   },
   {
-    "id": 967,
+    "id": 988,
     "isValidated": false,
     "title": "Os Professores Não Erram: Ensaios De História E Teoria Sobre A Profissão De Mestre",
     "country": "Brasil",
@@ -14420,7 +14746,7 @@
     "group": "485866af"
   },
   {
-    "id": 968,
+    "id": 989,
     "isValidated": false,
     "title": "Historia de la Educación. Fundamentos y práctica investigadora",
     "country": "España",
@@ -14433,7 +14759,7 @@
     "group": "485866af"
   },
   {
-    "id": 969,
+    "id": 990,
     "isValidated": false,
     "title": "Estudios Sobre La Universidad Latinoamericana: De La Colonia Ao Siglo Xxi.",
     "country": "España",
@@ -14448,7 +14774,7 @@
     "group": "485866af"
   },
   {
-    "id": 970,
+    "id": 991,
     "isValidated": false,
     "title": "El Boletín De La Institución Libre De Enseñanza. Catálogo De Sus Contenidos",
     "country": "España",
@@ -14461,7 +14787,7 @@
     "group": "485866af"
   },
   {
-    "id": 971,
+    "id": 992,
     "isValidated": false,
     "title": "Las Escuelas Normales Y El Cambio Educativo En Los",
     "country": "Estados Unidos",
@@ -14474,7 +14800,7 @@
     "group": "485866af"
   },
   {
-    "id": 972,
+    "id": 993,
     "isValidated": false,
     "title": "La Reforma Del Plan De Estudios Del Fiscal Moreno Y Escandón, 1774-1779",
     "country": "Colombia",
@@ -14487,7 +14813,7 @@
     "group": "485866af"
   },
   {
-    "id": 973,
+    "id": 994,
     "isValidated": false,
     "title": "Historia De La Educacion En Espana Autores Textos Y Documentos",
     "country": "España",
@@ -14501,7 +14827,7 @@
     "group": "485866af"
   },
   {
-    "id": 974,
+    "id": 995,
     "isValidated": false,
     "title": "José Martí Y El Humanismo En América Latina",
     "country": "Colombia",
@@ -14514,7 +14840,7 @@
     "group": "485866af"
   },
   {
-    "id": 975,
+    "id": 996,
     "isValidated": false,
     "title": "José Martí y el humanismo en América Latina",
     "country": "Colombia",
@@ -14527,7 +14853,7 @@
     "group": "485866af"
   },
   {
-    "id": 976,
+    "id": 997,
     "isValidated": false,
     "title": "Proceso De Enseñanza (1653-1767)",
     "country": "Colombia",
@@ -14540,7 +14866,7 @@
     "group": "485866af"
   },
   {
-    "id": 977,
+    "id": 998,
     "isValidated": false,
     "title": "Historia De La Facultad De Filosofía Y Letras Bajo La Rectoría De Monseñor Rafael María Carrasquilla",
     "country": "Colombia",
@@ -14553,7 +14879,7 @@
     "group": "485866af"
   },
   {
-    "id": 978,
+    "id": 999,
     "isValidated": false,
     "title": "Rectores Y Rectoras Del Colegio Mayor De Nuestra Señora Del Rosario 1653 - 2003",
     "country": "Colombia",
@@ -14566,7 +14892,7 @@
     "group": "485866af"
   },
   {
-    "id": 979,
+    "id": 1000,
     "isValidated": false,
     "title": "Adiós No Es Para Siempre.",
     "country": "Colombia",
@@ -14579,7 +14905,7 @@
     "group": "485866af"
   },
   {
-    "id": 980,
+    "id": 1001,
     "isValidated": false,
     "title": "Historia De La Cátedra De Medicina En El Colegio Mayor Del Rosario Durante El Periodo Republicano, 1839-1867",
     "country": "Colombia",
@@ -14592,7 +14918,7 @@
     "group": "485866af"
   },
   {
-    "id": 981,
+    "id": 1002,
     "isValidated": false,
     "title": "Reformas Borbónicas: Mutis Catedrático, Discípulos Y Corrientes Ilustradas (1750-1816)",
     "country": "Colombia",
@@ -14605,7 +14931,7 @@
     "group": "485866af"
   },
   {
-    "id": 982,
+    "id": 1003,
     "isValidated": false,
     "title": "Hacia La Educacion Intergeneracional",
     "country": "España",
@@ -14618,7 +14944,7 @@
     "group": "485866af"
   },
   {
-    "id": 983,
+    "id": 1004,
     "isValidated": false,
     "title": "Cuadernos Para La Historia Del Colegio Mayor De Nuestra Señora Del Rosario. Historia De La Cátedra De Medicina, 1653-1865",
     "country": "Colombia",
@@ -14632,7 +14958,7 @@
     "group": "485866af"
   },
   {
-    "id": 984,
+    "id": 1005,
     "isValidated": false,
     "title": "Odontología En",
     "country": "Colombia",
@@ -14646,7 +14972,7 @@
     "group": "485866af"
   },
   {
-    "id": 985,
+    "id": 1006,
     "isValidated": false,
     "title": "MODELO AGUSTINIANO EN AMERICA",
     "country": "Colombia",
@@ -14659,7 +14985,7 @@
     "group": "485866af"
   },
   {
-    "id": 986,
+    "id": 1007,
     "isValidated": false,
     "title": "Preparados Y Otros Quereres Para Una Agricultura Mas Sostenible",
     "country": "Colombia",
@@ -14672,7 +14998,7 @@
     "group": "485866af"
   },
   {
-    "id": 987,
+    "id": 1008,
     "isValidated": false,
     "title": "Recepción Y Difusión De Textos Ilustrados. Intercambio Científico Entre Europa Y América En La Ilustración",
     "country": "España",
@@ -14688,7 +15014,7 @@
     "group": "485866af"
   },
   {
-    "id": 988,
+    "id": 1009,
     "isValidated": false,
     "title": "Estudios Sobre La Universidad Latinoamericana: De La Colonia Ao Siglo Xxi.",
     "country": "España",
@@ -14703,7 +15029,7 @@
     "group": "485866af"
   },
   {
-    "id": 989,
+    "id": 1010,
     "isValidated": true,
     "title": "Universidad Tecnológica De Pereira. 40 Años. Una Mirada A Sus Orígenes.",
     "country": "Colombia",
@@ -14718,7 +15044,7 @@
     "group": "485866af"
   },
   {
-    "id": 990,
+    "id": 1011,
     "isValidated": false,
     "title": "La Prevención En Drogas Y Los Jóvenes ¿Qué Prevención? ¿Qué Drogas? ¿Qué Jóvenes?",
     "country": "España",
@@ -14731,7 +15057,7 @@
     "group": "485866af"
   },
   {
-    "id": 991,
+    "id": 1012,
     "isValidated": false,
     "title": "Universidad Tecnológica De Pereira. 40 Años. Una Mirada A Sus Orígenes.",
     "country": "Colombia",
@@ -14746,7 +15072,7 @@
     "group": "485866af"
   },
   {
-    "id": 992,
+    "id": 1013,
     "isValidated": false,
     "title": "Indice De Documentos De La Inquisición De Cartagena De Indias",
     "country": "Colombia",
@@ -14759,7 +15085,7 @@
     "group": "485866af"
   },
   {
-    "id": 993,
+    "id": 1014,
     "isValidated": false,
     "title": "Estudios Sobre Historia De La Educación Latinoamericna D Ela Colonia A Nuestros Días",
     "country": "Colombia",
@@ -14772,7 +15098,7 @@
     "group": "485866af"
   },
   {
-    "id": 994,
+    "id": 1015,
     "isValidated": false,
     "title": "Cientificos criollos e Ilustración",
     "country": "España",
@@ -14787,7 +15113,7 @@
     "group": "485866af"
   },
   {
-    "id": 995,
+    "id": 1016,
     "isValidated": false,
     "title": "Francisco Antonio Zea. Un Criollo Ilustrado",
     "country": "España",
@@ -14800,7 +15126,7 @@
     "group": "485866af"
   },
   {
-    "id": 996,
+    "id": 1017,
     "isValidated": false,
     "title": "Actas Congreso Internacional Sobre La Universidad Iberoamericna",
     "country": "España",
@@ -14813,7 +15139,7 @@
     "group": "485866af"
   },
   {
-    "id": 997,
+    "id": 1018,
     "isValidated": false,
     "title": "Nobles, Blancos Y Mestizos En La Villa De Nuestra Señora De La Candelaria De Medellín. Probanzas De Nobleza, Familia Y M",
     "country": "Colombia",
@@ -14826,7 +15152,7 @@
     "group": "485866af"
   },
   {
-    "id": 998,
+    "id": 1019,
     "isValidated": false,
     "title": "Vida Cotidiana En Manizales",
     "country": "Colombia",
@@ -14839,7 +15165,7 @@
     "group": "485866af"
   },
   {
-    "id": 999,
+    "id": 1020,
     "isValidated": false,
     "title": "Despojados De Todo Fetiche",
     "country": "Colombia",
@@ -14859,7 +15185,7 @@
     "group": "485866af"
   },
   {
-    "id": 1000,
+    "id": 1021,
     "isValidated": false,
     "title": "Despojados de todo fetiche",
     "country": "Colombia",
@@ -14880,7 +15206,7 @@
     "group": "485866af"
   },
   {
-    "id": 1001,
+    "id": 1022,
     "isValidated": false,
     "title": "Historia De La Universidad",
     "country": "Colombia",
@@ -14893,7 +15219,7 @@
     "group": "485866af"
   },
   {
-    "id": 1002,
+    "id": 1023,
     "isValidated": false,
     "title": "Antología De Ejemplos Para El Análisis Armónico De La Música Tonal Y Modal Del Siglo Xx",
     "country": "Colombia",
@@ -14906,7 +15232,7 @@
     "group": "485866af"
   },
   {
-    "id": 1003,
+    "id": 1024,
     "isValidated": false,
     "title": "Historia De La Universidad",
     "country": "Colombia",
@@ -14919,7 +15245,7 @@
     "group": "485866af"
   },
   {
-    "id": 1004,
+    "id": 1025,
     "isValidated": false,
     "title": "Facotres Que Predicen El Rendimiento Académico Universitario",
     "country": "Colombia",
@@ -14933,7 +15259,7 @@
     "group": "485866af"
   },
   {
-    "id": 1005,
+    "id": 1026,
     "isValidated": false,
     "title": "Historia De La Universidad",
     "country": "",
@@ -14949,7 +15275,7 @@
     "group": "485866af"
   },
   {
-    "id": 1006,
+    "id": 1027,
     "isValidated": false,
     "title": "América Latina marxismo y posmodernidad",
     "country": "Colombia",
@@ -14962,7 +15288,7 @@
     "group": "485866af"
   },
   {
-    "id": 1007,
+    "id": 1028,
     "isValidated": false,
     "title": "La Ilustración en las universidades y Colegios Mayores de SantaFe, Quito y Caracas. Bibliografía Crítica y fuentes",
     "country": "Colombia",
@@ -14975,7 +15301,7 @@
     "group": "485866af"
   },
   {
-    "id": 1008,
+    "id": 1029,
     "isValidated": false,
     "title": "Polémicas Universitarias En Santa Fe De Bogotá",
     "country": "Colombia",
@@ -14988,7 +15314,7 @@
     "group": "485866af"
   },
   {
-    "id": 1009,
+    "id": 1030,
     "isValidated": false,
     "title": "Metodología De La Investigación Histórico-Educativa",
     "country": "España",
@@ -15002,7 +15328,7 @@
     "group": "485866af"
   },
   {
-    "id": 1010,
+    "id": 1031,
     "isValidated": false,
     "title": "Boletin De Historia De La Educación Latinoamericana",
     "country": "Colombia",
@@ -15015,7 +15341,7 @@
     "group": "485866af"
   },
   {
-    "id": 1011,
+    "id": 1032,
     "isValidated": false,
     "title": "Marxismo y antimarxismo en América Latina",
     "country": "Colombia",
@@ -15028,7 +15354,7 @@
     "group": "485866af"
   },
   {
-    "id": 1012,
+    "id": 1033,
     "isValidated": false,
     "title": "Aplicaciones de investigación de operaciones en sistemas de salud en",
     "country": "Colombia",
@@ -15043,7 +15369,7 @@
     "group": "3fc3eabf"
   },
   {
-    "id": 1013,
+    "id": 1034,
     "isValidated": false,
     "title": "Elementos De Teoría De Probabailidad Para Ingenieros",
     "country": "Colombia",
@@ -15056,7 +15382,7 @@
     "group": "3fc3eabf"
   },
   {
-    "id": 1014,
+    "id": 1035,
     "isValidated": false,
     "title": "Gestión del Conocimiento. Perspectiva Multidisciplinaria.",
     "country": "Colombia",
@@ -15072,7 +15398,7 @@
     "group": "7bd72bc5"
   },
   {
-    "id": 1015,
+    "id": 1036,
     "isValidated": false,
     "title": "LÚDICAS DE ENSEÑANZA EN PRODUCCIÓN Y OPERACIONES",
     "country": "Colombia",
@@ -15088,7 +15414,7 @@
     "group": "7bd72bc5"
   },
   {
-    "id": 1016,
+    "id": 1037,
     "isValidated": false,
     "title": "Investigación En La Gestión Empresarial",
     "country": "Colombia",
@@ -15102,7 +15428,7 @@
     "group": "7bd72bc5"
   },
   {
-    "id": 1017,
+    "id": 1038,
     "isValidated": false,
     "title": "Fundamentos de Agroindustria.",
     "country": "Colombia",
@@ -15116,7 +15442,7 @@
     "group": "7bd72bc5"
   },
   {
-    "id": 1018,
+    "id": 1039,
     "isValidated": false,
     "title": "Ética Digital: Los retos morales de la era tecnológica",
     "country": "Colombia",
@@ -15132,7 +15458,7 @@
     "group": "966dbca2"
   },
   {
-    "id": 1019,
+    "id": 1040,
     "isValidated": false,
     "title": "Siderite Formation by Mechanochemical and High Pressure–High Temperature Processes for CO2 Capture Using Iron Ore as the Initial Sorbent",
     "country": "Colombia",
@@ -15145,7 +15471,7 @@
     "group": "cd8602f1"
   },
   {
-    "id": 1020,
+    "id": 1041,
     "isValidated": false,
     "title": "Óxidos y mineral de hierro para aplicaciones de captura de dióxido de carbono (co2)",
     "country": "Colombia",
@@ -15158,7 +15484,7 @@
     "group": "cd8602f1"
   },
   {
-    "id": 1021,
+    "id": 1042,
     "isValidated": false,
     "title": "Introducción a la Física Experimental",
     "country": "Colombia",
@@ -15171,7 +15497,7 @@
     "group": "cd8602f1"
   },
   {
-    "id": 1022,
+    "id": 1043,
     "isValidated": false,
     "title": "Estudio de Tratamiento del Gas CO2 mediante la técnica de Plasma DBD",
     "country": "España",
@@ -15185,7 +15511,7 @@
     "group": "cd8602f1"
   },
   {
-    "id": 1023,
+    "id": 1044,
     "isValidated": false,
     "title": "Estudio del tratamiento del gas CO2 mediante la técnica de plasma DBD.",
     "country": "España",
@@ -15199,7 +15525,7 @@
     "group": "cd8602f1"
   },
   {
-    "id": 1024,
+    "id": 1045,
     "isValidated": true,
     "title": "Conformacion De Peliculas Delgadas Tipo Sol Gel Para Aplicaciones Anticorrosivas",
     "country": "Colombia",
@@ -15214,7 +15540,7 @@
     "group": "cd8602f1"
   },
   {
-    "id": 1025,
+    "id": 1046,
     "isValidated": false,
     "title": "Conformacion De Peliculas Delgadas Tipo Sol Gel Para Aplicaciones Anticorrosivas",
     "country": "Colombia",
@@ -15227,7 +15553,7 @@
     "group": "cd8602f1"
   },
   {
-    "id": 1026,
+    "id": 1047,
     "isValidated": false,
     "title": "Conformacion De Peliculas Delgadas Tipo Sol Gel Para Aplicaciones Anticorrosivas",
     "country": "Colombia",
@@ -15243,7 +15569,7 @@
     "group": "cd8602f1"
   },
   {
-    "id": 1027,
+    "id": 1048,
     "isValidated": false,
     "title": "Conformacion De Peliculas Delgadas Tipo Sol Gel Para Aplicaciones Anticorrosivas",
     "country": "Colombia",
@@ -15259,7 +15585,7 @@
     "group": "cd8602f1"
   },
   {
-    "id": 1028,
+    "id": 1049,
     "isValidated": false,
     "title": "Aplicación de ontologías y web semantica",
     "country": "España",
@@ -15272,7 +15598,7 @@
     "group": "4b6a88eb"
   },
   {
-    "id": 1029,
+    "id": 1050,
     "isValidated": false,
     "title": "Interacciones ancestrales y pedagógicas en la complejidad del cuidado",
     "country": "Colombia",
@@ -15285,7 +15611,7 @@
     "group": "2e3287ce"
   },
   {
-    "id": 1030,
+    "id": 1051,
     "isValidated": false,
     "title": "Emprendimiento desde un enfoque STEAM: Cojines del Zaque",
     "country": "Colombia",
@@ -15300,7 +15626,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1031,
+    "id": 1052,
     "isValidated": false,
     "title": "Patrones de interacción comunicativa en el aula de matemáticas",
     "country": "Colombia",
@@ -15313,7 +15639,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1032,
+    "id": 1053,
     "isValidated": false,
     "title": "HACIA LA TRANSFORMACIÓN DE LA CLASE DE MATEMÁTICAS: ALGUNAS PERSPECTIVAS",
     "country": "Colombia",
@@ -15329,7 +15655,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1033,
+    "id": 1054,
     "isValidated": false,
     "title": "Reflexiones en torno a la enseñanza de las Ciencias Económicas",
     "country": "Colombia",
@@ -15353,7 +15679,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1034,
+    "id": 1055,
     "isValidated": false,
     "title": "Hacia la transformación de la clase de matemáticas. Algunas perspectivas",
     "country": "Colombia",
@@ -15372,7 +15698,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1035,
+    "id": 1056,
     "isValidated": false,
     "title": "Reflexiones en torno a la enseñanza de las ciencias económicas",
     "country": "Colombia",
@@ -15396,7 +15722,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1036,
+    "id": 1057,
     "isValidated": true,
     "title": "Experimentos didácticos introductorios al Electromagnetismo",
     "country": "Colombia",
@@ -15410,7 +15736,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1037,
+    "id": 1058,
     "isValidated": false,
     "title": "FUNDAMENTOS DIDÁCTICOS BÁSICOS DE FÍSICA EXPERIMENTAL",
     "country": "Colombia",
@@ -15423,7 +15749,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1038,
+    "id": 1059,
     "isValidated": false,
     "title": "Cultura, Formacao E Desenvolvimento Profissional De Professores Que Ensinam Matemática",
     "country": "Brasil",
@@ -15436,7 +15762,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1039,
+    "id": 1060,
     "isValidated": false,
     "title": "Formación De Profesores De Matemática",
     "country": "Colombia",
@@ -15449,7 +15775,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1040,
+    "id": 1061,
     "isValidated": false,
     "title": "Cultura, Formacao E Desenvolvimento Profissional De Professores Que Ensinam Matemática",
     "country": "Brasil",
@@ -15463,7 +15789,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1041,
+    "id": 1062,
     "isValidated": false,
     "title": "Memorias Del 6° Encuentro",
     "country": "Colombia",
@@ -15478,7 +15804,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1042,
+    "id": 1063,
     "isValidated": false,
     "title": "Nuevos Horizontes Pedagógicos",
     "country": "Colombia",
@@ -15493,7 +15819,7 @@
     "group": "fb329402"
   },
   {
-    "id": 1043,
+    "id": 1064,
     "isValidated": false,
     "title": "Lectura y escritura en la escuela. Conversaciones, experiencias y sentidos",
     "country": "Colombia",
@@ -15514,7 +15840,7 @@
     "group": "ea9ef0ca"
   },
   {
-    "id": 1044,
+    "id": 1065,
     "isValidated": false,
     "title": "INFANCIA Y RURALIDAD. FAMILIAS, CRIANZA, Y MEDIOS DE VIDA",
     "country": "Colombia",
@@ -15527,7 +15853,7 @@
     "group": "ea9ef0ca"
   },
   {
-    "id": 1045,
+    "id": 1066,
     "isValidated": false,
     "title": "Aforismos y preguntas en tiempos de cuarentena",
     "country": "Colombia",
@@ -15542,7 +15868,7 @@
     "group": "ea9ef0ca"
   },
   {
-    "id": 1046,
+    "id": 1067,
     "isValidated": false,
     "title": "Pensar con Sloterdijk. Antropotécnica, ejercicio y educación",
     "country": "Colombia",
@@ -15565,7 +15891,7 @@
     "group": "ea9ef0ca"
   },
   {
-    "id": 1047,
+    "id": 1068,
     "isValidated": false,
     "title": "Aforismos y preguntas en tiempos de cuarentena",
     "country": "Colombia",
@@ -15578,7 +15904,7 @@
     "group": "ea9ef0ca"
   },
   {
-    "id": 1048,
+    "id": 1069,
     "isValidated": false,
     "title": "Infancia y guerra. Imagenes, tiempos, movimientos",
     "country": "Colombia",
@@ -15603,7 +15929,7 @@
     "group": "ea9ef0ca"
   },
   {
-    "id": 1049,
+    "id": 1070,
     "isValidated": true,
     "title": "Pensamiento complejo, infancia y educación",
     "country": "Colombia",
@@ -15623,7 +15949,7 @@
     "group": "ea9ef0ca"
   },
   {
-    "id": 1050,
+    "id": 1071,
     "isValidated": true,
     "title": "Pregúntele al filósofo. Inquietudes de la infancia",
     "country": "Brasil",
@@ -15637,7 +15963,7 @@
     "group": "ea9ef0ca"
   },
   {
-    "id": 1051,
+    "id": 1072,
     "isValidated": true,
     "title": "Pensando la filosofía: Voces de la infancia.",
     "country": "Brasil",
@@ -15651,7 +15977,7 @@
     "group": "ea9ef0ca"
   },
   {
-    "id": 1052,
+    "id": 1073,
     "isValidated": true,
     "title": "Filosofando con el Universo: Voces de la Infancia",
     "country": "Brasil",
@@ -15665,7 +15991,7 @@
     "group": "ea9ef0ca"
   },
   {
-    "id": 1053,
+    "id": 1074,
     "isValidated": false,
     "title": "Enseñanza de las ciencias, interculturalidad y contexto rural: una mirada latinoamericana",
     "country": "Colombia",
@@ -15680,7 +16006,7 @@
     "group": "b1140a28"
   },
   {
-    "id": 1054,
+    "id": 1075,
     "isValidated": false,
     "title": "Dialogo sobre la ambientalización curricular: Una experiencia universitaria.",
     "country": "Colombia",
@@ -15693,7 +16019,7 @@
     "group": "b1140a28"
   },
   {
-    "id": 1055,
+    "id": 1076,
     "isValidated": false,
     "title": "Educación en Ciencias Naturales: orientaciones para contextualizar su enseñanza",
     "country": "Colombia",
@@ -15707,7 +16033,7 @@
     "group": "b1140a28"
   },
   {
-    "id": 1056,
+    "id": 1077,
     "isValidated": false,
     "title": "Perspectivas contemporáneas de educación en ciencias naturales: nuevas formas de pensar su enseñanza",
     "country": "Colombia",
@@ -15721,7 +16047,7 @@
     "group": "b1140a28"
   },
   {
-    "id": 1057,
+    "id": 1078,
     "isValidated": false,
     "title": "?Perspectivas contemporáneas de educación en ciencias naturales: nuevas formas de pensar su enseñanza",
     "country": "Colombia",
@@ -15735,7 +16061,7 @@
     "group": "b1140a28"
   },
   {
-    "id": 1058,
+    "id": 1079,
     "isValidated": true,
     "title": "Sucesión y restauración ecológica en claros experimentales de plantaciones de Cupressus lusitanica (Mill)",
     "country": "Colombia",
@@ -15750,7 +16076,7 @@
     "group": "b1140a28"
   },
   {
-    "id": 1059,
+    "id": 1080,
     "isValidated": false,
     "title": "Sucesión y restauración ecológica en claros experimentales de plantaciones de Cupressus lusitanica (Mill)",
     "country": "Colombia",
@@ -15765,7 +16091,7 @@
     "group": "b1140a28"
   },
   {
-    "id": 1060,
+    "id": 1081,
     "isValidated": false,
     "title": "CRISIS PLANETARIA El movimiento de la ecopedagogía",
     "country": "Colombia",
@@ -15778,7 +16104,7 @@
     "group": "b1140a28"
   },
   {
-    "id": 1061,
+    "id": 1082,
     "isValidated": false,
     "title": "Biotecnología enfocada al sector agropecuario y minero con guías de laboratorio",
     "country": "Colombia",
@@ -15794,7 +16120,7 @@
     "group": "c9a3b1ac"
   },
   {
-    "id": 1062,
+    "id": 1083,
     "isValidated": true,
     "title": "Síntesis de productos químicos derivados de la biomasa empleando catálisis heterogénea",
     "country": "Colombia",
@@ -15815,7 +16141,7 @@
     "group": "c9a3b1ac"
   },
   {
-    "id": 1063,
+    "id": 1084,
     "isValidated": true,
     "title": "Catálisis y Reacciones de Hidrogenación en Fase Heterogénea",
     "country": "Colombia",
@@ -15830,7 +16156,7 @@
     "group": "c9a3b1ac"
   },
   {
-    "id": 1064,
+    "id": 1085,
     "isValidated": true,
     "title": "Catálisis y Reacciones de Hidrogenación en Fase Heterogénea",
     "country": "Colombia",
@@ -15845,7 +16171,7 @@
     "group": "c9a3b1ac"
   },
   {
-    "id": 1065,
+    "id": 1086,
     "isValidated": false,
     "title": "Gestión Educativa, Perspectivas, Actores y Contextos",
     "country": "Colombia",
@@ -15860,7 +16186,7 @@
     "group": "88ca62f2"
   },
   {
-    "id": 1066,
+    "id": 1087,
     "isValidated": false,
     "title": "Violencia en el noviazgo: Evaluación, prevención e intervención de los malos tratos en parejas jóvenes",
     "country": "Colombia",
@@ -15874,7 +16200,7 @@
     "group": "88ca62f2"
   },
   {
-    "id": 1067,
+    "id": 1088,
     "isValidated": false,
     "title": "Violencia en el noviazgo: Evaluación, prevención e intervención de los malos tratos en parejas jóvenes",
     "country": "Colombia",
@@ -15888,7 +16214,7 @@
     "group": "88ca62f2"
   },
   {
-    "id": 1068,
+    "id": 1089,
     "isValidated": false,
     "title": "INVESTIGACIÓN CUALITATIVA: Métodos comprensivos y participativos de investigación",
     "country": "Colombia",
@@ -15901,7 +16227,7 @@
     "group": "88ca62f2"
   },
   {
-    "id": 1069,
+    "id": 1090,
     "isValidated": false,
     "title": "Entre la guerra y la paz. El general Julián Trujillo Largacha",
     "country": "Colombia",
@@ -15914,7 +16240,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1070,
+    "id": 1091,
     "isValidated": false,
     "title": "Territorios en conflicto. Un diálogo en el tiempo",
     "country": "Colombia",
@@ -15932,7 +16258,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1071,
+    "id": 1092,
     "isValidated": false,
     "title": "LA CONMEMORACIÓN DEL CENTENARIO DE LA INDEPENDENCIA EN",
     "country": "COLOMBIA",
@@ -15945,7 +16271,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1072,
+    "id": 1093,
     "isValidated": false,
     "title": "Historia de un proceso de innovación tecnológica en la agroindustria azucarera: Manuelita. 1901 - 1970",
     "country": "Colombia",
@@ -15959,7 +16285,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1073,
+    "id": 1094,
     "isValidated": false,
     "title": "El Queso de Paipa. Relatos, saberes y tradiciones",
     "country": "Colombia",
@@ -15977,7 +16303,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1074,
+    "id": 1095,
     "isValidated": false,
     "title": "Aprendamos del queso en Paipa",
     "country": "Colombia",
@@ -15995,7 +16321,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1075,
+    "id": 1096,
     "isValidated": false,
     "title": "Voces de la enseñanza de la historia. Miradas cruzadas en torno a la didáctica de la historia",
     "country": "Colombia",
@@ -16009,7 +16335,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1076,
+    "id": 1097,
     "isValidated": false,
     "title": "La voz del poder II. El discurso presidencial en",
     "country": "Colombia",
@@ -16024,7 +16350,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1077,
+    "id": 1098,
     "isValidated": false,
     "title": "El Queso de Paipa. Relatos, Saberes y Tradiciones",
     "country": "Colombia",
@@ -16043,7 +16369,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1078,
+    "id": 1099,
     "isValidated": false,
     "title": "El Queso de Paipa. Relatos, Saberes y Tradiciones",
     "country": "Colombia",
@@ -16062,7 +16388,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1079,
+    "id": 1100,
     "isValidated": false,
     "title": "Mercado, consumo y prácticas ganaderas en el altiplano Cundiboyacense. Los casos de Paipa y Tunja",
     "country": "Colombia",
@@ -16080,7 +16406,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1080,
+    "id": 1101,
     "isValidated": false,
     "title": "Los caminos antiguos del altiplano cundiboyacense",
     "country": "Colombia",
@@ -16093,7 +16419,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1081,
+    "id": 1102,
     "isValidated": false,
     "title": "La voz del poder I. El discurso presidencial en",
     "country": "Colombia",
@@ -16108,7 +16434,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1082,
+    "id": 1103,
     "isValidated": false,
     "title": "Mercado y Región",
     "country": "Colombia",
@@ -16121,7 +16447,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1083,
+    "id": 1104,
     "isValidated": false,
     "title": "Mercado y Región",
     "country": "Colombia",
@@ -16139,7 +16465,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1084,
+    "id": 1105,
     "isValidated": true,
     "title": "Producción de sal e interacción social en la provincia de Tunja",
     "country": "Colombia",
@@ -16152,7 +16478,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1085,
+    "id": 1106,
     "isValidated": false,
     "title": "Relatos de la Independencia",
     "country": "Colombia",
@@ -16167,7 +16493,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1086,
+    "id": 1107,
     "isValidated": false,
     "title": "La historia vuelve a la escuela. Reflexiones sobre la enseñanza de la Historia en",
     "country": "Colombia",
@@ -16181,7 +16507,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1087,
+    "id": 1108,
     "isValidated": false,
     "title": "Memoria de Familias en Tiempos de Guerra",
     "country": "Colombia",
@@ -16194,7 +16520,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1088,
+    "id": 1109,
     "isValidated": false,
     "title": "El Tiempo del Bicentenario",
     "country": "Colombia",
@@ -16212,7 +16538,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1089,
+    "id": 1110,
     "isValidated": false,
     "title": "Santa Rosa. Una iglesia y su feligresía en la historia de Cali",
     "country": "Colombia",
@@ -16225,7 +16551,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1090,
+    "id": 1111,
     "isValidated": true,
     "title": "Palmira. Historia, desarrollo económio e identidad Cultural",
     "country": "Colombia",
@@ -16238,7 +16564,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1091,
+    "id": 1112,
     "isValidated": true,
     "title": "Ciudadanía Política en Construcción.",
     "country": "Colombia",
@@ -16251,7 +16577,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1092,
+    "id": 1113,
     "isValidated": false,
     "title": "Ulpiano Lloreda y los inicios de la industrialización vallecaucana",
     "country": "Colombia",
@@ -16265,7 +16591,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1093,
+    "id": 1114,
     "isValidated": true,
     "title": "Dentro de la ley. Fuera de la ley. Insurgencia social en el Valle del Cauca. 1810-1854",
     "country": "Colombia",
@@ -16278,7 +16604,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1094,
+    "id": 1115,
     "isValidated": true,
     "title": "Historia de la Iglesia Católica en el Valle del Cauca, 1927 - 1985",
     "country": "Colombia",
@@ -16292,7 +16618,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1095,
+    "id": 1116,
     "isValidated": true,
     "title": "Corruptos violentos y excluidos formas de construcción de la ciudadanía en Boyacá 1946-1953",
     "country": "Colombia",
@@ -16305,7 +16631,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1096,
+    "id": 1117,
     "isValidated": false,
     "title": "Valle Del Cauca: Un Estudio En Torno A Su Sociedad Y Medio Ambiente",
     "country": "Colombia",
@@ -16318,7 +16644,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1097,
+    "id": 1118,
     "isValidated": false,
     "title": "Valle Del Cauca: Un Estudio En Torno A Su Sociedad Y Medio Ambiente",
     "country": "Colombia",
@@ -16331,7 +16657,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1098,
+    "id": 1119,
     "isValidated": true,
     "title": "Las Reformas Liberales En El Cauca",
     "country": "Colombia",
@@ -16344,7 +16670,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1099,
+    "id": 1120,
     "isValidated": false,
     "title": "Vidas Universitarias: Homenaje A Los Profesores Rubén Vargas, Rebeca Puche, Rodrigo Romero",
     "country": "Colombia",
@@ -16357,7 +16683,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1100,
+    "id": 1121,
     "isValidated": false,
     "title": "Vidas Universitarias: Homenaje A Los Profesores Rubén Vargas, Rebeca Puche, Rodrigo Romero",
     "country": "Colombia",
@@ -16370,7 +16696,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1101,
+    "id": 1122,
     "isValidated": true,
     "title": "Construcción de Ciudadanía en Boyacá Durante la República Liberal 1930-1946",
     "country": "Colombia",
@@ -16383,7 +16709,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1102,
+    "id": 1123,
     "isValidated": true,
     "title": "Historia Ambiental Del Valle Del Cauca",
     "country": "Colombia",
@@ -16396,7 +16722,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1103,
+    "id": 1124,
     "isValidated": false,
     "title": "Aproximación histórica a la Diócesis de Cali",
     "country": "Colombia",
@@ -16410,7 +16736,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1104,
+    "id": 1125,
     "isValidated": true,
     "title": "La Irrupción Del Capitalismo Agrario En El Valle Del Cauca. Políticas Estatales, Trabajo Y Tecnología 1990-1950",
     "country": "Colombia",
@@ -16424,7 +16750,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1105,
+    "id": 1126,
     "isValidated": true,
     "title": "Construir La Nación, Buscar La Región. Paisaje, Relaciones Sociales E Historia En La Literatura Del Valle Del Cauca, 1880-1940",
     "country": "Colombia",
@@ -16438,7 +16764,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1106,
+    "id": 1127,
     "isValidated": true,
     "title": "Elecciones y poder político en Boyacá",
     "country": "Colombia",
@@ -16451,7 +16777,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1107,
+    "id": 1128,
     "isValidated": true,
     "title": "La Confrontación Regional En El Proceso De Independencia Del Suroccidente",
     "country": "Colombia",
@@ -16464,7 +16790,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1108,
+    "id": 1129,
     "isValidated": true,
     "title": "Franciscanismo: Un Imaginario Tras La Utopía En La Nueva Granada En El Siglo Xvi",
     "country": "Colombia",
@@ -16478,7 +16804,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1109,
+    "id": 1130,
     "isValidated": false,
     "title": "La Política Todo Un Cuento.  Manual De Política.",
     "country": "Colombia",
@@ -16491,7 +16817,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1110,
+    "id": 1131,
     "isValidated": false,
     "title": "Hacia El Reconocimiento De Una Identidad Indigena Urbana En Cali",
     "country": "Colombia",
@@ -16505,7 +16831,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1111,
+    "id": 1132,
     "isValidated": false,
     "title": "La Diplomacia Del Café. Estrategias Político-Económicas De",
     "country": "Brasil",
@@ -16518,7 +16844,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1112,
+    "id": 1133,
     "isValidated": false,
     "title": "Los Caminos Del Café. La Construcción De La Economía Cafetera En",
     "country": "Brasil",
@@ -16531,7 +16857,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1113,
+    "id": 1134,
     "isValidated": true,
     "title": "Producciòn Y Distribuciòn De Sal. Pueblo De La Sal Y Chita S. Xvi Y Xvii",
     "country": "Colombia",
@@ -16544,7 +16870,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1114,
+    "id": 1135,
     "isValidated": true,
     "title": "Ciudadanía Y Prácticas Electorales",
     "country": "Colombia",
@@ -16557,7 +16883,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1115,
+    "id": 1136,
     "isValidated": false,
     "title": "Emcali En La Historia De Cali",
     "country": "Colombia",
@@ -16570,7 +16896,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1116,
+    "id": 1137,
     "isValidated": false,
     "title": "Colección Autores Vallecaucanos",
     "country": "Colombia",
@@ -16583,7 +16909,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1117,
+    "id": 1138,
     "isValidated": false,
     "title": "Testimonio de una Historia inacabada",
     "country": "Colombia",
@@ -16596,7 +16922,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1118,
+    "id": 1139,
     "isValidated": true,
     "title": "Teología De La Liberación En",
     "country": "Colombia",
@@ -16609,7 +16935,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1119,
+    "id": 1140,
     "isValidated": false,
     "title": "Gramatica Ritual. Territorio, Poblamiento E Identidad Afropacifico.",
     "country": "Colombia",
@@ -16622,7 +16948,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1120,
+    "id": 1141,
     "isValidated": false,
     "title": "Introduccion A La Antropologia",
     "country": "Colombia",
@@ -16635,7 +16961,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1121,
+    "id": 1142,
     "isValidated": false,
     "title": "Poder Regional y Discurso étnico",
     "country": "Colombia",
@@ -16648,7 +16974,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1122,
+    "id": 1143,
     "isValidated": false,
     "title": "Por El Monte Y Las Esferas - Relación De Género Y Familia En El Territorio Afropacífico",
     "country": "Colombia",
@@ -16661,7 +16987,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1123,
+    "id": 1144,
     "isValidated": false,
     "title": "Mujeres Caucanas Y Sociedad Republicana",
     "country": "Colombia",
@@ -16674,7 +17000,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1124,
+    "id": 1145,
     "isValidated": false,
     "title": "En Camino A La Villa Del Samán. Monografía Histórica Del Municipio De Alcalá",
     "country": "Colombia",
@@ -16687,7 +17013,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1125,
+    "id": 1146,
     "isValidated": false,
     "title": "Hospital San Juan de Dios. Remedio y jubilo eterno para Santiago de Cali.",
     "country": "Colombia",
@@ -16700,7 +17026,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1126,
+    "id": 1147,
     "isValidated": false,
     "title": "Colección Autores Vallecaucanos",
     "country": "Colombia",
@@ -16713,7 +17039,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1127,
+    "id": 1148,
     "isValidated": false,
     "title": "Colección Autores Vallecaucanos",
     "country": "Colombia",
@@ -16726,7 +17052,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1128,
+    "id": 1149,
     "isValidated": false,
     "title": "Empresarios y políticos en el Estado Soberano del Cauca",
     "country": "Colombia",
@@ -16739,7 +17065,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1129,
+    "id": 1150,
     "isValidated": false,
     "title": "Resistencia Indigena A La Colonizacion Espanola. Resistencia Militar Indigena En La Gobernacion De Popayan",
     "country": "Colombia",
@@ -16752,7 +17078,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1130,
+    "id": 1151,
     "isValidated": false,
     "title": "Estado Soberano del Cauca. Federalismo y Regeneracion",
     "country": "Colombia",
@@ -16765,7 +17091,7 @@
     "group": "28185b0b"
   },
   {
-    "id": 1131,
+    "id": 1152,
     "isValidated": false,
     "title": "Sistema Territorial en la Materialidad de la Desaparición Forzada. Departamento de Antioquia-Colombia, 1993-2016",
     "country": "Colombia",
@@ -16778,7 +17104,7 @@
     "group": "826cd3bd"
   },
   {
-    "id": 1132,
+    "id": 1153,
     "isValidated": false,
     "title": "La resiliencia comunitaria de los agentes turísticos en tiempos de pandemia COVID - 19 Un análisis del territorio",
     "country": "Colombia",
@@ -16791,7 +17117,7 @@
     "group": "826cd3bd"
   },
   {
-    "id": 1133,
+    "id": 1154,
     "isValidated": false,
     "title": "La Innovación Territorial como perspectiva dinámica de la Vida Territorial Sostenible",
     "country": "Colombia",
@@ -16804,7 +17130,7 @@
     "group": "826cd3bd"
   },
   {
-    "id": 1134,
+    "id": 1155,
     "isValidated": false,
     "title": "Minería y salud ambiental : un análisis desde la producción de carbón, ferroníquel y oro en",
     "country": "Colombia",
@@ -16820,7 +17146,7 @@
     "group": "826cd3bd"
   },
   {
-    "id": 1135,
+    "id": 1156,
     "isValidated": false,
     "title": "Paisaje agropecuario: incorporación en la planificación territorial",
     "country": "Colombia",
@@ -16833,7 +17159,7 @@
     "group": "826cd3bd"
   },
   {
-    "id": 1136,
+    "id": 1157,
     "isValidated": false,
     "title": "Mapeando",
     "country": "Colombia",
@@ -16855,7 +17181,7 @@
     "group": "826cd3bd"
   },
   {
-    "id": 1137,
+    "id": 1158,
     "isValidated": true,
     "title": "Gestión Territorial Y Desarrollo. Hacia Una Política De Desarrollo Territorial En América Latina",
     "country": "Colombia",
@@ -16868,7 +17194,7 @@
     "group": "826cd3bd"
   },
   {
-    "id": 1138,
+    "id": 1159,
     "isValidated": true,
     "title": "Una Aproximación A La Geografía Histórica De Barranquilla En El Siglo Xx",
     "country": "Colombia",
@@ -16881,7 +17207,7 @@
     "group": "826cd3bd"
   },
   {
-    "id": 1139,
+    "id": 1160,
     "isValidated": false,
     "title": "Adulto Mayor víctimas de maltrato familiar",
     "country": "España",
@@ -16894,7 +17220,7 @@
     "group": "b26a1a52"
   },
   {
-    "id": 1140,
+    "id": 1161,
     "isValidated": true,
     "title": "La Estetica En La Musica Erudita",
     "country": "Colombia",
@@ -16907,7 +17233,7 @@
     "group": "4146c092"
   },
   {
-    "id": 1141,
+    "id": 1162,
     "isValidated": false,
     "title": "Educación y TIC: conceptos, herramientas y sujetos",
     "country": "Colombia",
@@ -16920,7 +17246,7 @@
     "group": "813d8e81"
   },
   {
-    "id": 1142,
+    "id": 1163,
     "isValidated": false,
     "title": "Plataformas educativas en la formación inicial de los licenciados",
     "country": "Colombia",
@@ -16934,7 +17260,7 @@
     "group": "813d8e81"
   },
   {
-    "id": 1143,
+    "id": 1164,
     "isValidated": false,
     "title": "PLATAFORMAS EDUCATIVAS EN LA FORMACIÓN INICIAL DE LOS LICENCIADOS. HERRAMIENTAS INNOVADORAS PARA LA ENSEÑANZA",
     "country": "España",
@@ -16948,7 +17274,7 @@
     "group": "813d8e81"
   },
   {
-    "id": 1144,
+    "id": 1165,
     "isValidated": false,
     "title": "Model of management of teacher accompaniment in online and distance education programs",
     "country": "Colombia",
@@ -16966,7 +17292,7 @@
     "group": "b2215492"
   },
   {
-    "id": 1145,
+    "id": 1166,
     "isValidated": false,
     "title": "Model of management of teacher accompaniment in online and distance education programs",
     "country": "Colombia",
@@ -16984,7 +17310,7 @@
     "group": "b2215492"
   },
   {
-    "id": 1146,
+    "id": 1167,
     "isValidated": false,
     "title": "Model of management of teacher accompaniment in online and distance education programs",
     "country": "Colombia",
@@ -17002,7 +17328,7 @@
     "group": "b2215492"
   },
   {
-    "id": 1147,
+    "id": 1168,
     "isValidated": false,
     "title": "La tiflotecnología, una herramienta para la construcción de identidad en el contexto sociocultural de personas con discapacidad visual",
     "country": "Colombia",
@@ -17018,7 +17344,7 @@
     "group": "b2215492"
   },
   {
-    "id": 1148,
+    "id": 1169,
     "isValidated": false,
     "title": "Estrategias pedagógicas innovadoras con TIC",
     "country": "Colombia",
@@ -17038,7 +17364,7 @@
     "group": "b2215492"
   },
   {
-    "id": 1149,
+    "id": 1170,
     "isValidated": false,
     "title": "Estrategias pedagógicas innovadoras con TIC",
     "country": "Colombia",
@@ -17058,7 +17384,7 @@
     "group": "b2215492"
   },
   {
-    "id": 1150,
+    "id": 1171,
     "isValidated": false,
     "title": "ETAPAS PREVIAS A LA TRANSFORMACIÓN DEL PLÁSTICO RECICLADO",
     "country": "Colombia",
@@ -17073,7 +17399,7 @@
     "group": "b2215492"
   },
   {
-    "id": 1151,
+    "id": 1172,
     "isValidated": false,
     "title": "Las tecnologías de la Información y las comunicaciones (TIC) en el desarrollo de competencias lectoescritoras en educación básica y media. Sistematización de experiencias en",
     "country": "Colombia",
@@ -17115,7 +17441,7 @@
     "group": "b2215492"
   },
   {
-    "id": 1152,
+    "id": 1173,
     "isValidated": false,
     "title": "Investigación en diseño, experiencias y aplicaciones",
     "country": "Colombia",
@@ -17128,7 +17454,7 @@
     "group": "96e47f6a"
   },
   {
-    "id": 1153,
+    "id": 1174,
     "isValidated": false,
     "title": "La práctica empresarial en el proceso de formación del Diseñador Industrial. Perspectivas",
     "country": "Colombia",
@@ -17141,7 +17467,7 @@
     "group": "96e47f6a"
   },
   {
-    "id": 1154,
+    "id": 1175,
     "isValidated": false,
     "title": "Experiencia del proceso de diseño, del aula a la praxis y de la praxis al aula",
     "country": "Colombia",
@@ -17154,7 +17480,7 @@
     "group": "96e47f6a"
   },
   {
-    "id": 1155,
+    "id": 1176,
     "isValidated": false,
     "title": "COMPETENCIAS DEL DISENADOR INDUSTRIAL PARA LA INDUSTRIA MANUFACTURERA DEL CORREDOR INDUSTRIAL DE BOYACA",
     "country": "Colombia",
@@ -17167,7 +17493,7 @@
     "group": "96e47f6a"
   },
   {
-    "id": 1156,
+    "id": 1177,
     "isValidated": true,
     "title": "Hacia la creación de empresa a partir del proyecto de diseño industrial. Sistematización de la experiencia.",
     "country": "Colombia",
@@ -17180,7 +17506,7 @@
     "group": "96e47f6a"
   },
   {
-    "id": 1157,
+    "id": 1178,
     "isValidated": false,
     "title": "Tecnología de producción y almacenamiento de cebolla de bulbo (Allium cepa L.) con enfoque sostenible en el trópico alto",
     "country": "Colombia",
@@ -17194,7 +17520,7 @@
     "group": "df896af0"
   },
   {
-    "id": 1158,
+    "id": 1179,
     "isValidated": false,
     "title": "ESTUDIO DE POSCOSECHA DE CEBOLLA DE BULBO (ALLIUM CEPA) PRODUCIDA EN EL VALLE DEL ALTO CHICAMOCHA- DUITAMA ( BOYACA)",
     "country": "Colombia",
@@ -17207,7 +17533,7 @@
     "group": "df896af0"
   },
   {
-    "id": 1159,
+    "id": 1180,
     "isValidated": false,
     "title": "MECANICA DE PAVIMENTOS - PRINCIPIOS BASICOS",
     "country": "Colombia",
@@ -17220,7 +17546,7 @@
     "group": "d88dc97f"
   },
   {
-    "id": 1160,
+    "id": 1181,
     "isValidated": false,
     "title": "Ley De Flujo Dinamico En Mezclas Asfalticas",
     "country": "Colombia",
@@ -17233,7 +17559,7 @@
     "group": "d88dc97f"
   },
   {
-    "id": 1161,
+    "id": 1182,
     "isValidated": false,
     "title": "Recomendaciones para el abordaje de pacientes con COVID-19 en Boyacá",
     "country": "Colombia",
@@ -17247,7 +17573,7 @@
     "group": "095bf539"
   },
   {
-    "id": 1162,
+    "id": 1183,
     "isValidated": false,
     "title": "Stack Tecnológicos para Desarrollo de Aplicaciones Web de Gestión de Información en Procesos de Rehabilitación Motora",
     "country": "Colombia",
@@ -17262,7 +17588,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1163,
+    "id": 1184,
     "isValidated": false,
     "title": "Stack Tecnológicos para Desarrollo de Aplicaciones Web de Gestión de Información en Procesos de Rehabilitación Motora",
     "country": "Colombia",
@@ -17277,7 +17603,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1164,
+    "id": 1185,
     "isValidated": false,
     "title": "Control digital de orientación, posición, y velocidad basado en movimientos de la cabeza para un prototipo de simulación de silla de ruedas",
     "country": "Colombia",
@@ -17292,7 +17618,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1165,
+    "id": 1186,
     "isValidated": false,
     "title": "Control digital de orientación, posición y velocidad basado en movimientos de la cabeza para un prototipo de simulación de silla de ruedas",
     "country": "Colombia",
@@ -17307,7 +17633,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1166,
+    "id": 1187,
     "isValidated": false,
     "title": "Análisis de la velocidad en la interceptación del balón en porteros de fútbol de salón, basado en detección de movimiento",
     "country": "Colombia",
@@ -17322,7 +17648,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1167,
+    "id": 1188,
     "isValidated": true,
     "title": "Metodología para el desarrollo colaborativo de videojuegos",
     "country": "Colombia",
@@ -17336,7 +17662,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1168,
+    "id": 1189,
     "isValidated": false,
     "title": "Plan de Negocios para la Creación de una Empresa de Base Tecnológica que Apoya la Rehabilitación Física del Cuerpo Humano",
     "country": "Colombia",
@@ -17349,7 +17675,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1169,
+    "id": 1190,
     "isValidated": true,
     "title": "Plan de Negocios para la Creación de una Empresa de Base Tecnológica que Apoya la Rehabilitación Física del Cuerpo Humano",
     "country": "Colombia",
@@ -17364,7 +17690,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1170,
+    "id": 1191,
     "isValidated": false,
     "title": "Plan de Negocios para la Creación de una Empresa de Base Tecnológica que Apoya la Rehabilitación Física del Cuerpo Humano",
     "country": "Colombia",
@@ -17379,7 +17705,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1171,
+    "id": 1192,
     "isValidated": true,
     "title": "Metodología para el Desarrollo Colaborativo de Videojuegos",
     "country": "Colombia",
@@ -17393,7 +17719,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1172,
+    "id": 1193,
     "isValidated": true,
     "title": "Estimadores no Llineales: Aplicación del Filtro de Kalman a Señales Biomecánicas",
     "country": "Colombia",
@@ -17408,7 +17734,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1173,
+    "id": 1194,
     "isValidated": true,
     "title": "Estimadores no lineales: Aplicación del Filtro de Kalman a señales biomecánicas",
     "country": "Colombia",
@@ -17423,7 +17749,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1174,
+    "id": 1195,
     "isValidated": false,
     "title": "Estimadores No Lineales: Aplicación del Filtro de Kalman a Señales Biomecánicas",
     "country": "Colombia",
@@ -17438,7 +17764,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1175,
+    "id": 1196,
     "isValidated": true,
     "title": "Tecnologías de Captura de Movimiento: Propuesta de un Método para la Valoración del Equilibrio en un Programa Pedagógico de Gimnasia Básica",
     "country": "Colombia",
@@ -17453,7 +17779,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1176,
+    "id": 1197,
     "isValidated": true,
     "title": "Metamodelo de medición de esfuerzo en proyectos de desarrollo de software",
     "country": "Colombia",
@@ -17468,7 +17794,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1177,
+    "id": 1198,
     "isValidated": true,
     "title": "Metamodelo de medición de esfuerzo en proyectos de desarrollo de software",
     "country": "Colombia",
@@ -17483,7 +17809,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1178,
+    "id": 1199,
     "isValidated": true,
     "title": "Metamodelo de medición de esfuerzo en proyectos de desarrollo de software",
     "country": "Colombia",
@@ -17498,7 +17824,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1179,
+    "id": 1200,
     "isValidated": false,
     "title": "Simulación basada en dinámica de sistemas y agentes inteligentes, aplicada a un sistema complejo",
     "country": "Colombia",
@@ -17513,7 +17839,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1180,
+    "id": 1201,
     "isValidated": true,
     "title": "Simulación basada en dinámica de sistemas y agentes inteligentes, aplicada a un sistema complejo",
     "country": "Colombia",
@@ -17528,7 +17854,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1181,
+    "id": 1202,
     "isValidated": true,
     "title": "SIMULACIÓN BASADA EN DINÁMICA DE SISTEMAS Y AGENTES INTELIGENTES, APLICADA A UN SISTEMA COMPLEJO",
     "country": "Colombia",
@@ -17543,7 +17869,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1182,
+    "id": 1203,
     "isValidated": true,
     "title": "Tecnología para la identificación de patrones de comportamiento a partir de técnicas de reconocimiento emocional",
     "country": "Colombia",
@@ -17558,7 +17884,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1183,
+    "id": 1204,
     "isValidated": true,
     "title": "TECNOLOGÍA PARA LA IDENTIFICACIÓN DE PATRONES DE COMPORTAMIENTO A PARTIR DE TÉCNICAS DE RECONOCIMIENTO EMOCIONAL",
     "country": "Colombia",
@@ -17573,7 +17899,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1184,
+    "id": 1205,
     "isValidated": false,
     "title": "Sistema Distribuido Bajo Tecnología Silverlight: Planes Vacacionales en CANAPRO O.C.",
     "country": "Colombia",
@@ -17586,7 +17912,7 @@
     "group": "9fc1eda0"
   },
   {
-    "id": 1185,
+    "id": 1206,
     "isValidated": false,
     "title": "Historia mínima de El Evolucionismo,",
     "country": "México",
@@ -17599,7 +17925,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1186,
+    "id": 1207,
     "isValidated": false,
     "title": "CAPITAN RAFAEL SEVILLA. MEMORIAS DE UN OFICIAL DEL EJERCITO ESPAÑOL CAMPAÑAS CONTRA BOLIVAR Y LOS SEPARATISTAS DE AMERICA",
     "country": "España",
@@ -17612,7 +17938,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1187,
+    "id": 1208,
     "isValidated": true,
     "title": "CAPITAN RAFAEL SEVILLA. MEMORIAS DE UN OFICIAL DEL EJERCITO ESPAÑOL CAMPAÑAS CONTRA BOLIVAR Y LOS SEPARATISTAS DE AMERICA",
     "country": "Colombia",
@@ -17626,7 +17952,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1188,
+    "id": 1209,
     "isValidated": false,
     "title": "Ignacio Bolívar Urrutia: Patriarca de las Ciencias Naturales en",
     "country": "España",
@@ -17639,7 +17965,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1189,
+    "id": 1210,
     "isValidated": false,
     "title": "La mirada de Medusa",
     "country": "España",
@@ -17652,7 +17978,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1190,
+    "id": 1211,
     "isValidated": false,
     "title": "La revolución haitiana en la obra de Juan López Cancelada (1806-1810)",
     "country": "España",
@@ -17665,7 +17991,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1191,
+    "id": 1212,
     "isValidated": false,
     "title": "Centroamérica. Política, violencia y resistencia: miradas históricas",
     "country": "Argentina",
@@ -17678,7 +18004,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1192,
+    "id": 1213,
     "isValidated": false,
     "title": "El hombre prehistórico y los orígenes de la Humanidad. Hugo Obermaier",
     "country": "Colombia",
@@ -17691,7 +18017,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1193,
+    "id": 1214,
     "isValidated": false,
     "title": "Jefferson and Humboldt: A Transatlantic Friendship of the Enlightenment",
     "country": "Estados Unidos",
@@ -17704,7 +18030,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1194,
+    "id": 1215,
     "isValidated": false,
     "title": "Áurea quersoneso: estudios sobre la plata iberoamericana: siglos XVI-XIX",
     "country": "España",
@@ -17717,7 +18043,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1195,
+    "id": 1216,
     "isValidated": false,
     "title": "Estudios Sobre La muerte Y Los Muertos.",
     "country": "Colombia",
@@ -17730,7 +18056,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1196,
+    "id": 1217,
     "isValidated": false,
     "title": "Honduras 2013 Golpe de estado, elecciones y tensiones del orden político",
     "country": "Argentina",
@@ -17743,7 +18069,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1197,
+    "id": 1218,
     "isValidated": false,
     "title": "2014: Año de elecciones. El Salvador y Costa Rica: Miradas sobre el orden político",
     "country": "Argentina",
@@ -17756,7 +18082,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1198,
+    "id": 1219,
     "isValidated": false,
     "title": "Historias para el Intendente. Un libro-homenaje al historiador Juan Andreo García",
     "country": "España",
@@ -17769,7 +18095,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1199,
+    "id": 1220,
     "isValidated": false,
     "title": "Darwinismo, biología y sociedad",
     "country": "México",
@@ -17782,7 +18108,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1200,
+    "id": 1221,
     "isValidated": false,
     "title": "Historia comparada de las Antillas",
     "country": "España",
@@ -17795,7 +18121,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1201,
+    "id": 1222,
     "isValidated": false,
     "title": "Christian August Fischer: Cuadros de Madrid",
     "country": "España",
@@ -17808,7 +18134,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1202,
+    "id": 1223,
     "isValidated": false,
     "title": "Bajo el signo del XIII",
     "country": "Argentina",
@@ -17821,7 +18147,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1203,
+    "id": 1224,
     "isValidated": false,
     "title": "Polonia y",
     "country": "España",
@@ -17834,7 +18160,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1204,
+    "id": 1225,
     "isValidated": false,
     "title": "Luis Bedoya Reyes: Granularidad En El Cambio (Textos Esenciales)",
     "country": "",
@@ -17847,7 +18173,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1205,
+    "id": 1226,
     "isValidated": false,
     "title": "Pensamiento Colonial Critico: Textos Y Actos De Polo Ondegardo",
     "country": "",
@@ -17860,7 +18186,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1206,
+    "id": 1227,
     "isValidated": false,
     "title": "\"La Iglesia Ante La Mierda: Del Pecado A La Inmundicia Sagrada\"",
     "country": "España",
@@ -17873,7 +18199,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1207,
+    "id": 1228,
     "isValidated": false,
     "title": "Juan Vilanova Y Piera (1821-1893), La Obra De Un Naturalista Y Prehistoriador Valenciano",
     "country": "España",
@@ -17887,7 +18213,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1208,
+    "id": 1229,
     "isValidated": false,
     "title": "Religiosidad Sevillana. Homenaje Al Profesor José Sánchez Herrero",
     "country": "España",
@@ -17900,7 +18226,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1209,
+    "id": 1230,
     "isValidated": false,
     "title": "España explora. Malaspina 2010",
     "country": "España",
@@ -17913,7 +18239,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1210,
+    "id": 1231,
     "isValidated": false,
     "title": "Escritura, Imaginación Política Y La Compañía De Jesús En América Latina, Siglos Xvi Al Xviii",
     "country": "España",
@@ -17926,7 +18252,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1211,
+    "id": 1232,
     "isValidated": false,
     "title": "California A Través De La Lente De Una Expedición Romántica",
     "country": "España",
@@ -17939,7 +18265,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1212,
+    "id": 1233,
     "isValidated": false,
     "title": "Viaje por",
     "country": "España",
@@ -17952,7 +18278,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1213,
+    "id": 1234,
     "isValidated": false,
     "title": "California A Través De La Lente De Una Expedición Romántica",
     "country": "España",
@@ -17965,7 +18291,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1214,
+    "id": 1235,
     "isValidated": false,
     "title": "Educadores Latinoamericanos Y Del Caribe Del Siglo Xx Al Xxi",
     "country": "Colombia",
@@ -17981,7 +18307,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1215,
+    "id": 1236,
     "isValidated": false,
     "title": "La expedición Malaspina. Un viaje hacia el conocimiento y la modernidad",
     "country": "España",
@@ -17994,7 +18320,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1216,
+    "id": 1237,
     "isValidated": true,
     "title": "La construcción de la Nacion Iberoamericana siglo XIX a siglo XXI",
     "country": "Colombia",
@@ -18009,7 +18335,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1217,
+    "id": 1238,
     "isValidated": false,
     "title": "La construcción de la Nación Iberoamericana. Siglos XIX a XXI",
     "country": "Colombia",
@@ -18024,7 +18350,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1218,
+    "id": 1239,
     "isValidated": false,
     "title": "Historia, Identidad Nacional y Carácter Cívico Político en Sociedades Complejas. El Caso de las Sociedades Española y Latinoamericana",
     "country": "México",
@@ -18037,7 +18363,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1219,
+    "id": 1240,
     "isValidated": false,
     "title": "Derecho Romano Clásico",
     "country": "Colombia",
@@ -18050,7 +18376,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1220,
+    "id": 1241,
     "isValidated": false,
     "title": "Traspasar Fronteras: Un Siglo De Intercambo Científico Ente",
     "country": "España",
@@ -18063,7 +18389,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1221,
+    "id": 1242,
     "isValidated": true,
     "title": "Ilustración Y Educación. Comentario De Textos Histórico-Educativos",
     "country": "Colombia",
@@ -18076,7 +18402,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1222,
+    "id": 1243,
     "isValidated": false,
     "title": "MUTIS FILOSOFO Y EDUCADOR. UNA MUESTRA DE LA REALIDAD EDUCATIVA",
     "country": "Colombia",
@@ -18089,7 +18415,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1223,
+    "id": 1244,
     "isValidated": false,
     "title": "Mutis Al Natural. Ciencia Y Arte En El Nuevo Reino De Granada",
     "country": "España",
@@ -18103,7 +18429,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1224,
+    "id": 1245,
     "isValidated": false,
     "title": "Ilustración y educación comentario de textos",
     "country": "Colombia",
@@ -18116,7 +18442,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1225,
+    "id": 1246,
     "isValidated": true,
     "title": "Ilustración Y Educación. Comentario De Textos Histórico-Educativos",
     "country": "Colombia",
@@ -18130,7 +18456,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1226,
+    "id": 1247,
     "isValidated": false,
     "title": "Corts I Parlaments De La Corona D¿Aragó. Unes Institucions Emblemàtiques En Una Monarquia Composta",
     "country": "España",
@@ -18144,7 +18470,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1227,
+    "id": 1248,
     "isValidated": false,
     "title": "Edición facsimilar de la revista Tierra Firme",
     "country": "España",
@@ -18158,7 +18484,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1228,
+    "id": 1249,
     "isValidated": false,
     "title": "Por La Fuerza De Las Armas. Ejército E Independencias En Iberoamérica.",
     "country": "España",
@@ -18171,7 +18497,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1229,
+    "id": 1250,
     "isValidated": false,
     "title": "Aparato Para La Historia Natural Española",
     "country": "Colombia",
@@ -18184,7 +18510,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1230,
+    "id": 1251,
     "isValidated": false,
     "title": "Desde las tinieblas del olvido. Los universos indígenas escondidos en la crónica americana de Juan de Castellanos.",
     "country": "España",
@@ -18197,7 +18523,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1231,
+    "id": 1252,
     "isValidated": false,
     "title": "América Española Ii (1763-1898). Política Y Sociedad",
     "country": "España",
@@ -18211,7 +18537,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1232,
+    "id": 1253,
     "isValidated": false,
     "title": "El Retorno Del Rey. El Restablecimiento Del Régimen Colonial En Cartagena De Indias (1815-1821)",
     "country": "España",
@@ -18224,7 +18550,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1233,
+    "id": 1254,
     "isValidated": false,
     "title": "Alexander Von Humboldt. La Estancia En",
     "country": "España",
@@ -18238,7 +18564,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1234,
+    "id": 1255,
     "isValidated": false,
     "title": "Juan López Cancelada. El Telégrafo Americano (10 De Octubre De 1811 Al 31 De Marzo De 1812)",
     "country": "España",
@@ -18251,7 +18577,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1235,
+    "id": 1256,
     "isValidated": false,
     "title": "Cristóbal De Acosta. Tractado De Las Drogas Y Medicinas De Las Indias Orientales",
     "country": "España",
@@ -18264,7 +18590,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1236,
+    "id": 1257,
     "isValidated": false,
     "title": "La Plata El Iberoamérica. Siglos Xvi Al Xix",
     "country": "México",
@@ -18278,7 +18604,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1237,
+    "id": 1258,
     "isValidated": false,
     "title": "La Mujer En La Historia Del",
     "country": "",
@@ -18292,7 +18618,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1238,
+    "id": 1259,
     "isValidated": false,
     "title": "Las armas de la nación. Independencia y ciudadanía en Hispanoamérica. 1750-1850.",
     "country": "España",
@@ -18305,7 +18631,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1239,
+    "id": 1260,
     "isValidated": false,
     "title": "James Burney. Historia de los Bucaneros de América.",
     "country": "España",
@@ -18318,7 +18644,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1240,
+    "id": 1261,
     "isValidated": false,
     "title": "Tomo Ii Colección Historia Y Prospectiva De La Universidad Latinoamericana",
     "country": "Colombia",
@@ -18331,7 +18657,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1241,
+    "id": 1262,
     "isValidated": false,
     "title": "Sentir Y Medir Alexander Von Humboldt En Espana",
     "country": "España",
@@ -18345,7 +18671,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1242,
+    "id": 1263,
     "isValidated": false,
     "title": "Sentir Y Medir Alexander Von Humboldt En Espana",
     "country": "España",
@@ -18359,7 +18685,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1243,
+    "id": 1264,
     "isValidated": false,
     "title": "Proyecto de Aula: Estudio Socio Economico Juridico del uso del agua en San Cayetano- Bolivar",
     "country": "Colombia",
@@ -18372,7 +18698,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1244,
+    "id": 1265,
     "isValidated": false,
     "title": "MUJER Y CIENCIA WOMAN AND SCIENCE",
     "country": "España",
@@ -18385,7 +18711,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1245,
+    "id": 1266,
     "isValidated": false,
     "title": "Exposición sucinta y sencilla de la Provincia del Nuevo",
     "country": "México",
@@ -18398,7 +18724,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1246,
+    "id": 1267,
     "isValidated": false,
     "title": "Introduccion A La Pedagogia / Educacion Social",
     "country": "España",
@@ -18411,7 +18737,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1247,
+    "id": 1268,
     "isValidated": false,
     "title": "Primer  Encuentro Nacional Y 7° Encuentro De Investigaciones. La Investigación Como Articulador Entre La Ciencia Y La Paz. 30años De Compromiso Con",
     "country": "Colombia",
@@ -18424,7 +18750,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1248,
+    "id": 1269,
     "isValidated": false,
     "title": "Desde Las Tinieblas Del Olvido. Los Universos Indígenas En Los Infinitos Endecasílabos De  Juan De Castellanos.",
     "country": "Colombia",
@@ -18437,7 +18763,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1249,
+    "id": 1270,
     "isValidated": false,
     "title": "Abarrotes. La Construcción Social De Las Identidades Colectivas Desde La Perspectiva Del Desarrollo. Historia, Derecho, Tecnologías Y Sociedades En La Región Andina",
     "country": "España",
@@ -18450,7 +18776,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1250,
+    "id": 1271,
     "isValidated": false,
     "title": "Furs De Vàlencia, Estudio Introductorio Y Traducción.",
     "country": "España",
@@ -18463,7 +18789,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1251,
+    "id": 1272,
     "isValidated": false,
     "title": "Educacion Social Formacion Realidades Y Retos Coleccion Educacion Socia",
     "country": "España",
@@ -18476,7 +18802,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1252,
+    "id": 1273,
     "isValidated": false,
     "title": "Mundos Indígenas.",
     "country": "España",
@@ -18489,7 +18815,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1253,
+    "id": 1274,
     "isValidated": false,
     "title": "Fuentes, reformas y planes de estudios, siglos XVII, XVIII y XIX",
     "country": "Argentina",
@@ -18502,7 +18828,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1254,
+    "id": 1275,
     "isValidated": false,
     "title": "El Segundo Escalón. Desequilibrio De Género En Ciencia Y Tecnología",
     "country": "España",
@@ -18515,7 +18841,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1255,
+    "id": 1276,
     "isValidated": false,
     "title": "Políticas Universitarias En  Latinoamérica:  Historia Y Prospectiva",
     "country": "Brasil",
@@ -18528,7 +18854,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1256,
+    "id": 1277,
     "isValidated": false,
     "title": "Representaciones Sociales De Los Jovenes Sobre Las Drogas Alcohol Tabaco Y Cannabis Y Su Influencia En El Consumo",
     "country": "España",
@@ -18541,7 +18867,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1257,
+    "id": 1278,
     "isValidated": false,
     "title": "El Ejército De América Antes De La Independencia. Ejército Regular Y Milicias Americanas. Estudio Histórico. Banco De Datos De Hojas De Servicio Y Uniformes.",
     "country": "España",
@@ -18554,7 +18880,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1258,
+    "id": 1279,
     "isValidated": false,
     "title": "Soldados Del Rey. El Ejército Borbónico En América Colonial En Vísperas De La Independencia.",
     "country": "España",
@@ -18567,7 +18893,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1259,
+    "id": 1280,
     "isValidated": true,
     "title": "Mutis Educador De La Élite Neogranadina",
     "country": "Colombia",
@@ -18580,7 +18906,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1260,
+    "id": 1281,
     "isValidated": false,
     "title": "El Rumor De Haití En Cuba: Temor, Raza Y Rebeldía",
     "country": "España",
@@ -18593,7 +18919,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1261,
+    "id": 1282,
     "isValidated": false,
     "title": "Ensayo Politico Sobre La Isla De Cuba De Alexander Von Humboldt",
     "country": "España",
@@ -18606,7 +18932,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1262,
+    "id": 1283,
     "isValidated": false,
     "title": "La Reforma Del Plan De Estudios Del Fiscal Moreno Y Escandón, 1774-1779",
     "country": "Colombia",
@@ -18619,7 +18945,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1263,
+    "id": 1284,
     "isValidated": false,
     "title": "Estudios Sobre La Universidad Latinoamericana: De La Colonia Ao Siglo Xxi.",
     "country": "España",
@@ -18632,7 +18958,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1264,
+    "id": 1285,
     "isValidated": false,
     "title": "América Latina y el",
     "country": "",
@@ -18645,7 +18971,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1265,
+    "id": 1286,
     "isValidated": false,
     "title": "América Latina, De Los Orígenes A La Independencia.",
     "country": "España",
@@ -18658,7 +18984,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1266,
+    "id": 1287,
     "isValidated": false,
     "title": "Opatrný, Josef (Ed.), Cambios Y Revoluciones En El Caribe Hispano De Los Siglos Xix Y Xx. (Supplementum Núm. 11 De Ibero-Americana Pragensia)",
     "country": "España",
@@ -18671,7 +18997,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1267,
+    "id": 1288,
     "isValidated": false,
     "title": "Proceso De Enseñanza (1653-1767)",
     "country": "Colombia",
@@ -18684,7 +19010,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1268,
+    "id": 1289,
     "isValidated": false,
     "title": "Recepción Y Difusión De Textos Ilustrados. Intercambio Científico Entre Europa Y América En La Ilustración",
     "country": "España",
@@ -18698,7 +19024,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1269,
+    "id": 1290,
     "isValidated": false,
     "title": "La América Española Ii (1763-1898)",
     "country": "España",
@@ -18711,7 +19037,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1270,
+    "id": 1291,
     "isValidated": false,
     "title": "Visitando La Isla. Temas De Historia De Cuba",
     "country": "España",
@@ -18724,7 +19050,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1271,
+    "id": 1292,
     "isValidated": false,
     "title": "América Española Ii (1763-1898). Política Y Sociedad",
     "country": "España",
@@ -18737,7 +19063,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1272,
+    "id": 1293,
     "isValidated": false,
     "title": "Hacia La Educacion Intergeneracional",
     "country": "España",
@@ -18750,7 +19076,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1273,
+    "id": 1294,
     "isValidated": false,
     "title": "Los lazos de la cultura. El Centro de Estudios Históricos de Madrid y la Universidad de Puerto Rico, 1916-1939",
     "country": "España",
@@ -18763,7 +19089,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1274,
+    "id": 1295,
     "isValidated": false,
     "title": "Los Lazos De La Cultura. El Centro De Estudios Históricos De Madrid Y La Universidad De Puerto Rico",
     "country": "España",
@@ -18777,7 +19103,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1275,
+    "id": 1296,
     "isValidated": false,
     "title": "Estudios Sobre La Universidad Latinoamericana: De La Colonia Ao Siglo Xxi.",
     "country": "España",
@@ -18792,7 +19118,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1276,
+    "id": 1297,
     "isValidated": false,
     "title": "MODELO AGUSTINIANO EN AMERICA",
     "country": "Colombia",
@@ -18805,7 +19131,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1277,
+    "id": 1298,
     "isValidated": false,
     "title": "Ciencia y pensamiento.La institución hispana.cubana y su relación con los intelectuales españoles",
     "country": "Estados Unidos",
@@ -18819,7 +19145,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1278,
+    "id": 1299,
     "isValidated": true,
     "title": "Cuadernos Para La Historia Del Colegio Mayor De Nuestra Señora Del Rosario. Historia De La Cátedra De Medicina, 1653-1865",
     "country": "Colombia",
@@ -18833,7 +19159,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1279,
+    "id": 1300,
     "isValidated": false,
     "title": "Recepción Y Difusión De Textos Ilustrados. Intercambio Científico Entre Europa Y América En La Ilustración",
     "country": "España",
@@ -18849,7 +19175,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1280,
+    "id": 1301,
     "isValidated": false,
     "title": "Santidad E Identidad Criolla: Estudio Del Proceso De Canonizacion De Santa Rosa",
     "country": "",
@@ -18862,7 +19188,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1281,
+    "id": 1302,
     "isValidated": false,
     "title": "Francisco Antonio Zea. Un Criollo Ilustrado",
     "country": "España",
@@ -18875,7 +19201,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1282,
+    "id": 1303,
     "isValidated": false,
     "title": "Actas Congreso Internacional Sobre La Universidad Iberoamericna",
     "country": "España",
@@ -18888,7 +19214,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1283,
+    "id": 1304,
     "isValidated": false,
     "title": "Nuevas Aportaciones A La Historia Del Derecho En Iberoamérica",
     "country": "España",
@@ -18901,7 +19227,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1284,
+    "id": 1305,
     "isValidated": false,
     "title": "Indice De Documentos De La Inquisición De Cartagena De Indias",
     "country": "Colombia",
@@ -18914,7 +19240,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1285,
+    "id": 1306,
     "isValidated": false,
     "title": "Nobles, Blancos Y Mestizos En La Villa De Nuestra Señora De La Candelaria De Medellín. Probanzas De Nobleza, Familia Y M",
     "country": "Colombia",
@@ -18927,7 +19253,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1286,
+    "id": 1307,
     "isValidated": false,
     "title": "Historia del Jardín Botánico d ela Habana",
     "country": "España",
@@ -18940,7 +19266,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1287,
+    "id": 1308,
     "isValidated": false,
     "title": "Exploración Botánica de las Islas de Barlovento: Cuba y Puerto Rico. Siglo XVIII",
     "country": "España",
@@ -18954,7 +19280,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1288,
+    "id": 1309,
     "isValidated": false,
     "title": "Cientificos criollos e Ilustración",
     "country": "España",
@@ -18969,7 +19295,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1289,
+    "id": 1310,
     "isValidated": false,
     "title": "Estudios Sobre Historia De La Educación Latinoamericna D Ela Colonia A Nuestros Días",
     "country": "Colombia",
@@ -18982,7 +19308,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1290,
+    "id": 1311,
     "isValidated": false,
     "title": "México frente al desenlace del 98. La Guerra hispano-norteamericana",
     "country": "México",
@@ -18995,7 +19321,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1291,
+    "id": 1312,
     "isValidated": false,
     "title": "El Caribe Y América Latina: El 98 En La Coyuntura Imperial",
     "country": "España",
@@ -19008,7 +19334,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1292,
+    "id": 1313,
     "isValidated": false,
     "title": "Imágenes E Imaginarios Nacionales En El Ultramar Español",
     "country": "España",
@@ -19021,7 +19347,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1293,
+    "id": 1314,
     "isValidated": false,
     "title": "El Darwinismo en",
     "country": "España",
@@ -19034,7 +19360,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1294,
+    "id": 1315,
     "isValidated": false,
     "title": "Testimonios Del",
     "country": "Peru",
@@ -19047,7 +19373,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1295,
+    "id": 1316,
     "isValidated": false,
     "title": "Ensayo Politico Sobre La Isla De Cuba De Alexander Von Humboldt",
     "country": "España",
@@ -19060,7 +19386,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1296,
+    "id": 1317,
     "isValidated": false,
     "title": "Historia De La Universidad",
     "country": "Colombia",
@@ -19073,7 +19399,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1297,
+    "id": 1318,
     "isValidated": false,
     "title": "Nacionalismo E Internacionalismo En La Historia De Las Ciencias Y La Tecnología En América Latina",
     "country": "Colombia",
@@ -19087,7 +19413,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1298,
+    "id": 1319,
     "isValidated": false,
     "title": "Historia De La Universidad",
     "country": "Colombia",
@@ -19100,7 +19426,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1299,
+    "id": 1320,
     "isValidated": false,
     "title": "El viaje del astrónomo y naturalista Luis Feuillée a las Islas Caanrias. 1724",
     "country": "España",
@@ -19113,7 +19439,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1300,
+    "id": 1321,
     "isValidated": false,
     "title": "Medicina Y Racismo En Cuba. La Ciencia Ante La Inmigración Canaria En El  Siglo Xx",
     "country": "España",
@@ -19126,7 +19452,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1301,
+    "id": 1322,
     "isValidated": false,
     "title": "Racismo E Inmigración En Cuba  En El Siglo Xix",
     "country": "España",
@@ -19139,7 +19465,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1302,
+    "id": 1323,
     "isValidated": false,
     "title": "La Nación Soñada:  Cuba, Puerto Rico Y Filipinas Ante El 98",
     "country": "España",
@@ -19152,7 +19478,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1303,
+    "id": 1324,
     "isValidated": false,
     "title": "Historia Social de la Ciencia en",
     "country": "Colombia",
@@ -19166,7 +19492,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1304,
+    "id": 1325,
     "isValidated": false,
     "title": "Historia De La Universidad",
     "country": "",
@@ -19182,7 +19508,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1305,
+    "id": 1326,
     "isValidated": false,
     "title": "La Ilustración En América Colonial. Bibliografía Crítica",
     "country": "España",
@@ -19197,7 +19523,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1306,
+    "id": 1327,
     "isValidated": false,
     "title": "La Ilustración En América Colonial. Bibliografía Crítica",
     "country": "España",
@@ -19212,7 +19538,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1307,
+    "id": 1328,
     "isValidated": false,
     "title": "Historia del descubrimiento y conquista del",
     "country": "",
@@ -19227,7 +19553,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1308,
+    "id": 1329,
     "isValidated": false,
     "title": "Cuba, La Perla De Las Antillas, Madrid-Aranjuez",
     "country": "España",
@@ -19240,7 +19566,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1309,
+    "id": 1330,
     "isValidated": false,
     "title": "Darwinismo Y Antropología En El Siglo Xix",
     "country": "España",
@@ -19253,7 +19579,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1310,
+    "id": 1331,
     "isValidated": false,
     "title": "La Ilustración en las universidades y Colegios Mayores de SantaFe, Quito y Caracas. Bibliografía Crítica y fuentes",
     "country": "Colombia",
@@ -19266,7 +19592,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1311,
+    "id": 1332,
     "isValidated": false,
     "title": "Historia Social de la Ciencia en",
     "country": "Colombia",
@@ -19279,7 +19605,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1312,
+    "id": 1333,
     "isValidated": false,
     "title": "Historia Social de la Ciencia en",
     "country": "Colombia",
@@ -19292,7 +19618,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1313,
+    "id": 1334,
     "isValidated": false,
     "title": "Ee.Uu., De La Independencia A La I Guerra Mundial",
     "country": "España",
@@ -19305,7 +19631,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1314,
+    "id": 1335,
     "isValidated": false,
     "title": "El Caribe Colonial",
     "country": "España",
@@ -19318,7 +19644,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1315,
+    "id": 1336,
     "isValidated": false,
     "title": "Pacífico Inédito, 1862-1866",
     "country": "España",
@@ -19332,7 +19658,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1316,
+    "id": 1337,
     "isValidated": false,
     "title": "Las Expediciones Científicas En El Siglo Xviii",
     "country": "España",
@@ -19345,7 +19671,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1317,
+    "id": 1338,
     "isValidated": false,
     "title": "Mutis filosófo y educador",
     "country": "Colombia",
@@ -19358,7 +19684,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1318,
+    "id": 1339,
     "isValidated": false,
     "title": "Del Campo A La Bodega. Recuerdos De Gallegos En Cuba",
     "country": "España",
@@ -19371,7 +19697,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1319,
+    "id": 1340,
     "isValidated": false,
     "title": "Cuba, Otro Escenario De Lucha. La Guerra Civil Y El Exilio Republicano Español",
     "country": "España",
@@ -19384,7 +19710,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1320,
+    "id": 1341,
     "isValidated": false,
     "title": "Crónica De Una Expedición Romántica Al Nuevo Mundo",
     "country": "España",
@@ -19397,7 +19723,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1321,
+    "id": 1342,
     "isValidated": false,
     "title": "Cuba Vista Por El Emigrante Español, 1900-1959. Un Ensayo De Historia Oral",
     "country": "España",
@@ -19410,7 +19736,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1322,
+    "id": 1343,
     "isValidated": false,
     "title": "Causalidad Y Conocimiento Según Piaget",
     "country": "España",
@@ -19423,7 +19749,7 @@
     "group": "ba59850e"
   },
   {
-    "id": 1323,
+    "id": 1344,
     "isValidated": false,
     "title": "La quiebra. Aproximaciones a los regímenes de insolvencia económica en",
     "country": "Colombia",
@@ -19437,7 +19763,7 @@
     "group": "74e308d6"
   },
   {
-    "id": 1324,
+    "id": 1345,
     "isValidated": false,
     "title": "Las actitudes hacia la estadística: resultados en una muestra de estudiantes universitarios",
     "country": "",
@@ -19450,7 +19776,7 @@
     "group": "134ca8f6"
   },
   {
-    "id": 1325,
+    "id": 1346,
     "isValidated": false,
     "title": "RELACIÓN ENTRE ESTILO DE PERSONALIDAD Y ESTRATEGIAS DE AFRONTAMIENTO",
     "country": "España",
@@ -19465,7 +19791,7 @@
     "group": "134ca8f6"
   },
   {
-    "id": 1326,
+    "id": 1347,
     "isValidated": false,
     "title": "REPRESENTACIONES SOCIALES, LIMITACIÓN CONGNITIVA E INTEGRACIÓN ESCOLAR",
     "country": "España",
@@ -19479,7 +19805,7 @@
     "group": "134ca8f6"
   },
   {
-    "id": 1327,
+    "id": 1348,
     "isValidated": false,
     "title": "Psicología de la Salud. Temas Actuales de Investigación en Latinoamérica",
     "country": "Colombia",
@@ -19493,7 +19819,7 @@
     "group": "134ca8f6"
   },
   {
-    "id": 1328,
+    "id": 1349,
     "isValidated": false,
     "title": "Masculinidad como arma del silencio",
     "country": "Colombia",
@@ -19507,7 +19833,7 @@
     "group": "b299d312"
   },
   {
-    "id": 1329,
+    "id": 1350,
     "isValidated": false,
     "title": "PROCEDENCIA DE LA ACCIÓN DE TUTELA CONTRA LAUDOS ARBITRALES EN MATERIA COMERCIAL A NOVEL NACIONAL E INTERNACIONAL",
     "country": "Colombia",
@@ -19521,7 +19847,7 @@
     "group": "b299d312"
   },
   {
-    "id": 1330,
+    "id": 1351,
     "isValidated": false,
     "title": "LA JEP Y LA GARANTIA DE ACCESO A LA ADMINISTRACION DE JUSTICIA PARA LAS VICTIMAS DEL CONFLICTO ARMADO EN",
     "country": "COLOMBIA",
@@ -19536,7 +19862,7 @@
     "group": "b299d312"
   },
   {
-    "id": 1331,
+    "id": 1352,
     "isValidated": false,
     "title": "PROCEDENCIA DE LA ACCION DE TUTELA CONTRA LAUDOS ARBITRALES EN MATERIA COMERCIAL A NIVEL NACIONAL E INTERNACIONAL",
     "country": "Colombia",
@@ -19549,7 +19875,7 @@
     "group": "b299d312"
   },
   {
-    "id": 1332,
+    "id": 1353,
     "isValidated": false,
     "title": "La JEP y la garantía de acceso a la justicia para las víctimas del conflicto armado en",
     "country": "Colombia",
@@ -19564,7 +19890,7 @@
     "group": "b299d312"
   },
   {
-    "id": 1333,
+    "id": 1354,
     "isValidated": false,
     "title": "FORMALIZACION DE LA PROPIEDAD RURAL Conceptos y procedimientos",
     "country": "Colombia",
@@ -19577,7 +19903,7 @@
     "group": "b299d312"
   },
   {
-    "id": 1334,
+    "id": 1355,
     "isValidated": true,
     "title": "LA FORMALIZACIÓN DE LA PROPIEDAD RURAL, CONCEPTOS Y PROCEDIMIENTOS",
     "country": "Colombia",
@@ -19591,7 +19917,7 @@
     "group": "b299d312"
   },
   {
-    "id": 1335,
+    "id": 1356,
     "isValidated": true,
     "title": "La Formalización de la Propiedad Rural Conceptos Y Procedimientos",
     "country": "Colombia",
@@ -19605,7 +19931,7 @@
     "group": "b299d312"
   },
   {
-    "id": 1336,
+    "id": 1357,
     "isValidated": true,
     "title": "Acceso a la Justicia vs Acciones de Tutela Contra Providencias Judiciales.",
     "country": "Colombia",
@@ -19618,7 +19944,7 @@
     "group": "b299d312"
   },
   {
-    "id": 1337,
+    "id": 1358,
     "isValidated": false,
     "title": "LA MEDIDA CAUTELAR INNOMINADA: GARANTÍA DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
     "country": "Colombia",
@@ -19631,7 +19957,7 @@
     "group": "b299d312"
   },
   {
-    "id": 1338,
+    "id": 1359,
     "isValidated": false,
     "title": "Proceedings Ieee Andescon & Latincom 2010",
     "country": "Colombia",
@@ -19645,7 +19971,7 @@
     "group": "16080925"
   },
   {
-    "id": 1339,
+    "id": 1360,
     "isValidated": false,
     "title": "Español para extranjeros a través de las novelas",
     "country": "Colombia",
@@ -19658,7 +19984,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1340,
+    "id": 1361,
     "isValidated": false,
     "title": "Enseñanza del español como lengua extranjera -ELE- a través del lenguaje de las fiestas",
     "country": "Colombia",
@@ -19677,7 +20003,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1341,
+    "id": 1362,
     "isValidated": false,
     "title": "Enseñanza del Español como Lengua Extranjera - ELE -, a través del Lenguaje de las Fiestas",
     "country": "Colombia",
@@ -19690,7 +20016,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1342,
+    "id": 1363,
     "isValidated": false,
     "title": "Enseñanza del español como lengua extranjera -ELE- a través del lenguaje de las fiestas",
     "country": "Colombia",
@@ -19703,7 +20029,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1343,
+    "id": 1364,
     "isValidated": false,
     "title": "Enseñanza del Español para Extranjeros a través de la Cultura Popular",
     "country": "Colombia",
@@ -19716,7 +20042,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1344,
+    "id": 1365,
     "isValidated": false,
     "title": "Comunicarse en Español la mejor opción Nivel Avanzado",
     "country": "Colombia",
@@ -19729,7 +20055,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1345,
+    "id": 1366,
     "isValidated": false,
     "title": "Comunicarse En Español: La Mejor Opción",
     "country": "Colombia",
@@ -19745,7 +20071,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1346,
+    "id": 1367,
     "isValidated": false,
     "title": "Comunicarse En Español: La Mejor Opción",
     "country": "Colombia",
@@ -19761,7 +20087,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1347,
+    "id": 1368,
     "isValidated": false,
     "title": "Comunicarse En Español: La Mejor Opción",
     "country": "Colombia",
@@ -19774,7 +20100,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1348,
+    "id": 1369,
     "isValidated": false,
     "title": "Comunicarse En Español: La Mejor Opción",
     "country": "Colombia",
@@ -19790,7 +20116,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1349,
+    "id": 1370,
     "isValidated": false,
     "title": "Español Para Extranjeros. Nivel Intermedio",
     "country": "Colombia",
@@ -19803,7 +20129,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1350,
+    "id": 1371,
     "isValidated": false,
     "title": "Espanol Para Extranjeros Nivel Basico",
     "country": "Colombia",
@@ -19816,7 +20142,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1351,
+    "id": 1372,
     "isValidated": false,
     "title": "Espanol Para Extranjeros Nivel Basico",
     "country": "Colombia",
@@ -19829,7 +20155,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1352,
+    "id": 1373,
     "isValidated": false,
     "title": "Espanol Para Extranjeros Nivel Basico",
     "country": "Colombia",
@@ -19844,7 +20170,7 @@
     "group": "7c84be93"
   },
   {
-    "id": 1353,
+    "id": 1374,
     "isValidated": false,
     "title": "Red Inteligente de Estaciones Terrenas - ADSGS",
     "country": "Colombia",
@@ -19857,7 +20183,7 @@
     "group": "3a424f06"
   },
   {
-    "id": 1354,
+    "id": 1375,
     "isValidated": false,
     "title": "Introducción a la Ingeniería Espacial",
     "country": "Colombia",
@@ -19870,7 +20196,7 @@
     "group": "3a424f06"
   },
   {
-    "id": 1355,
+    "id": 1376,
     "isValidated": true,
     "title": "Estaciones Terrenas - Seguimiento y Rastreo de Pequeños Satelites",
     "country": "Colombia",
@@ -19885,7 +20211,7 @@
     "group": "3a424f06"
   },
   {
-    "id": 1356,
+    "id": 1377,
     "isValidated": false,
     "title": "Seguimiento de órbitas LEO",
     "country": "España",
@@ -19898,7 +20224,7 @@
     "group": "3a424f06"
   },
   {
-    "id": 1357,
+    "id": 1378,
     "isValidated": false,
     "title": "Análisis histórico de las necesidades de agua del cultivo de la papa en la región central de Boyacá",
     "country": "Colombia",
@@ -19915,7 +20241,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1358,
+    "id": 1379,
     "isValidated": false,
     "title": "Análisis histórico de las necesidades de agua del cultivo de la papa en la región central de Boyacá",
     "country": "Colombia",
@@ -19932,7 +20258,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1359,
+    "id": 1380,
     "isValidated": false,
     "title": "Análisis histórico de las necesidades de agua del cultivo de la papa en la región central de Boyacá",
     "country": "Colombia",
@@ -19949,7 +20275,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1360,
+    "id": 1381,
     "isValidated": false,
     "title": "Análisis histórico de las necesidades de agua del cultivo de la papa en la región central de Boyacá",
     "country": "Colombia",
@@ -19966,7 +20292,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1361,
+    "id": 1382,
     "isValidated": false,
     "title": "Análisis histórico de las necesidades de agua del cultivo de la papa en la región central de Boyacá",
     "country": "Colombia",
@@ -19982,7 +20308,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1362,
+    "id": 1383,
     "isValidated": false,
     "title": "Hacia la transformación de la clase de matemáticas",
     "country": "Colombia",
@@ -19997,7 +20323,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1363,
+    "id": 1384,
     "isValidated": false,
     "title": "La arqueología matemática. Estudios históricos, epistemólogicos y fenomenológicos",
     "country": "Colombia",
@@ -20015,7 +20341,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1364,
+    "id": 1385,
     "isValidated": false,
     "title": "La arqueología matemática. Estudios históricos, epistemólogicos y fenomenológicos",
     "country": "Colombia",
@@ -20033,7 +20359,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1365,
+    "id": 1386,
     "isValidated": true,
     "title": "MUJERES EN LA INVESTIGACIÓN MATEMÁTICA, ESCENARIOS DE VISIBILIZACIÓN",
     "country": "Colombia",
@@ -20046,7 +20372,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1366,
+    "id": 1387,
     "isValidated": false,
     "title": "Aconteceres en el aula de Matemática",
     "country": "Colombia",
@@ -20061,7 +20387,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1367,
+    "id": 1388,
     "isValidated": true,
     "title": "La cognición y la enseñanza del concepto de diferencial, desde la teoría APO",
     "country": "Colombia",
@@ -20074,7 +20400,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1368,
+    "id": 1389,
     "isValidated": true,
     "title": "El conocimiento didáctico matemático del profesor universitario",
     "country": "Colombia",
@@ -20087,7 +20413,7 @@
     "group": "63ea43ae"
   },
   {
-    "id": 1369,
+    "id": 1390,
     "isValidated": false,
     "title": "Leyenda Nacional De Coberturas De La Tierra Metodología Corine Land Cover Adaptada Para",
     "country": "Colombia",
@@ -20105,7 +20431,7 @@
     "group": "54bf20f3"
   },
   {
-    "id": 1370,
+    "id": 1391,
     "isValidated": false,
     "title": "Análisis De Vacíos Y Omisiones En Conservación De La Biodiversidad Terrestre De",
     "country": "México",
@@ -20121,7 +20447,7 @@
     "group": "54bf20f3"
   },
   {
-    "id": 1371,
+    "id": 1392,
     "isValidated": false,
     "title": "Guía Ilustrada De Géneros De Melastomataceae Y Memecylaceae De",
     "country": "Colombia",
@@ -20135,7 +20461,7 @@
     "group": "54bf20f3"
   },
   {
-    "id": 1372,
+    "id": 1393,
     "isValidated": false,
     "title": "Las aguas de la Orinoquía",
     "country": "Colombia",
@@ -20148,7 +20474,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1373,
+    "id": 1394,
     "isValidated": true,
     "title": "GASES DE EFECTO INVERNADERO: PROPUESTA DE CÁLCULO DEL FACTOR DE EMISIONES DE GAS METANO PROCEDENTE DE LA EXTRACCION DEL CARBON",
     "country": "Colombia",
@@ -20161,7 +20487,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1374,
+    "id": 1395,
     "isValidated": true,
     "title": "GAS ASOCIADO AL CARBON, GEOLOGIA, CONTENIDOS, RESERVAS, MINERIA Y POSIBILIDADES EN",
     "country": "COLOMBIA",
@@ -20174,7 +20500,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1375,
+    "id": 1396,
     "isValidated": true,
     "title": "DIATOMITAS Geología, caracterización y potencial uso industrial (Boyacá,",
     "country": "Colombia",
@@ -20188,7 +20514,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1376,
+    "id": 1397,
     "isValidated": true,
     "title": "DIATOMITAS Geología, caracterización y potencial uso industrial (Boyacá,",
     "country": "Colombia",
@@ -20202,7 +20528,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1377,
+    "id": 1398,
     "isValidated": false,
     "title": "Educación Y Trabajo. Sistematización De Programas Innovadores:  Una Mirada Analítica Desde La Práctica De Las Experiencias",
     "country": "Colombia",
@@ -20215,7 +20541,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1378,
+    "id": 1399,
     "isValidated": false,
     "title": "Memorias De La Primera Conferencia Internacional De Cambio Climatico: Impacto En Los Ecosistemas De Alta Montaña",
     "country": "Colombia",
@@ -20228,7 +20554,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1379,
+    "id": 1400,
     "isValidated": false,
     "title": "Entorno Natural De 17 Ciudades De",
     "country": "Colombia",
@@ -20241,7 +20567,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1380,
+    "id": 1401,
     "isValidated": false,
     "title": "Aplicacion de sondeo electrico vertical a la busqueda de aguas subterraneas en el municipio de Duitama Boyacà",
     "country": "Colombia",
@@ -20254,7 +20580,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1381,
+    "id": 1402,
     "isValidated": false,
     "title": "Memorias X Congreso",
     "country": "Colombia",
@@ -20267,7 +20593,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1382,
+    "id": 1403,
     "isValidated": false,
     "title": "Estudio para el aprovechamiento de la energía eolica como fuente alternativa de energía en el oriente cubano",
     "country": "Colombia",
@@ -20280,7 +20606,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1383,
+    "id": 1404,
     "isValidated": false,
     "title": "PREVENCIÓN DE RIESGOS AMBIENTALES POR MEDIO DE ESTUDIOS CON ACELERÓGRAFOS EN CANTERAS DE CALIZA DE NOBSA Y SOGAMOSO, EN BOYACÁ,",
     "country": "COLOMBIA",
@@ -20293,7 +20619,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1384,
+    "id": 1405,
     "isValidated": false,
     "title": "Resultados de geofísica de pozos para comprobar anomalias gravimetricas durante la prospección petrolera en la cuenca central de Cuba",
     "country": "México",
@@ -20306,7 +20632,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1385,
+    "id": 1406,
     "isValidated": false,
     "title": "PREVENCIÓN DE RIESGOS AMBIENTALES POR MEDIO DE ESTUDIOS CON ACELERÓGRAFOS EN CANTERAS DE CALIZA DE NOBSA Y SOGAMOSO, EN BOYACÁ,",
     "country": "COLOMBIA",
@@ -20319,7 +20645,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1386,
+    "id": 1407,
     "isValidated": false,
     "title": "Memorias X Congreso",
     "country": "Colombia",
@@ -20332,7 +20658,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1387,
+    "id": 1408,
     "isValidated": false,
     "title": "Memorias X Congreso",
     "country": "Colombia",
@@ -20345,7 +20671,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1388,
+    "id": 1409,
     "isValidated": false,
     "title": "Aplicaciones De La Geoelectrica Y La Sismica De Refracción En La Construccion De Una Presa En La Vereda Toibita, Paipa, Boyaca,",
     "country": "Colombia",
@@ -20358,7 +20684,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1389,
+    "id": 1410,
     "isValidated": false,
     "title": "Memorias Del Congreso X Congreso, V Seminario",
     "country": "Colombia",
@@ -20373,7 +20699,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1390,
+    "id": 1411,
     "isValidated": false,
     "title": "Utilización Del Metodo Geofisico De Sondeo Electrico Vertical De Polarización Inducida En Las Investigaciones Geologicas Y Mineras",
     "country": "Brasil",
@@ -20386,7 +20712,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1391,
+    "id": 1412,
     "isValidated": false,
     "title": "Resumenes Viii Congreso Latinoamericano De Botánica Y Ii Congreso",
     "country": "Colombia",
@@ -20400,7 +20726,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1392,
+    "id": 1413,
     "isValidated": false,
     "title": "Charlas A La Intemperie. Un Estudio Sobre Las Sensibilidades Y Estéticas De La Modernidad Y La Posmodernidad",
     "country": "Colombia",
@@ -20413,7 +20739,7 @@
     "group": "965b1ee6"
   },
   {
-    "id": 1393,
+    "id": 1414,
     "isValidated": false,
     "title": "Sentido Y Cultura: Realidad De La Escuela Rural",
     "country": "Colombia",
@@ -20432,7 +20758,7 @@
     "group": "d4f84355"
   },
   {
-    "id": 1394,
+    "id": 1415,
     "isValidated": false,
     "title": "Sentido Y Cultura: Realidad De La Escuela Rural",
     "country": "Colombia",
@@ -20445,7 +20771,7 @@
     "group": "d4f84355"
   },
   {
-    "id": 1395,
+    "id": 1416,
     "isValidated": false,
     "title": "Trayectorias y aprendizajes. Veinte años del Programa Escuelas Normales",
     "country": "Colombia",
@@ -20458,7 +20784,7 @@
     "group": "69c24ab5"
   },
   {
-    "id": 1396,
+    "id": 1417,
     "isValidated": true,
     "title": "La revisión documental en investigación musical. Algunas experiencias",
     "country": "Colombia",
@@ -20471,7 +20797,7 @@
     "group": "69c24ab5"
   },
   {
-    "id": 1397,
+    "id": 1418,
     "isValidated": true,
     "title": "Música y sociedad. Reflexión en torno del paisaje sonoro y la semiótica del sonido, a partir de una experiencia pedagógico musical",
     "country": "Colombia",
@@ -20486,7 +20812,7 @@
     "group": "69c24ab5"
   },
   {
-    "id": 1398,
+    "id": 1419,
     "isValidated": true,
     "title": "Música y sociedad. Reflexión en torno del paisaje sonoro y la semiótica del sonido, a partir de una experiencia pedagógico musical",
     "country": "Colombia",
@@ -20501,7 +20827,7 @@
     "group": "69c24ab5"
   },
   {
-    "id": 1399,
+    "id": 1420,
     "isValidated": true,
     "title": "Evaluación de la Titulaciones de Licenciatura en Música en",
     "country": "Colombia",
@@ -20514,7 +20840,7 @@
     "group": "69c24ab5"
   },
   {
-    "id": 1400,
+    "id": 1421,
     "isValidated": true,
     "title": "Contexto Escolar e Inteligencia Emocional en Instituciones Educativas Públicas del Ámbito Rural y Urbano del Departamento de Boyacá (Colombia)",
     "country": "Colombia",
@@ -20527,7 +20853,7 @@
     "group": "69c24ab5"
   },
   {
-    "id": 1401,
+    "id": 1422,
     "isValidated": false,
     "title": "Boyacá en sus papeles. Dos siglos de documentos históricos",
     "country": "Colombia",
@@ -20540,7 +20866,7 @@
     "group": "0011038c"
   },
   {
-    "id": 1402,
+    "id": 1423,
     "isValidated": false,
     "title": "Revolucionarios y realistas en la provincia de Tunja",
     "country": "Colombia",
@@ -20553,7 +20879,7 @@
     "group": "0011038c"
   },
   {
-    "id": 1403,
+    "id": 1424,
     "isValidated": false,
     "title": "Revolucionarios y realistas en la Provincia de Tunja",
     "country": "Colombia",
@@ -20566,7 +20892,7 @@
     "group": "0011038c"
   },
   {
-    "id": 1404,
+    "id": 1425,
     "isValidated": false,
     "title": "Las batallas de Boyacá. Hombres, mujeres, experiencias",
     "country": "Colombia",
@@ -20579,7 +20905,7 @@
     "group": "0011038c"
   },
   {
-    "id": 1405,
+    "id": 1426,
     "isValidated": false,
     "title": "El Siglo diecinueve",
     "country": "Colombia",
@@ -20597,7 +20923,7 @@
     "group": "0011038c"
   },
   {
-    "id": 1406,
+    "id": 1427,
     "isValidated": true,
     "title": "MANEJO AGROECOLOGICO DE LA NUTRICIÓN EN EL CULTIVO DEL CACAO",
     "country": "México",
@@ -20612,7 +20938,7 @@
     "group": "9eef1e7d"
   },
   {
-    "id": 1407,
+    "id": 1428,
     "isValidated": true,
     "title": "APLICACIÓN DE METODOLOGIAS DE LEVANTAMEINTO DE SUELOS Y COBERTURAS CON FINES DE ORDENAMIENTO TERRITORIAL CASO MICROCUENCA QUEBRADA MECHA",
     "country": "Colombia",
@@ -20627,7 +20953,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1408,
+    "id": 1429,
     "isValidated": true,
     "title": "APLICACIÓN DE METODOLOGIAS DE LEVANTAMEINTO DE SUELOS Y COBERTURAS CON FINES DE ORDENAMIENTO TERRITORIAL CASO MICROCUENCA QUEBRADA MECHA",
     "country": "Colombia",
@@ -20642,7 +20968,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1409,
+    "id": 1430,
     "isValidated": true,
     "title": "APLICACIÓN DE METODOLOGIAS DE LEVANTAMEINTO DE SUELOS Y COBERTURAS CON FINES DE ORDENAMIENTO TERRITORIAL CASO MICROCUENCA QUEBRADA MECHA",
     "country": "Colombia",
@@ -20657,7 +20983,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1410,
+    "id": 1431,
     "isValidated": true,
     "title": "PARAMO SOILS IN BOYACA POTENTIAL ECOSYSTEMS FOR CARBON CAPTURE",
     "country": "Colombia",
@@ -20673,7 +20999,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1411,
+    "id": 1432,
     "isValidated": true,
     "title": "PARAMO SOILS IN BOYACA POTENTIAL ECOSYSTEMS FOR CARBON CAPTURE",
     "country": "Colombia",
@@ -20689,7 +21015,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1412,
+    "id": 1433,
     "isValidated": true,
     "title": "SUELOS DE LOS PARAMOS DE BOYACA ECOSISTEMAS POTENCIALES PARA LA CAPTURA DE CARBONO",
     "country": "Colombia",
@@ -20705,7 +21031,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1413,
+    "id": 1434,
     "isValidated": true,
     "title": "SUELOS DE LOS PARAMOS DE BOYACA ECOSISTEMAS POTENCIALES PARA LA CAPTURA DE CARBONO",
     "country": "Colombia",
@@ -20721,7 +21047,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1414,
+    "id": 1435,
     "isValidated": false,
     "title": "PARAMO SOILS IN BOYACA POTENTIAL ECOSYSTEMS FOR CARBON CAPTURE",
     "country": "Colombia",
@@ -20735,7 +21061,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1415,
+    "id": 1436,
     "isValidated": false,
     "title": "SUELOS DE LOS PARAMOS DE BOYACA ECOSISTEMAS POTENCIALES PARA LA CAPTURA DE CARBONO",
     "country": "Colombia",
@@ -20749,7 +21075,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1416,
+    "id": 1437,
     "isValidated": true,
     "title": "DINAMICA DEL PÁRAMO COMO ESPACIO PARA LA CAPTURA DE CARBONO",
     "country": "Colombia",
@@ -20763,7 +21089,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1417,
+    "id": 1438,
     "isValidated": true,
     "title": "DINAMICA DEL PÁRAMO COMO ESPACIO PARA LA CAPTURA DE CARBONO",
     "country": "Colombia",
@@ -20778,7 +21104,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1418,
+    "id": 1439,
     "isValidated": false,
     "title": "MANUAL DE VITICULTURA TROPICAL",
     "country": "Colombia",
@@ -20793,7 +21119,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1419,
+    "id": 1440,
     "isValidated": false,
     "title": "Manual  De Viticultura Tropical",
     "country": "Colombia",
@@ -20808,7 +21134,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1420,
+    "id": 1441,
     "isValidated": true,
     "title": "Cultivo De Arracacha (Arracacia Xanthorrhiza Bancroft) En Los Municipios De Turmequé Y Boyacá",
     "country": "Colombia",
@@ -20822,7 +21148,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1421,
+    "id": 1442,
     "isValidated": false,
     "title": "efecto del desnuque y la aplicación de citoquininas en el desarrollo de rosa sp",
     "country": "Colombia",
@@ -20835,7 +21161,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1422,
+    "id": 1443,
     "isValidated": false,
     "title": "Tecnicas Para La Determinacion De Moleculas Bioactivas De Extractos De Plantas Para La Formulaion De Bioplaguicidas",
     "country": "Colombia",
@@ -20852,7 +21178,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1423,
+    "id": 1444,
     "isValidated": false,
     "title": "Aproximación Al Reconocimiento De Árras Susceptibles A Heladas En El Departamento De Boyacá",
     "country": "Colombia",
@@ -20867,7 +21193,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1424,
+    "id": 1445,
     "isValidated": false,
     "title": "Diagnóstico de los residuos de cosecha en la zona central papera del departamento de Boyacá.",
     "country": "Colombia",
@@ -20881,7 +21207,7 @@
     "group": "8002f636"
   },
   {
-    "id": 1425,
+    "id": 1446,
     "isValidated": false,
     "title": "Emprendimiento desde un enfoque STEAM: Cojines del Zaque",
     "country": "Colombia",
@@ -20896,7 +21222,7 @@
     "group": "bd0642aa"
   },
   {
-    "id": 1426,
+    "id": 1447,
     "isValidated": false,
     "title": "Gestión para el desarrollo organizacional: estudios de casos",
     "country": "Colombia",
@@ -20915,7 +21241,7 @@
     "group": "bd0642aa"
   },
   {
-    "id": 1427,
+    "id": 1448,
     "isValidated": false,
     "title": "Educacion Y Entorno En La Ingenieria Agronomica",
     "country": "Colombia",

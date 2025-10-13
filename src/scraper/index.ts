@@ -10,6 +10,7 @@ import getProjects from "./extractors/getProjects.js";
 async function main() {
   console.clear();
 
+  // BUG: No usar todos los getters de la info al mismo tiempo, puede caer la pagina o saturar el programa, se recomienda ir uno a uno o de 2 en 2.
   const groups = await getGroupsData();
   const members = await getMembers();
   const articles = await getArticles();

@@ -3,6 +3,10 @@ import { envConfig } from "../config/env.config.js";
 import seedGroups from "./handlers/groups.seed.js";
 import chalk from "chalk";
 import seedMembers from "./handlers/members.seed.js";
+import seedArticles from "./handlers/articles.seed.js";
+import seedBooks from "./handlers/books.seed.js";
+import seedSoftwares from "./handlers/softwares.seed.js";
+import seedProjects from "./handlers/projects.seed.js";
 
 const uri = envConfig.mongo_uri;
 
@@ -17,6 +21,10 @@ async function seedDatabase() {
 
     await seedGroups();
     await seedMembers();
+    await seedArticles();
+    await seedBooks();
+    await seedSoftwares();
+    await seedProjects();
 
     console.log(chalk.green("\n✓ Database updated"));
 
