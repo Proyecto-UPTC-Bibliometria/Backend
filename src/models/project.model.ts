@@ -8,7 +8,7 @@ const projectSchema = new mongoose.Schema(
     startDate: { type: Date, required: true },
     endDate: { type: Date, required: false },
     status: { type: String, required: false },
-    group: { type: String, required: true },
+    group: { type: String, ref: "Group", required: true },
   },
   { timestamps: false, versionKey: false }
 );

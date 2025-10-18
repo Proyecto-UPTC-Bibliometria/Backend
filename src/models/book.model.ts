@@ -10,7 +10,7 @@ const bookSchema = new mongoose.Schema(
     isbn: { type: String, required: false },
     publisher: { type: String, required: false },
     authors: { type: [String], required: true },
-    group: { type: String, required: true },
+    group: { type: String, ref: "Group", required: true },
   },
   { timestamps: false, versionKey: false }
 );

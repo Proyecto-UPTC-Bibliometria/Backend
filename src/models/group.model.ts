@@ -48,7 +48,25 @@ groupSchema.virtual("members", {
 groupSchema.virtual("articles", {
   ref: "Article",
   localField: "groupId",
-  foreignField: "groupId",
+  foreignField: "group",
+});
+
+groupSchema.virtual("books", {
+  ref: "Book",
+  localField: "groupId",
+  foreignField: "group",
+});
+
+groupSchema.virtual("softwares", {
+  ref: "Software",
+  localField: "groupId",
+  foreignField: "group",
+});
+
+groupSchema.virtual("projects", {
+  ref: "Project",
+  localField: "groupId",
+  foreignField: "group",
 });
 
 export default mongoose.model("Group", groupSchema);

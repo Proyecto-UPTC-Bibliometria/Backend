@@ -12,7 +12,7 @@ const softwareSchema = new mongoose.Schema(
     projectName: { type: String, required: false },
     fundingInstitution: { type: String, required: false },
     authors: { type: [String], required: true },
-    group: { type: String, required: true },
+    group: { type: String, ref: "Group", required: true },
   },
   { timestamps: false, versionKey: false }
 );

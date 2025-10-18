@@ -5,6 +5,10 @@ import { envConfig } from "./config/env.config.js";
 
 const port = envConfig.port || 4000;
 
+// TODO: Hacer los virtual de la coleccion groups para mostrar tambien las publicaciones de cada grupo.
+// TODO: Paginar los resultados de la api para mejorar el performance de esta. (Considerar usar redis despues de optimizar la api con la paginación).
+// TODO: Considerar hacer populate falsos para mostrar info parcial en colecciones como miembros o publicaciones.
+
 async function startServer() {
   try {
     console.clear();

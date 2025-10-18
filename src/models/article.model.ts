@@ -14,7 +14,7 @@ const articleSchema = new mongoose.Schema(
     pages: { type: String, required: false },
     doi: { type: String, required: false },
     authors: { type: [String], required: true },
-    group: { type: String, required: true },
+    group: { type: String, ref: "Group", required: true },
   },
   { timestamps: false, versionKey: false }
 );
