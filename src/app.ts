@@ -7,11 +7,12 @@ import articlesRouter from "./routes/articles.route.js";
 import booksRouter from "./routes/books.route.js";
 import softwaresRouter from "./routes/softwares.route.js";
 import projectsRouter from "./routes/projects.route.js";
+import { compress } from "./middlewares/compression.middleware.js";
 
 const app = express();
 const route = "/api";
 
-app.use([cors({ origin: "*" }), logger("dev"), express.json()]);
+app.use([cors({ origin: "*" }), logger("dev"), express.json(), compress]);
 
 app.use(route, groupsRouter);
 app.use(route, membersRouter);

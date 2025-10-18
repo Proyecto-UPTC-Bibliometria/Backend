@@ -15,6 +15,7 @@
   "author": "Sebastian Fernando Lozano Bello",
   "packageManager": "pnpm@10.10.0",
   "devDependencies": {
+    "@types/compression": "^1.8.1",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.3",
     "@types/morgan": "^1.9.10",
@@ -24,10 +25,12 @@
   },
   "dependencies": {
     "chalk": "^5.4.1",
+    "compression": "^1.8.1",
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
     "mongoose": "^8.16.4",
+    "mongoose-aggregate-paginate-v2": "^1.1.4",
     "morgan": "^1.10.1",
     "playwright": "^1.54.1",
     "redis": "^5.8.2"
