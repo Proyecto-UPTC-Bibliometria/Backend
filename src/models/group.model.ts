@@ -1,4 +1,7 @@
 import mongoose from "mongoose";
+import Group, { GroupDocument } from "../interfaces/group.interface";
+import mongoosePaginate from "mongoose-paginate-v2";
+import ModelDocument from "../interfaces/auxiliars/ModelDocument.interface";
 
 const groupSchema = new mongoose.Schema(
   {
@@ -69,4 +72,9 @@ groupSchema.virtual("projects", {
   foreignField: "group",
 });
 
-export default mongoose.model("Group", groupSchema);
+groupSchema.plugin(mongoosePaginate);
+
+export default mongoose.model<Group, ModelDocument<GroupDocument>>(
+  "Group",
+  groupSchema
+);

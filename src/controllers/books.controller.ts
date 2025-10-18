@@ -8,7 +8,9 @@ export async function getAllBooks(
   next: NextFunction
 ) {
   try {
-    const books = await findAllBooks();
+    const page = parseInt(req.query.page as string) || 1;
+
+    const books = await findAllBooks(page);
 
     if (!books || books.length === 0) throw new NotFoundError("No books found");
 

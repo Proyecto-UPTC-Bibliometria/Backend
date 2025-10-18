@@ -8,7 +8,9 @@ export async function getAllGroups(
   next: NextFunction
 ) {
   try {
-    const groups = await findAllGroups();
+    const page = parseInt(req.query.page as string) || 1;
+
+    const groups = await findAllGroups(page);
 
     if (!groups || groups.length === 0)
       throw new NotFoundError("No groups found");

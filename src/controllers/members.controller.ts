@@ -8,7 +8,9 @@ export async function getAllMembers(
   next: NextFunction
 ) {
   try {
-    const members = await findAllMembers();
+    const page = parseInt(req.query.page as string) || 1;
+
+    const members = await findAllMembers(page);
 
     if (!members || members.length === 0)
       throw new NotFoundError("No members found");

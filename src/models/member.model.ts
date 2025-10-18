@@ -1,4 +1,7 @@
 import mongoose from "mongoose";
+import mongoosePaginate from "mongoose-paginate-v2";
+import { MemberDocument } from "../interfaces/member.interface";
+import ModelDocument from "../interfaces/auxiliars/ModelDocument.interface";
 
 const memberSchema = new mongoose.Schema(
   {
@@ -23,4 +26,9 @@ const memberSchema = new mongoose.Schema(
   { timestamps: false, versionKey: false }
 );
 
-export default mongoose.model("Member", memberSchema);
+memberSchema.plugin(mongoosePaginate);
+
+export default mongoose.model<MemberDocument, ModelDocument<MemberDocument>>(
+  "Member",
+  memberSchema
+);

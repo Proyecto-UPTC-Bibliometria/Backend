@@ -11,7 +11,9 @@ export async function getAllArticles(
   next: NextFunction
 ) {
   try {
-    const articles = await findAllArticles();
+    const page = parseInt(req.query.page as string) || 1;
+
+    const articles = await findAllArticles(page);
 
     if (!articles || articles.length === 0)
       throw new NotFoundError("No articles found");

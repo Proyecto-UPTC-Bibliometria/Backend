@@ -73,7 +73,7 @@ export default function parseGroupsData(
     const knowledgeArea = getTextContent(column, 9);
     const mainScienceProgram = getTextContent(column, 10);
     const secondaryScienceProgram = getTextContent(column, 11);
-    const location = {
+    const groupLocation = {
       department,
       city,
     };
@@ -83,7 +83,7 @@ export default function parseGroupsData(
       name: name,
       groupId: hexId(name, 8),
       formationDate,
-      location,
+      groupLocation,
       leader,
       isCertified,
       website: website === "null" ? "" : website,

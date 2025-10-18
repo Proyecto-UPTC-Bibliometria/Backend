@@ -16,3 +16,5 @@ export default interface Article {
   authors: string[];
   group: string;
 }
+
+export interface ArticleDocument extends Article, Document {}

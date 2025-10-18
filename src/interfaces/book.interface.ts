@@ -12,3 +12,5 @@ export default interface Book {
   authors: string[];
   group: string;
 }
+
+export interface BookDocument extends Book, Document {}

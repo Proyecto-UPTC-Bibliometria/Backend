@@ -1,11 +1,10 @@
 import bookModel from "../models/book.model.js";
+import { paginateOptions } from "../utils/paginateOptions.js";
 
-export async function findAllBooks() {
-  const foundBooks = await bookModel
-    .find()
-    .select("-_id")
-    .sort({ id: 1 })
-    .lean();
+export async function findAllBooks(page: number) {
+  const options = { ...paginateOptions, page };
+
+  const foundBooks = await bookModel.paginate({}, options);
 
   return foundBooks;
 }

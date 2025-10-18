@@ -9,3 +9,5 @@ export default interface Member {
   cvUrl?: string;
   groups: MemberGroups[];
 }
+
+export interface MemberDocument extends Member, Document {}

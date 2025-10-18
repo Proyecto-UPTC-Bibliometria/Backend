@@ -1,13 +1,11 @@
 import groupModel from "../models/group.model.js";
 import { groupsPopulate } from "../populate/groups.populate.js";
+import { paginateOptions } from "../utils/paginateOptions.js";
 
-export async function findAllGroups() {
-  const foundGroups = await groupModel
-    .find()
-    .populate(groupsPopulate)
-    .select("-_id")
-    .sort({ id: 1 })
-    .lean();
+export async function findAllGroups(page: number) {
+  const options = { ...paginateOptions, page, populate: groupsPopulate };
+
+  const foundGroups = await groupModel.paginate({}, options);
 
   return foundGroups;
 }

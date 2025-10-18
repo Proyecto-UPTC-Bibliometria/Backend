@@ -1,4 +1,7 @@
 import mongoose from "mongoose";
+import mongoosePaginate from "mongoose-paginate-v2";
+import { ArticleDocument } from "../interfaces/article.interface";
+import ModelDocument from "../interfaces/auxiliars/ModelDocument.interface";
 
 const articleSchema = new mongoose.Schema(
   {
@@ -19,4 +22,9 @@ const articleSchema = new mongoose.Schema(
   { timestamps: false, versionKey: false }
 );
 
-export default mongoose.model("Article", articleSchema);
+articleSchema.plugin(mongoosePaginate);
+
+export default mongoose.model<ArticleDocument, ModelDocument<ArticleDocument>>(
+  "Article",
+  articleSchema
+);

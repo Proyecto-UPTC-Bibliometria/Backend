@@ -1,4 +1,7 @@
 import mongoose from "mongoose";
+import mongoosePaginate from "mongoose-paginate-v2";
+import { SoftwareDocument } from "../interfaces/software.interface";
+import ModelDocument from "../interfaces/auxiliars/ModelDocument.interface";
 
 const softwareSchema = new mongoose.Schema(
   {
@@ -17,4 +20,9 @@ const softwareSchema = new mongoose.Schema(
   { timestamps: false, versionKey: false }
 );
 
-export default mongoose.model("Software", softwareSchema);
+softwareSchema.plugin(mongoosePaginate);
+
+export default mongoose.model<
+  SoftwareDocument,
+  ModelDocument<SoftwareDocument>
+>("Software", softwareSchema);

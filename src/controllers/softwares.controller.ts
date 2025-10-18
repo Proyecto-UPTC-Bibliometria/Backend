@@ -11,7 +11,9 @@ export async function getAllSoftwares(
   next: NextFunction
 ) {
   try {
-    const softwares = await findAllSoftwares();
+    const page = parseInt(req.query.page as string) || 1;
+
+    const softwares = await findAllSoftwares(page);
 
     if (!softwares || softwares.length === 0)
       throw new NotFoundError("No softwares found");

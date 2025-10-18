@@ -1,4 +1,7 @@
 import mongoose from "mongoose";
+import mongoosePaginate from "mongoose-paginate-v2";
+import { ProjectDocument } from "../interfaces/project.interface";
+import ModelDocument from "../interfaces/auxiliars/ModelDocument.interface";
 
 const projectSchema = new mongoose.Schema(
   {
@@ -13,4 +16,9 @@ const projectSchema = new mongoose.Schema(
   { timestamps: false, versionKey: false }
 );
 
-export default mongoose.model("Project", projectSchema);
+projectSchema.plugin(mongoosePaginate);
+
+export default mongoose.model<ProjectDocument, ModelDocument<ProjectDocument>>(
+  "Project",
+  projectSchema
+);

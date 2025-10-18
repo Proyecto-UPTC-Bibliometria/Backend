@@ -10,3 +10,5 @@ export default interface Project {
   status: string;
   group: string;
 }
+
+export interface ProjectDocument extends Project, Document {}

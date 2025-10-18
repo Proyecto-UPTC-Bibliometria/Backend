@@ -1,11 +1,10 @@
 import memberModel from "../models/member.model.js";
+import { paginateOptions } from "../utils/paginateOptions.js";
 
-export async function findAllMembers() {
-  const foundMembers = await memberModel
-    .find()
-    .select("-_id")
-    .sort({ id: 1 })
-    .lean();
+export async function findAllMembers(page: number) {
+  const options = { ...paginateOptions, page };
+
+  const foundMembers = await memberModel.paginate({}, options);
 
   return foundMembers;
 }

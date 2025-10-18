@@ -7,7 +7,7 @@ export default interface Group {
   groupId: string;
   name: string;
   formationDate: Date;
-  location: {
+  groupLocation: {
     department: string;
     city: string;
   };
@@ -22,6 +22,6 @@ export default interface Group {
   secondaryScienceProgram: string;
   strategicPlan: StrategicPlan;
   investigationLines: string[];
-  members?: mongoose.Types.ObjectId[] | null;
-  publications?: mongoose.Types.ObjectId[] | null;
 }
+
+export interface GroupDocument extends Group, Document {}

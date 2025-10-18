@@ -1,11 +1,10 @@
 import softwareModel from "../models/software.model.js";
+import { paginateOptions } from "../utils/paginateOptions.js";
 
-export async function findAllSoftwares() {
-  const foundSoftwares = await softwareModel
-    .find()
-    .select("-_id")
-    .sort({ id: 1 })
-    .lean();
+export async function findAllSoftwares(page: number) {
+  const options = { ...paginateOptions, page };
+
+  const foundSoftwares = await softwareModel.paginate({}, options);
 
   return foundSoftwares;
 }

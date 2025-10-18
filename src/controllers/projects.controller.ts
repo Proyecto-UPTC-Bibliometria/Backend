@@ -12,7 +12,9 @@ export async function getAllProjects(
   next: NextFunction
 ) {
   try {
-    const projects = await findAllProjects();
+    const page = parseInt(req.query.page as string) || 1;
+
+    const projects = await findAllProjects(page);
 
     if (!projects || projects.length === 0)
       throw new NotFoundError("No projects found");

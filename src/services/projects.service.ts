@@ -1,11 +1,10 @@
 import projectModel from "../models/project.model.js";
+import { paginateOptions } from "../utils/paginateOptions.js";
 
-export async function findAllProjects() {
-  const foundProjects = await projectModel
-    .find()
-    .select("-_id")
-    .sort({ id: 1 })
-    .lean();
+export async function findAllProjects(page: number) {
+  const options = { ...paginateOptions, page };
+
+  const foundProjects = await projectModel.paginate({}, options);
 
   return foundProjects;
 }

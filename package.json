@@ -18,6 +18,7 @@
     "@types/compression": "^1.8.1",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.3",
+    "@types/mongoose-paginate-v2": "^1.6.5",
     "@types/morgan": "^1.9.10",
     "@types/node": "^24.0.15",
     "tsc-watch": "^7.1.1",
@@ -30,7 +31,7 @@
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
     "mongoose": "^8.16.4",
-    "mongoose-aggregate-paginate-v2": "^1.1.4",
+    "mongoose-paginate-v2": "^1.9.1",
     "morgan": "^1.10.1",
     "playwright": "^1.54.1",
     "redis": "^5.8.2"

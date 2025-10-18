@@ -1,11 +1,10 @@
 import articleModel from "../models/article.model.js";
+import { paginateOptions } from "../utils/paginateOptions.js";
 
-export async function findAllArticles() {
-  const foundArticles = await articleModel
-    .find()
-    .select("-_id")
-    .sort({ id: 1 })
-    .lean();
+export async function findAllArticles(page: number) {
+  const options = { ...paginateOptions, page };
+
+  const foundArticles = await articleModel.paginate({}, options);
 
   return foundArticles;
 }

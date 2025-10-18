@@ -14,3 +14,5 @@ export default interface Software {
   authors: string[];
   group: string;
 }
+
+export interface SoftwareDocument extends Software, Document {}
