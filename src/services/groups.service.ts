@@ -47,10 +47,32 @@ export async function findAllGroups(page: number, filters?: GroupFilters) {
   return foundGroups;
 }
 
-export async function findAllGroupsLight(page: number) {
+export async function findAllGroupsLight(page: number, filters?: GroupFilters) {
   const options = { ...paginateOptions, page };
 
-  const foundGroups = await groupModel.paginate({}, options);
+  const query = buildQuery<GroupDocument>(filters || {}, GROUP_FILTER_CONFIG);
+
+  if (filters?.city) {
+    query["groupLocation.city"] = { $regex: filters.city, $options: "i" };
+  }
+  if (filters?.department) {
+    query["groupLocation.department"] = {
+      $regex: filters.department,
+      $options: "i",
+    };
+  }
+
+  if (filters?.formationDate) {
+    query.formationDate = {};
+    query.formationDate.$gte = new Date(
+      `${filters.formationDate}-01-01T00:00:00.000Z`
+    );
+    query.formationDate.$lte = new Date(
+      `${filters.formationDate}-12-31T23:59:59.999Z`
+    );
+  }
+
+  const foundGroups = await groupModel.paginate(query, options);
 
   return foundGroups;
 }
