@@ -10,6 +10,14 @@ export async function findAllGroups(page: number) {
   return foundGroups;
 }
 
+export async function findAllGroupsLight(page: number) {
+  const options = { ...paginateOptions, page };
+
+  const foundGroups = await groupModel.paginate({}, options);
+
+  return foundGroups;
+}
+
 export async function findGroupById(id: number) {
   const foundGroup = await groupModel
     .findOne({ id })

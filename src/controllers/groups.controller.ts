@@ -1,5 +1,9 @@
 import { NextFunction, Request, Response } from "express";
-import { findAllGroups, findGroupById } from "../services/groups.service.js";
+import {
+  findAllGroups,
+  findAllGroupsLight,
+  findGroupById,
+} from "../services/groups.service.js";
 import { NotFoundError } from "../utils/errors/custom/client.errors.js";
 
 export async function getAllGroups(
@@ -11,6 +15,28 @@ export async function getAllGroups(
     const page = parseInt(req.query.page as string) || 1;
 
     const groups = await findAllGroups(page);
+
+    if (!groups || groups.length === 0)
+      throw new NotFoundError("No groups found");
+
+    res.status(200).json(groups);
+  } catch (error) {
+    const typedError = error as Error;
+
+    console.error(typedError);
+    next(typedError);
+  }
+}
+
+export async function getAllGroupsLight(
+  req: Request,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const page = parseInt(req.query.page as string) || 1;
+
+    const groups = await findAllGroupsLight(page);
 
     if (!groups || groups.length === 0)
       throw new NotFoundError("No groups found");
