@@ -12,9 +12,21 @@ export async function getAllGroups(
   next: NextFunction
 ) {
   try {
-    const page = parseInt(req.query.page as string) || 1;
+    const { page, name, date, department, city, leader, certified, ranking } =
+      req.query;
+    const pageNumber = parseInt(page as string) || 1;
 
-    const groups = await findAllGroups(page);
+    const filters = {
+      name: name as string,
+      formationDate: date as string,
+      department: department as string,
+      city: city as string,
+      leader: leader as string,
+      isCertified: certified as any,
+      ranking: ranking as string,
+    };
+
+    const groups = await findAllGroups(pageNumber, filters);
 
     if (!groups || groups.length === 0)
       throw new NotFoundError("No groups found");

@@ -11,9 +11,33 @@ export async function getAllArticles(
   next: NextFunction
 ) {
   try {
-    const page = parseInt(req.query.page as string) || 1;
+    const {
+      page,
+      validated,
+      title,
+      country,
+      journal,
+      issn,
+      from,
+      to,
+      volume,
+      doi,
+    } = req.query;
+    const pageNumber = parseInt(page as string);
 
-    const articles = await findAllArticles(page);
+    const filters = {
+      isValidated: validated as any,
+      title: title as string,
+      country: country as string,
+      journal: journal as string,
+      issn: issn as string,
+      yearFrom: parseInt(from as string),
+      yearTo: parseInt(to as string),
+      volume: volume as string,
+      doi: doi as string,
+    };
+
+    const articles = await findAllArticles(pageNumber, filters);
 
     if (!articles || articles.length === 0)
       throw new NotFoundError("No articles found");

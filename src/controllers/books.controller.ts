@@ -8,9 +8,21 @@ export async function getAllBooks(
   next: NextFunction
 ) {
   try {
-    const page = parseInt(req.query.page as string) || 1;
+    const { page, validated, title, country, from, to, isbn, publisher } =
+      req.query;
+    const pageNumber = parseInt(page as string) || 1;
 
-    const books = await findAllBooks(page);
+    const filters = {
+      isValidated: validated as any,
+      title: title as string,
+      country: country as string,
+      yearFrom: parseInt(from as string),
+      yearTo: parseInt(to as string),
+      isbn: isbn as string,
+      publisher: publisher as string,
+    };
+
+    const books = await findAllBooks(pageNumber, filters);
 
     if (!books || books.length === 0) throw new NotFoundError("No books found");
 

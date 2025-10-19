@@ -11,9 +11,33 @@ export async function getAllSoftwares(
   next: NextFunction
 ) {
   try {
-    const page = parseInt(req.query.page as string) || 1;
+    const {
+      page,
+      validated,
+      type,
+      name,
+      country,
+      from,
+      to,
+      trade,
+      project,
+      institution,
+    } = req.query;
+    const pageNumber = parseInt(page as string) || 1;
 
-    const softwares = await findAllSoftwares(page);
+    const filters = {
+      isValidated: validated as any,
+      type: type as string,
+      name: name as string,
+      country: country as string,
+      yearFrom: parseInt(from as string),
+      yearTo: parseInt(to as string),
+      tradeName: trade as string,
+      projectName: project as string,
+      fundingInstitution: institution as string,
+    };
+
+    const softwares = await findAllSoftwares(pageNumber, filters);
 
     if (!softwares || softwares.length === 0)
       throw new NotFoundError("No softwares found");

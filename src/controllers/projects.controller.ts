@@ -1,5 +1,4 @@
 import { NextFunction, Request, Response } from "express";
-import { findAllMembers, findMemberById } from "../services/members.service.js";
 import { NotFoundError } from "../utils/errors/custom/client.errors.js";
 import {
   findAllProjects,
@@ -12,9 +11,16 @@ export async function getAllProjects(
   next: NextFunction
 ) {
   try {
-    const page = parseInt(req.query.page as string) || 1;
+    const { page, validated, name, status } = req.query;
+    const pageNumber = parseInt(page as string) || 1;
 
-    const projects = await findAllProjects(page);
+    const filters = {
+      isValidated: validated as any,
+      name: name as string,
+      status: status as string,
+    };
+
+    const projects = await findAllProjects(pageNumber, filters);
 
     if (!projects || projects.length === 0)
       throw new NotFoundError("No projects found");
