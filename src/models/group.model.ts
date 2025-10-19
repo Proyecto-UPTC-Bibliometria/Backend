@@ -9,7 +9,7 @@ const groupSchema = new mongoose.Schema(
     groupId: { type: String, unique: true, required: true },
     name: { type: String, required: true },
     formationDate: { type: Date, required: true },
-    location: {
+    groupLocation: {
       department: { type: String, required: false },
       city: { type: String, required: false },
     },
