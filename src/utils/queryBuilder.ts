@@ -24,7 +24,7 @@ export function buildQuery<T>(
         break;
       case "exact":
         (query as any)[fieldName] = {
-          $regex: value.replaceAll("%20", " "),
+          $regex: `^${value.replaceAll("%20", " ")}$`,
           $options: "i",
         };
         break;
